@@ -4,6 +4,9 @@ import pandas as pd
 
 API_URL = "https://golf.se/api/golf/clubs"
 
+SKRAP = ['Payex', 'GDF', 'SM-veckan', 'Proffstour', 
+         'Lettländska', 'Estländska', 'Litauiska', 'SGF']
+
 def get_all_courses():
     r = requests.get(API_URL, headers={"User-Agent": "Mozilla/5.0"})
     data = r.json()
@@ -11,11 +14,8 @@ def get_all_courses():
 
     courses = []
     for club in clubs:
-        # Hämta adress om den finns
         addresses = club.get("Addresses", [])
         address = addresses[0] if addresses else {}
-
-        # Hämta email om den finns
         emails = club.get("Emails", [])
         email = emails[0].get("EmailAddress") if emails else None
 
@@ -29,18 +29,19 @@ def get_all_courses():
             "id": club.get("id"),
         })
 
-    return courses
+    df = pd.DataFrame(courses)
+
+    # Filtrera till Sverige
+    df = df[df['country'].isna() | df['country'].str.contains('Sverige', na=False)]
+
+    # Ta bort administrativa poster
+    mask = ~df['name'].str.contains('|'.join(SKRAP), na=False)
+    df = df[mask].reset_index(drop=True)
+
+    return df
 
 if __name__ == "__main__":
-    courses = get_all_courses()
-
-    # Spara som JSON
-    with open("data/courses_raw.json", "w", encoding="utf-8") as f:
-        json.dump(courses, f, ensure_ascii=False, indent=2)
-
-    # Spara som CSV också
-    df = pd.DataFrame(courses)
+    df = get_all_courses()
     df.to_csv("data/courses_clean.csv", index=False, encoding="utf-8")
-
-    print(f"Sparade {len(courses)} klubbar")
-    print(df.head())
+    print(f"Sparade {len(df)} klubbar till data/courses_clean.csv")
+    print(df[['name', 'city']].head(10).to_string())
