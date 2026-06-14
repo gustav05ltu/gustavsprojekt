@@ -1,0 +1,4322 @@
+[
+  {
+    "name": "Upplands GDF (Payex)",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "c90bfb87-51c9-435c-b980-fa8543cc3280"
+  },
+  {
+    "name": "SoloGolf - GolfiSpanien",
+    "region": "",
+    "city": "EL ROMPIDO ( HUELVA)",
+    "postal_code": "21459",
+    "country": "Spanien",
+    "email": "katharina@golfispanien.se",
+    "id": "f42f50cb-0d8b-4a61-875e-7cdf7893d93b"
+  },
+  {
+    "name": "SPT Golf Club",
+    "region": "Tavira",
+    "city": "SANTO ESTEVAO",
+    "postal_code": "8800",
+    "country": "Portugal",
+    "email": null,
+    "id": "69e18188-b08d-4c0c-a32e-0a099cea7b86"
+  },
+  {
+    "name": "SM-veckan 2024 Södermanlands GDF",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "d2420cf7-b277-4cc7-9bad-6bb840261791"
+  },
+  {
+    "name": "Stockholms GDF (Payex)",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "610929d6-d141-456c-97b8-45a4119aa3c3"
+  },
+  {
+    "name": "Lettländska klubbar",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "25857e6f-7b86-40ab-9160-d289324a6dda"
+  },
+  {
+    "name": "Nordpoolen Golf SL",
+    "region": "",
+    "city": "MARBELLA",
+    "postal_code": "29601",
+    "country": "Spanien",
+    "email": "info@nordpoolen.nu",
+    "id": "7f594598-0a2c-4802-8bd0-169940d6e9c6"
+  },
+  {
+    "name": "SGF Svenska Proffstourerna (Payex)",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "ae8ea6d4-22f2-4285-9c97-5fc678ec3ecd"
+  },
+  {
+    "name": "Monday Weekly Golf Villamartin",
+    "region": "",
+    "city": "CHARLOTTENBERG",
+    "postal_code": "67331",
+    "country": "Sverige",
+    "email": null,
+    "id": "e55f9408-4f73-49ad-89f4-f927b0a34ba1"
+  },
+  {
+    "name": "Svenska Golfförbundet Tävling (Payex) ",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "9576762a-1c93-478e-b76b-0d26c332b312"
+  },
+  {
+    "name": "SM-veckan 2025 Dalarnas GDF",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "bbd5289c-a527-484b-8785-e1ab1a4d17d0"
+  },
+  {
+    "name": "Huddinge Golfklubb",
+    "region": "",
+    "city": "HUDDINGE",
+    "postal_code": "14140",
+    "country": "Sverige",
+    "email": "huddingegolf@gmail.com",
+    "id": "41134e6c-da18-46c7-a332-6a70b1a0a70b"
+  },
+  {
+    "name": "Hills Golfklubb",
+    "region": "",
+    "city": "MÖLNDAL",
+    "postal_code": "43151",
+    "country": "Sverige",
+    "email": "info@hillsgolfclub.se",
+    "id": "e6c09b49-06e6-4c5f-982f-2bc35a786e98"
+  },
+  {
+    "name": "Smålands GDF (PAYEX) ",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "5207c08e-7fc2-4fed-95f6-e3f6df11cdf2"
+  },
+  {
+    "name": "Gaston Golf",
+    "region": "",
+    "city": "TORREVIEJA",
+    "postal_code": "3183______",
+    "country": "Spanien",
+    "email": "pli@germundia.se",
+    "id": "2f95a24f-31f1-4005-b980-eb5f02c342b5"
+  },
+  {
+    "name": "Golfers Dream",
+    "region": "",
+    "city": "SALTSJÖBADEN",
+    "postal_code": "13335",
+    "country": "Sverige",
+    "email": "info@navitess.se",
+    "id": "d50bb20f-fd56-494b-9fad-f966d499a6c3"
+  },
+  {
+    "name": "Hallands GDF (Payex) Klubb",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "9f1a4045-9da1-47c0-a631-d951bf8a01b7"
+  },
+  {
+    "name": "Club Sueco Quesada",
+    "region": "",
+    "city": "ROJALES, ALICANTE",
+    "postal_code": "ES-03170__",
+    "country": "Spanien",
+    "email": "tavling@clubsueco.com",
+    "id": "a9384135-6a75-4c54-9d6e-0bccd2728ddb"
+  },
+  {
+    "name": "Estländska klubbar",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "f004bbea-8c35-41af-b8c8-3154b0154252"
+  },
+  {
+    "name": "Olympiagolfen - UTRÄTT UR SGF",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "f3e1b344-8b1e-4f43-bf61-4c8d4aa71ad3"
+  },
+  {
+    "name": "Litauiska klubbar",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "2a5658c8-124a-4a2d-bf11-0059b62df157"
+  },
+  {
+    "name": "Idrottshögskolans Golfklubb",
+    "region": "",
+    "city": "STOCKHOLM",
+    "postal_code": "11486",
+    "country": "Sverige",
+    "email": "anna.tiden@gih.se",
+    "id": "9fdfe1d3-7944-4606-bdcd-228e9564b1da"
+  },
+  {
+    "name": "Göteborgs GDF (PAYEX)",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "b5c931b8-6723-4e56-a730-72d8727ff1ec"
+  },
+  {
+    "name": "Grönhögen Golf Links - Utträde ur SGF",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "42170e15-bfc3-4071-8173-35c6d9caa583"
+  },
+  {
+    "name": "Golfens Gröna Kort",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "6b361663-fc25-4423-afba-97ebd2c52a1d"
+  },
+  {
+    "name": "GolfUppsala Allmänna Idrottsklubb",
+    "region": "Uppland",
+    "city": "UPPSALA",
+    "postal_code": "75591",
+    "country": "Sverige",
+    "email": "aik@golfuppsala.se",
+    "id": "b67997c0-4e88-4b14-bc56-1397504ad1af"
+  },
+  {
+    "name": "Bro Hof Golf förening",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "bdb49159-23fe-4f2f-bca6-5957eaf0486e"
+  },
+  {
+    "name": "PGA of Sweden (Payex)",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "7647d181-81c3-476e-8315-add59bd7441e"
+  },
+  {
+    "name": "Skånes GDF (PAYEX)",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "6656355c-7550-47e3-89a6-4ae6c8087780"
+  },
+  {
+    "name": "Veckefjärdens Golf Club",
+    "region": "",
+    "city": "ÖRNSKÖLDSVIK",
+    "postal_code": "89130",
+    "country": "Sverige",
+    "email": "kontakt@veckefjarden.com",
+    "id": "1690af60-d866-40de-824a-baca9f507ddc"
+  },
+  {
+    "name": "Vimmerby Golfklubb",
+    "region": "",
+    "city": "VIMMERBY",
+    "postal_code": "59830",
+    "country": "Sverige",
+    "email": "info@vimmerbygk.se",
+    "id": "a29e706c-c8e4-47db-bc5b-6479d747ea66"
+  },
+  {
+    "name": "Viksjö Golfklubb",
+    "region": "",
+    "city": "JÄRFÄLLA",
+    "postal_code": "17545",
+    "country": "Sverige",
+    "email": "kansli@viksjogk.se",
+    "id": "353506ba-6805-4fff-b2d9-f9093ac317d8"
+  },
+  {
+    "name": "Vallgårdens Golfklubb Åkarp",
+    "region": "",
+    "city": "ÅKARP",
+    "postal_code": "23252",
+    "country": "Sverige",
+    "email": "kansli@vallgardensgk.se",
+    "id": "921c47ae-5b32-4b2c-ad84-cc0e5d2c86bb"
+  },
+  {
+    "name": "Särö Golf Club",
+    "region": "Göteborg",
+    "city": "SÄRÖ",
+    "postal_code": "42943",
+    "country": "Sverige",
+    "email": "kansli@sarogc.se",
+    "id": "40ec0b6d-faec-4b82-a55b-572cd6860e65"
+  },
+  {
+    "name": "Solön Golfklubb - Utträtt ur SGF",
+    "region": "Dalarna",
+    "city": "SOLLERÖN",
+    "postal_code": "79290",
+    "country": "Sverige",
+    "email": "info@solongolfklubb.se",
+    "id": "8cf02a94-a547-4ce3-8cbd-9259ddddf08d"
+  },
+  {
+    "name": "SGF Juniortävlingar",
+    "region": "",
+    "city": "STOCKHOLM",
+    "postal_code": "11061",
+    "country": "Sverige",
+    "email": "juniortavling@golf.se",
+    "id": "dc6aeff7-bcca-4b9e-aef6-c2258fef2dde"
+  },
+  {
+    "name": "Äppelgårdens Golfklubb",
+    "region": "",
+    "city": "BÅSTAD",
+    "postal_code": "26996",
+    "country": "Sverige",
+    "email": "info@appelgarden.se",
+    "id": "435070db-b6e4-444f-a80c-9e08ab55aef5"
+  },
+  {
+    "name": "Åsele Nya Golfklubb",
+    "region": "",
+    "city": "ÅSELE",
+    "postal_code": "91932",
+    "country": "Sverige",
+    "email": "info@aselegk.com",
+    "id": "6b4e22b1-a4e6-4ba5-b9a6-58134dd20639"
+  },
+  {
+    "name": "Myra Golfklubb",
+    "region": "",
+    "city": "KUNGSBACKA",
+    "postal_code": "43498",
+    "country": "Sverige",
+    "email": "info@myragolf.se",
+    "id": "4aea3c4b-e5d8-456c-9b51-88bf0e96e918"
+  },
+  {
+    "name": "Valley Golfklubb",
+    "region": "",
+    "city": "MÖLNDAL",
+    "postal_code": "43190",
+    "country": "Sverige",
+    "email": "info@valleygk.se",
+    "id": "508000c7-5c4b-44f4-b02b-e0a8b6eaa725"
+  },
+  {
+    "name": "Lökeberg Golfklubb",
+    "region": "",
+    "city": "HÅLTA",
+    "postal_code": "44295",
+    "country": "Sverige",
+    "email": "info@lokeberggk.se",
+    "id": "5d20be36-dc57-446e-8d17-d7549f347647"
+  },
+  {
+    "name": "Luleå Golfklubb",
+    "region": "",
+    "city": "LULEÅ",
+    "postal_code": "97596",
+    "country": "Sverige",
+    "email": "kansli@luleagolf.se",
+    "id": "3aaaf47c-776c-49bb-a8af-71d7d3722882"
+  },
+  {
+    "name": "Lannalodge Golfresort",
+    "region": "",
+    "city": "VINTROSA",
+    "postal_code": "71993",
+    "country": "Sverige",
+    "email": "info@lannalodge.se",
+    "id": "e8f2b0f1-98e3-466c-8553-e5b2805456a9"
+  },
+  {
+    "name": "Lidköpings Golfklubb",
+    "region": "VÄSTERGÖTLAND",
+    "city": "LIDKÖPING",
+    "postal_code": "53170",
+    "country": "Sverige",
+    "email": "info@lidkopingsgk.se",
+    "id": "5a8d726e-6ec7-4cd4-8cb4-7bbb17608639"
+  },
+  {
+    "name": "Lidingö Golfklubb",
+    "region": "",
+    "city": "LIDINGÖ",
+    "postal_code": "18121",
+    "country": "Sverige",
+    "email": "kansli@lidingogk.se",
+    "id": "76890cbf-500e-4adf-ad26-6ae20e84e1fb"
+  },
+  {
+    "name": "Lanna Golfklubb",
+    "region": "",
+    "city": "BREDARYD",
+    "postal_code": "33010",
+    "country": "Sverige",
+    "email": "Lannagolfklubb@gmail.com",
+    "id": "968b0494-d055-4b27-87a3-5dd6f6ebdca7"
+  },
+  {
+    "name": "Lundsbergs Golfklubb",
+    "region": "",
+    "city": "STORFORS",
+    "postal_code": "68891",
+    "country": "Sverige",
+    "email": "golf@lundsbergsgk.com",
+    "id": "5aa9f9a3-3fe8-42be-a9c9-2219393b6261"
+  },
+  {
+    "name": "Norråva Golfklubb",
+    "region": "",
+    "city": "VÄRMDÖ",
+    "postal_code": "13990",
+    "country": "Sverige",
+    "email": "kansli@norravagk.se",
+    "id": "28b1b562-a081-4d22-9847-d129521b440f"
+  },
+  {
+    "name": "Norra Backa Golf Fjällbacka ",
+    "region": "",
+    "city": "FJÄLLBACKA",
+    "postal_code": "45741",
+    "country": "Sverige",
+    "email": "golfkustens@gmail.com",
+    "id": "4e8862f1-57f9-43b7-9bd0-6253bc0db137"
+  },
+  {
+    "name": "Tureholms Nya Golfklubb",
+    "region": "Norr- Västerbottens Golfförbund",
+    "city": "ÖVERTORNEÅ",
+    "postal_code": "95732",
+    "country": "Sverige",
+    "email": "tureholms.ngk@gmail.se",
+    "id": "98fba086-7e56-4e91-911e-1ee984483f50"
+  },
+  {
+    "name": "Kumla Golfklubb",
+    "region": "",
+    "city": "KUMLA",
+    "postal_code": "69292",
+    "country": "Sverige",
+    "email": "info@kumlagk.se",
+    "id": "d2fb2089-75ec-4341-b3c6-738d5ccc21d5"
+  },
+  {
+    "name": "Sunne Golfklubb",
+    "region": "Värmland",
+    "city": "ROTTNEROS",
+    "postal_code": "68694",
+    "country": "Sverige",
+    "email": "info@sunnegk.se",
+    "id": "54b0d532-ff18-46db-a747-b47c1f06baa1"
+  },
+  {
+    "name": "Svegs Golfklubb",
+    "region": "",
+    "city": "SVEG",
+    "postal_code": "84294",
+    "country": "Sverige",
+    "email": "info@svegsgk.se",
+    "id": "4c9ac030-9b0a-45ff-8259-8735301c4ecb"
+  },
+  {
+    "name": "Strands Golfklubb",
+    "region": "Södermanland",
+    "city": "ESKILSTUNA",
+    "postal_code": "63505",
+    "country": "Sverige",
+    "email": "info@strandgolf.se",
+    "id": "61dafea8-b3d3-45d0-87b5-05dcc1e355ae"
+  },
+  {
+    "name": "Strömsholms Golfklubb",
+    "region": "",
+    "city": "KOLBÄCK",
+    "postal_code": "73493",
+    "country": "Sverige",
+    "email": "Kansli@stromsholmsgolf.se",
+    "id": "c0ea81e3-ffdd-42d5-8cb2-ef6366bad712"
+  },
+  {
+    "name": "Strömstad Golfklubb",
+    "region": "",
+    "city": "STRÖMSTAD",
+    "postal_code": "45290",
+    "country": "Sverige",
+    "email": "kansli@stdgk.se",
+    "id": "cd576cb3-be86-4898-866f-5fc1f0456295"
+  },
+  {
+    "name": "Sollentuna Golfklubb",
+    "region": "STOCKHOLM",
+    "city": "SOLLENTUNA",
+    "postal_code": "19277",
+    "country": "Sverige",
+    "email": "sollentunagk@sollentunagk.se",
+    "id": "12461b50-bb94-400a-811d-8c9773339108"
+  },
+  {
+    "name": "SM-Veckan Örebro GDF",
+    "region": "",
+    "city": "ÖREBRO",
+    "postal_code": "70230",
+    "country": "Sverige",
+    "email": "a-m.ericsson@telia.com",
+    "id": "fdd7a287-4f4d-4c25-9064-36281fbdde8e"
+  },
+  {
+    "name": "Scandinavian Golf Society",
+    "region": "Petchaburi",
+    "city": "ENSKEDE",
+    "postal_code": "12263",
+    "country": "Sverige",
+    "email": "sgshuahin@gmail.com",
+    "id": "ffe9f4ce-a673-4836-8028-3f580ed561e8"
+  },
+  {
+    "name": "Svensk Seniorgolf",
+    "region": "",
+    "city": "KUNGSBACKA",
+    "postal_code": "43497",
+    "country": "Sverige",
+    "email": "info@svenskseniorgolf.se",
+    "id": "0d59ed9b-0e68-4f8f-97f6-30cfdbf38a1d"
+  },
+  {
+    "name": "Skyrups Golfklubb",
+    "region": "",
+    "city": "TYRINGE",
+    "postal_code": "28295",
+    "country": "Sverige",
+    "email": "info@skyrupsgk.se",
+    "id": "d22b1621-42f9-4f2e-8e38-bad886805d4a"
+  },
+  {
+    "name": "S:t Ibbs Golfklubb",
+    "region": "Skåne",
+    "city": "S:T IBB - VEN",
+    "postal_code": "26195",
+    "country": "Sverige",
+    "email": "stibbgk@gmail.com",
+    "id": "c9e0bdcd-ad47-4660-8ccd-dc6e9c957346"
+  },
+  {
+    "name": "Orresta Golfklubb",
+    "region": "",
+    "city": "VÄSTERÅS",
+    "postal_code": "72596",
+    "country": "Sverige",
+    "email": "info@orrestagolf.se",
+    "id": "458a18cd-684c-4f50-a727-763e42893fb2"
+  },
+  {
+    "name": "Orust Golfklubb",
+    "region": "",
+    "city": "ELLÖS",
+    "postal_code": "47493",
+    "country": "Sverige",
+    "email": "info@orustgk.se",
+    "id": "0243aa2f-deab-452c-b2c2-7453706fcb63"
+  },
+  {
+    "name": "Porjus Golfklubb",
+    "region": "Norrbotten",
+    "city": "PORJUS",
+    "postal_code": "98260",
+    "country": "Sverige",
+    "email": "info@porjusgk.com",
+    "id": "ef2bde3b-7cb4-40d2-846c-b37612fd516d"
+  },
+  {
+    "name": "Smådalarö Golf",
+    "region": "Stockholm",
+    "city": "DALARÖ",
+    "postal_code": "13770",
+    "country": "Sverige",
+    "email": "info@smadalarogard.se",
+    "id": "9a72a494-fa1f-4834-b228-1b2f87aac51f"
+  },
+  {
+    "name": "Halmstad Golfarena",
+    "region": "",
+    "city": "HALMSTAD",
+    "postal_code": "30591",
+    "country": "Sverige",
+    "email": "reception@golfarenan.se",
+    "id": "3245fe32-40d4-4232-b8d2-375fc792d034"
+  },
+  {
+    "name": "Scandinavian golf Club",
+    "region": "Alicante",
+    "city": "ROJALES",
+    "postal_code": "03170_____",
+    "country": "Spanien",
+    "email": "tavling@scandigolf.eu",
+    "id": "5742791b-11a4-4691-a47b-f1f6ebd799c3"
+  },
+  {
+    "name": "Hills Golf & Sports Club",
+    "region": "",
+    "city": "MÖLNDAL",
+    "postal_code": "43151",
+    "country": "Sverige",
+    "email": "info@hillsgolfclub.se",
+    "id": "17644bb7-1a66-4bc2-a6da-301420df457a"
+  },
+  {
+    "name": "Granöbygdens Golfklubb",
+    "region": "",
+    "city": "GRANÖ",
+    "postal_code": "92295",
+    "country": "Sverige",
+    "email": "kansliet@granobygdensgk.se",
+    "id": "92642dab-f4a3-4b38-b47e-8fa0e587b8ad"
+  },
+  {
+    "name": "Ekerum Golfklubb",
+    "region": "Småland",
+    "city": "BORGHOLM",
+    "postal_code": "38792",
+    "country": "Sverige",
+    "email": "info@ekerum.com",
+    "id": "f0af7a72-9dd3-4764-8837-4f569e17a04d"
+  },
+  {
+    "name": "Falsterbo Golfklubb",
+    "region": "",
+    "city": "FALSTERBO",
+    "postal_code": "23940",
+    "country": "Sverige",
+    "email": "info@falsterbogk.se",
+    "id": "cd5fda21-11ba-4863-8472-116a98f4f358"
+  },
+  {
+    "name": "Bryngfjordens Golfklubb",
+    "region": "Värmland",
+    "city": "KARLSTAD",
+    "postal_code": "65350",
+    "country": "Sverige",
+    "email": "info@bryngfjorden.com",
+    "id": "5df58ad8-cf7d-4c72-a73a-79de65b0c7ad"
+  },
+  {
+    "name": "Botkyrka Golfklubb",
+    "region": "",
+    "city": "GRÖDINGE",
+    "postal_code": "14791",
+    "country": "Sverige",
+    "email": "info@botkyrkagk.se",
+    "id": "9eb9f76d-bdbc-49c0-b8d6-b934a3b1c6b0"
+  },
+  {
+    "name": "Malungs Golfklubb",
+    "region": "",
+    "city": "MALUNG",
+    "postal_code": "78291",
+    "country": "Sverige",
+    "email": "info@malungsgk.se",
+    "id": "82d6467f-ca49-45ff-856d-c5341817bcd0"
+  },
+  {
+    "name": "Flygstadens Golfklubb",
+    "region": "",
+    "city": "HALMSTAD",
+    "postal_code": "30241",
+    "country": "Sverige",
+    "email": "info@flygstadensgolfklubb.se",
+    "id": "9b5fa5f4-ae25-4adc-bc2c-d967d6154e5b"
+  },
+  {
+    "name": "Lydinge Golfklubb",
+    "region": "Skåne",
+    "city": "HYLLINGE",
+    "postal_code": "26575",
+    "country": "Sverige",
+    "email": "reception@lydinge.com",
+    "id": "aa91f81a-8131-4be1-a725-fca0ee51c7dc"
+  },
+  {
+    "name": "Ribbingsfors Golf & Kultur",
+    "region": "",
+    "city": "GULLSPÅNG",
+    "postal_code": "54792",
+    "country": "Sverige",
+    "email": "info@ribbingsforsgk.se",
+    "id": "a5a9a5b7-9f73-4b68-b569-a6668954cb70"
+  },
+  {
+    "name": "Mariestads Golfklubb",
+    "region": "",
+    "city": "MARIESTAD",
+    "postal_code": "54294",
+    "country": "Sverige",
+    "email": "info@mariestadsgk.se",
+    "id": "8f545c9f-b419-4d8b-abe6-a1ae4af5a777"
+  },
+  {
+    "name": "Lycke Golf & Country Club Marstrand",
+    "region": "Västra Götaland",
+    "city": "LYCKE",
+    "postal_code": "44275",
+    "country": "Sverige",
+    "email": "reception@lyckegc.se",
+    "id": "f15e2101-6f31-4e23-a76d-9763a0b66c61"
+  },
+  {
+    "name": "När Golfklubb",
+    "region": "",
+    "city": "STÅNGA",
+    "postal_code": "62348",
+    "country": "Sverige",
+    "email": "info@nargk.se",
+    "id": "fbcc0ba2-0b3d-48e0-9aee-eae16e661e82"
+  },
+  {
+    "name": "Dynekilens Golfklubb",
+    "region": "Bohuslän-Dal",
+    "city": "STRÖMSTAD",
+    "postal_code": "45292",
+    "country": "Sverige",
+    "email": "kansliet@dynegolf.se",
+    "id": "5fbac161-9dcc-45a6-a8ee-7928d33557bf"
+  },
+  {
+    "name": "Landskrona Golfklubb",
+    "region": "",
+    "city": "LANDSKRONA",
+    "postal_code": "26161",
+    "country": "Sverige",
+    "email": "info@landskronagk.se",
+    "id": "801f3a7f-0a72-483f-b484-e707bfd875e7"
+  },
+  {
+    "name": "Billeruds Golfklubb",
+    "region": "",
+    "city": "SEGMON",
+    "postal_code": "66040",
+    "country": "Sverige",
+    "email": "kansli@billerudsgk.se",
+    "id": "1362b797-2b44-42ba-9b8c-e38f32706164"
+  },
+  {
+    "name": "Karlskoga Golfklubb",
+    "region": "Värmland",
+    "city": "KARLSKOGA",
+    "postal_code": "69194",
+    "country": "Sverige",
+    "email": "info@karlskogagk.se",
+    "id": "965761cd-91ae-48c7-8068-af9a00695584"
+  },
+  {
+    "name": "Kristianstads Golfklubb ",
+    "region": "",
+    "city": "ÅHUS",
+    "postal_code": "29635",
+    "country": "Sverige",
+    "email": "receptionen@kristianstadsgk.com",
+    "id": "23012d35-2ca1-47c7-8c59-1e5dcd1f3cfd"
+  },
+  {
+    "name": "Hörlycke Golfklubb",
+    "region": "Västergötland",
+    "city": "TROLLHÄTTAN",
+    "postal_code": "46198",
+    "country": "Sverige",
+    "email": "kansli@horlyckegk.se",
+    "id": "3c40f24b-1296-4d38-92a9-94fab2bd183f"
+  },
+  {
+    "name": "Härnösands Golfklubb",
+    "region": "Ångermanlnd",
+    "city": "ÄLANDSBRO",
+    "postal_code": "87010",
+    "country": "Sverige",
+    "email": "info@harnosandgk.se",
+    "id": "b553b130-e820-420d-9dc7-c247e7bda9cd"
+  },
+  {
+    "name": "HOMA Holidays",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": "info@homaholidays.es",
+    "id": "00b36afe-86cb-4cae-8557-03f78fd18b44"
+  },
+  {
+    "name": "Järvsöbadens Golfklubb",
+    "region": "",
+    "city": "JÄRVSÖ",
+    "postal_code": "82040",
+    "country": "Sverige",
+    "email": "info@jarvsogolf.se",
+    "id": "0f2a320b-2303-4768-84a0-102339e808c7"
+  },
+  {
+    "name": "Halmstad Golfklubb",
+    "region": "",
+    "city": "HALMSTAD",
+    "postal_code": "30273",
+    "country": "Sverige",
+    "email": "info@hgk.se",
+    "id": "729d1b1a-56e4-4b3d-9e3d-aefda83acc40"
+  },
+  {
+    "name": "Golf i Solen",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": null,
+    "id": "32cba1a4-bd60-4979-8371-7032320b5b2e"
+  },
+  {
+    "name": "Grindslanten Golfklubb",
+    "region": "",
+    "city": "LIDINGÖ",
+    "postal_code": "18157",
+    "country": "Sverige",
+    "email": "info@grindslantengolf.se",
+    "id": "32e993bc-98a5-4c0b-bea7-2f77df50eed9"
+  },
+  {
+    "name": "Herrljunga Golfklubb",
+    "region": "Västra Götaland",
+    "city": "HERRLJUNGA",
+    "postal_code": "52492",
+    "country": "Sverige",
+    "email": "info@herrljungagk.se",
+    "id": "92219bd0-c136-4044-b87e-9430b83143df"
+  },
+  {
+    "name": "Gagnefs Golfklubb",
+    "region": "",
+    "city": "DJURÅS",
+    "postal_code": "78560",
+    "country": "Sverige",
+    "email": "kansli@gagnefsgk.com",
+    "id": "2f0c3491-be08-4983-8c82-05e6c33ca643"
+  },
+  {
+    "name": "Fogdö Golfklubb",
+    "region": "Södermanland",
+    "city": "STRÄNGNÄS",
+    "postal_code": "64592",
+    "country": "Sverige",
+    "email": "kansli@fogdogk.se",
+    "id": "3e6673fe-0c75-4447-8793-3e80d93f0dd3"
+  },
+  {
+    "name": "Danderyds Golfklubb",
+    "region": "Stockholm",
+    "city": "DANDERYD",
+    "postal_code": "18237",
+    "country": "Sverige",
+    "email": "info@danderydsgk.se",
+    "id": "308c2661-553f-46d2-aed6-4d22b35b219b"
+  },
+  {
+    "name": "Enköpings Golfklubb",
+    "region": "",
+    "city": "ENKÖPING",
+    "postal_code": "74946",
+    "country": "Sverige",
+    "email": "info@enkopinggolf.se",
+    "id": "343bc5ba-f408-4036-883f-2b8ec922a6f9"
+  },
+  {
+    "name": "Bro Hof Slott Golf Club",
+    "region": "",
+    "city": "BRO",
+    "postal_code": "19791",
+    "country": "Sverige",
+    "email": "reception@brohofslott.se",
+    "id": "77c52af7-8897-4ca4-a859-9fb9bcdfdeec"
+  },
+  {
+    "name": "Björnhults Golfklubb",
+    "region": "",
+    "city": "FALKENBERG",
+    "postal_code": "31194",
+    "country": "Sverige",
+    "email": "info@bjornhultsgk.se",
+    "id": "7313ddd9-3d1e-40e6-9a61-1ee779a016b0"
+  },
+  {
+    "name": "Arvika Golfklubb",
+    "region": "",
+    "city": "BRUNSKOG",
+    "postal_code": "67194",
+    "country": "Sverige",
+    "email": "info@arvikagk.com",
+    "id": "5d26fe79-1b33-4c98-9938-959648afd542"
+  },
+  {
+    "name": "Binga Golf",
+    "region": "",
+    "city": "LJUNGBYHOLM",
+    "postal_code": "38892",
+    "country": "Sverige",
+    "email": "info@bingagolf.se",
+    "id": "7a4ed169-cc65-4761-a9b2-578e34e66184"
+  },
+  {
+    "name": "Bodens Golfklubb",
+    "region": "Norrbotten",
+    "city": "BODEN",
+    "postal_code": "96151",
+    "country": "Sverige",
+    "email": "info@bodensgk.se",
+    "id": "ce43217e-fa8c-481b-a42e-794b58cca823"
+  },
+  {
+    "name": "Ågesta Golfklubb",
+    "region": "STOCKHOLM",
+    "city": "FARSTA",
+    "postal_code": "12352",
+    "country": "Sverige",
+    "email": "info@agestagk.se",
+    "id": "76ba59de-31e5-4cf0-b58b-be229a611071"
+  },
+  {
+    "name": "Årjängs Golfklubb",
+    "region": "Värmland",
+    "city": "ÅRJÄNG",
+    "postal_code": "67295",
+    "country": "Sverige",
+    "email": "info@arjangsgk.se",
+    "id": "3e08b8fd-c7f6-41b8-85c2-cbd4cff7a97f"
+  },
+  {
+    "name": "Sollefteå Golfklubb",
+    "region": "",
+    "city": "LÅNGSELE",
+    "postal_code": "88291",
+    "country": "Sverige",
+    "email": "kansli@sollefteagk.se",
+    "id": "f0924889-e97e-4616-b005-7d77a7c67852"
+  },
+  {
+    "name": "Wiredaholm Golf & Konferens",
+    "region": "",
+    "city": "ANEBY",
+    "postal_code": "57892",
+    "country": "Sverige",
+    "email": "info@wiredaholm.se",
+    "id": "febb2a2a-9aa6-472f-a636-54080d7f0a3b"
+  },
+  {
+    "name": "Sand Golf Club",
+    "region": "",
+    "city": "BANKERYD",
+    "postal_code": "56491",
+    "country": "Sverige",
+    "email": "info@sandgolfclub.se",
+    "id": "3a7568ba-d39e-4349-b771-904fd519a46b"
+  },
+  {
+    "name": "Saxnäs Golfklubb",
+    "region": "",
+    "city": "FÄRJESTADEN",
+    "postal_code": "38695",
+    "country": "Sverige",
+    "email": "info@saxnasgolf.se",
+    "id": "8eb71b59-7b2c-4d75-9cdf-7eb8fc921acb"
+  },
+  {
+    "name": "Österlens Golfklubb",
+    "region": "Skåne",
+    "city": "SIMRISHAMN",
+    "postal_code": "27295",
+    "country": "Sverige",
+    "email": "info@osterlensgk.com",
+    "id": "f7d48313-efc9-4cd6-b28d-5b757400a93e"
+  },
+  {
+    "name": "Värpinge Golfklubb",
+    "region": "Skåne",
+    "city": "LUND",
+    "postal_code": "22761",
+    "country": "Sverige",
+    "email": "info@varpinge.se",
+    "id": "d25dc61b-0516-4057-8b91-18521d923d22"
+  },
+  {
+    "name": "Skinnarebo Golf & Country Club",
+    "region": "",
+    "city": "SKINNAREBO",
+    "postal_code": "55593",
+    "country": "Sverige",
+    "email": "kansli@skinnarebo.com",
+    "id": "e9e81ea6-bd90-4e6e-a529-b9c408ae6467"
+  },
+  {
+    "name": "Ystad Golfklubb",
+    "region": "Skåne",
+    "city": "NYBROSTRAND",
+    "postal_code": "27171",
+    "country": "Sverige",
+    "email": "info@ystadgk.se",
+    "id": "dde92211-ee7a-4f4a-b9d4-211a31c78a5b"
+  },
+  {
+    "name": "Sankt Jörgen Park Golf ",
+    "region": "",
+    "city": "GÖTEBORG",
+    "postal_code": "41749",
+    "country": "Sverige",
+    "email": "golf@sanktjorgenpark.se",
+    "id": "3438a355-6754-4571-aded-51a554f4cc11"
+  },
+  {
+    "name": "Helsingborgs Golfklubb",
+    "region": "",
+    "city": "VIKEN",
+    "postal_code": "26361",
+    "country": "Sverige",
+    "email": "office@helsingborgsgk.com",
+    "id": "277ada2d-c848-4021-9d97-3207ccb39ace"
+  },
+  {
+    "name": "Brevikens Golfklubb",
+    "region": "Västergötland",
+    "city": "KARLSBORG",
+    "postal_code": "54691",
+    "country": "Sverige",
+    "email": "kansli@breviken.se",
+    "id": "f9e73369-7825-4622-9664-085d874b0d22"
+  },
+  {
+    "name": "Barsebäck Golf & Resort",
+    "region": "",
+    "city": "LÖDDEKÖPINGE",
+    "postal_code": "24655",
+    "country": "Sverige",
+    "email": "golf@barseback.com",
+    "id": "5b64fcd6-8bdd-4f58-9dda-59fc6caec7ec"
+  },
+  {
+    "name": "Ullna Golf & Country Club",
+    "region": "Stockholm",
+    "city": "ÅKERSBERGA",
+    "postal_code": "18494",
+    "country": "Sverige",
+    "email": "reception@ullnagolf.se",
+    "id": "615ffc0b-8fce-4cd3-8d02-2a1c30340688"
+  },
+  {
+    "name": "Ingarö Golf",
+    "region": "",
+    "city": "INAGRÖ",
+    "postal_code": "13464",
+    "country": "Sverige",
+    "email": "info@igk.se",
+    "id": "d4b1239c-1636-4a6e-be16-d88250d65466"
+  },
+  {
+    "name": "Gotska Golfklubb",
+    "region": "Gotland",
+    "city": "VISBY",
+    "postal_code": "62141",
+    "country": "Sverige",
+    "email": "info@gotskagk.se",
+    "id": "e6cbd378-f6ef-480f-8a74-c39099842549"
+  },
+  {
+    "name": "Forsgårdens Golfklubb",
+    "region": "Halland",
+    "city": "KUNGSBACKA",
+    "postal_code": "43447",
+    "country": "Sverige",
+    "email": "kansli@forsgarden.se",
+    "id": "f6dfc227-53eb-49f7-8182-456d995efe92"
+  },
+  {
+    "name": "Hede-Vemdalens Golfklubb",
+    "region": "",
+    "city": "HEDE",
+    "postal_code": "84631",
+    "country": "Sverige",
+    "email": "kansli@hede-vemdalensgk.se",
+    "id": "40ec4c68-6bc8-42d9-86a6-f993fd65b94d"
+  },
+  {
+    "name": "Hudiksvalls Golfklubb",
+    "region": "",
+    "city": "HUDIKSVALL",
+    "postal_code": "82491",
+    "country": "Sverige",
+    "email": "jon@hudiksvallsgk.se",
+    "id": "49ec7286-842d-45eb-a48c-03812509c916"
+  },
+  {
+    "name": "Arninge Golfklubb",
+    "region": "",
+    "city": "TÄBY",
+    "postal_code": "18769",
+    "country": "Sverige",
+    "email": "klubbchef@arningegk.se",
+    "id": "80e90da7-26e6-443e-86fd-71f059b77187"
+  },
+  {
+    "name": "Crownwood Golf",
+    "region": null,
+    "city": null,
+    "postal_code": null,
+    "country": "Sverige",
+    "email": "golf@crownwood.club",
+    "id": "d11abe58-0d32-4f2c-8ac8-66eca37d6c63"
+  },
+  {
+    "name": "Torsby Golfklubb",
+    "region": "Värmland",
+    "city": "TORSBY",
+    "postal_code": "68592",
+    "country": "Sverige",
+    "email": "info@torsbygolfklubb.se",
+    "id": "aa609a07-26c7-4cdc-b49e-b3f91ed92e5e"
+  },
+  {
+    "name": "Delsjö Golfklubb",
+    "region": "",
+    "city": "GÖTEBORG",
+    "postal_code": "41276",
+    "country": "Sverige",
+    "email": "info@degk.se",
+    "id": "46e9603a-5e54-48d0-b73e-ca0936719284"
+  },
+  {
+    "name": "Hofors Golfklubb",
+    "region": "",
+    "city": "HOFORS",
+    "postal_code": "81391",
+    "country": "Sverige",
+    "email": "info@hoforsgk.se",
+    "id": "048c9d4d-cb65-4fb2-a529-cf4323bf0ce1"
+  },
+  {
+    "name": "Ronneby Golfklubb",
+    "region": "Blekinge",
+    "city": "RONNEBY",
+    "postal_code": "37273",
+    "country": "Sverige",
+    "email": "info@ronnebygk.se",
+    "id": "7e9959bc-0055-48ac-b827-c75927844e5f"
+  },
+  {
+    "name": "Flommens Golfklubb",
+    "region": "Skåne",
+    "city": "FALSTERBO",
+    "postal_code": "23940",
+    "country": "Sverige",
+    "email": "reception@flommensgk.se",
+    "id": "0fb95bb1-6c01-45fa-b89b-0e5d287f1848"
+  },
+  {
+    "name": "Oskarshamns Golfklubb",
+    "region": "Småland",
+    "city": "OSKARSHAMN",
+    "postal_code": "57293",
+    "country": "Sverige",
+    "email": "info@oskarshamnsgk.com",
+    "id": "49023a45-95f0-4a09-be28-8342c29d0d89"
+  },
+  {
+    "name": "Forshaga Golfklubb",
+    "region": "Värmland",
+    "city": "DEJE",
+    "postal_code": "66991",
+    "country": "Sverige",
+    "email": "info@forshagadejegk.se",
+    "id": "b9a5b540-1414-48f8-a2d1-8964778d1d21"
+  },
+  {
+    "name": "Djursholms Golfklubb",
+    "region": "",
+    "city": "DJURSHOLM",
+    "postal_code": "18263",
+    "country": "Sverige",
+    "email": "info@dgk.nu",
+    "id": "4248b9e6-94a0-42e9-9c96-23916ba49083"
+  },
+  {
+    "name": "Naturligtvis Golf & Country Club",
+    "region": "",
+    "city": "GENARP",
+    "postal_code": "24799",
+    "country": "Sverige",
+    "email": "info@naturligtvisgcc.se",
+    "id": "b6baadc1-93dc-4133-8668-745170f84ad3"
+  },
+  {
+    "name": "Glasrikets Golfklubb Växjö",
+    "region": "",
+    "city": "VÄXJÖ",
+    "postal_code": "35592",
+    "country": "Sverige",
+    "email": "info@glasriketsgk.se",
+    "id": "7bd30526-d1b1-40ad-950e-7fc73027d4ce"
+  },
+  {
+    "name": "Ombergs Golf Resort",
+    "region": "Östergötland",
+    "city": "ÖDESHÖG",
+    "postal_code": "59993",
+    "country": "Sverige",
+    "email": "info@ombergsgolfresort.se",
+    "id": "c39f1aa2-5168-4c18-b44d-d12b77e861d5"
+  },
+  {
+    "name": "Gunnarns Golfklubb",
+    "region": "Västerbotten",
+    "city": "GUNNARN",
+    "postal_code": "95342",
+    "country": "Sverige",
+    "email": "gunnarngolf@gmail.com",
+    "id": "5861fd66-7b14-4740-9dcc-89e6613d33a0"
+  },
+  {
+    "name": "Östra Göinge Golfklubb",
+    "region": "Skåne",
+    "city": "KNISLINGE",
+    "postal_code": "28931",
+    "country": "Sverige",
+    "email": "04460060@telia.com",
+    "id": "2600ea29-8186-4c05-a867-f45c81fcb167"
+  },
+  {
+    "name": "Vinbergs Golfklubb",
+    "region": "",
+    "city": "FALKENBERG",
+    "postal_code": "31195",
+    "country": "Sverige",
+    "email": "info@vinbergsgolfklubb.se",
+    "id": "758d7694-35b7-4d73-ad33-d8228513cd2a"
+  },
+  {
+    "name": "Klövsjö-Vemdalens Golfklubb",
+    "region": "",
+    "city": "KLÖVSJÖ",
+    "postal_code": "84597",
+    "country": "Sverige",
+    "email": "kvgk@telia.com",
+    "id": "faf90112-8444-4a3f-a0f1-fb7f3bc568ec"
+  },
+  {
+    "name": "Nacka Golfklubb",
+    "region": "",
+    "city": "SALTSJÖ-BOO",
+    "postal_code": "13236",
+    "country": "Sverige",
+    "email": "info@nackagk.se",
+    "id": "651b23e7-9ed5-432f-8ffa-45782468340e"
+  },
+  {
+    "name": "Wasa Golfklubb",
+    "region": "Södermanland",
+    "city": "SÖDERTÄLJE",
+    "postal_code": "15152",
+    "country": "Sverige",
+    "email": "info@wasagolf.se",
+    "id": "e4c35d52-1263-4dd1-861f-877e17067476"
+  },
+  {
+    "name": "Knistad Golf & Country Club",
+    "region": "",
+    "city": "SKÖVDE",
+    "postal_code": "54192",
+    "country": "Sverige",
+    "email": "info@knistad.se",
+    "id": "8ef887b6-b50e-4b62-8319-54db8dfb3c4c"
+  },
+  {
+    "name": "Sönnertorps Golfklubb",
+    "region": "Skåne",
+    "city": "BÅSTAD",
+    "postal_code": "26993",
+    "country": "Sverige",
+    "email": "info@sonnertorpgolf.se",
+    "id": "4b64531e-1453-47c3-81ae-de365807e7c8"
+  },
+  {
+    "name": "Arvidsjaurs Golfklubb",
+    "region": "",
+    "city": "ARVIDSJAUR",
+    "postal_code": "93334",
+    "country": "Sverige",
+    "email": "info@arvidsjaurgolf.se",
+    "id": "1dc4b9e1-ca2b-42b5-b78a-1558a6d9e215"
+  },
+  {
+    "name": "Johannesberg Golfklubb",
+    "region": "",
+    "city": "RIMBO",
+    "postal_code": "76295",
+    "country": "Sverige",
+    "email": "golf@johannesbergsgolf.se",
+    "id": "a9d34edb-c0a5-4b0a-8a32-cec9377578ae"
+  },
+  {
+    "name": "Tobo Golfklubb",
+    "region": "Småland",
+    "city": "VIMMERBY",
+    "postal_code": "59891",
+    "country": "Sverige",
+    "email": "info@tobogk.se",
+    "id": "d010f82d-8031-452f-b292-0bd1d7144e38"
+  },
+  {
+    "name": "Gällivare-Malmbergets Golfklubb",
+    "region": "",
+    "city": "MALMBERGET",
+    "postal_code": "98321",
+    "country": "Sverige",
+    "email": "gmgk@GALLIVAREMALMBERGETSGOLF.onmicrosoft.com",
+    "id": "536678ed-755a-4ca1-afc6-1963d9d84892"
+  },
+  {
+    "name": "Loftahammars Golfklubb",
+    "region": "Småland",
+    "city": "LOFTAHAMMAR",
+    "postal_code": "59095",
+    "country": "Sverige",
+    "email": "info@loftahammarsgk.se",
+    "id": "dcc6074a-b75f-4399-ac18-ec1ca12d2583"
+  },
+  {
+    "name": "Kungl. Drottningholms Golfklubb",
+    "region": "",
+    "city": "DROTTNINGHOLM",
+    "postal_code": "17893",
+    "country": "Sverige",
+    "email": "info@kdrgk.se",
+    "id": "bfd13b90-c4df-4660-afa9-0b953fcd623d"
+  },
+  {
+    "name": "Göteborgs Golf Klubb",
+    "region": "",
+    "city": "HOVÅS",
+    "postal_code": "43650",
+    "country": "Sverige",
+    "email": "reception@goteborgsgk.org",
+    "id": "f9ceaff2-4166-4857-9d24-93e96f55f065"
+  },
+  {
+    "name": "Örnsköldsviks Golfklubb Puttom",
+    "region": "",
+    "city": "ARNÄSVALL",
+    "postal_code": "89195",
+    "country": "Sverige",
+    "email": "kansli@puttom.se",
+    "id": "0b2062ae-e752-418b-bf67-af121d75de86"
+  },
+  {
+    "name": "A6 Golfklubb",
+    "region": "Småland",
+    "city": "JÖNKÖPING",
+    "postal_code": "55305",
+    "country": "Sverige",
+    "email": "info@a6gk.se",
+    "id": "081d1920-eb5c-4303-9940-420beacd2351"
+  },
+  {
+    "name": "Wäsby Golfklubb",
+    "region": "Stockholm",
+    "city": "UPPLANDS VÄSBY",
+    "postal_code": "19492",
+    "country": "Sverige",
+    "email": "kansli@wasbygolf.se",
+    "id": "bfd70135-982b-498e-b000-b2766a5b0f17"
+  },
+  {
+    "name": "Olandsbygdens Golfklubb",
+    "region": "Östhammars kommun",
+    "city": "ALUNDA",
+    "postal_code": "74791",
+    "country": "Sverige",
+    "email": "golf@olandsbygdensgk.se",
+    "id": "57078b98-8f8e-4f5c-b34b-abc28a008d77"
+  },
+  {
+    "name": "Höganäs Golfklubb",
+    "region": "",
+    "city": "LERBERGET",
+    "postal_code": "26354",
+    "country": "Sverige",
+    "email": "kansli@hoganasgk.se",
+    "id": "0a68a2e0-5ac6-4e16-a917-787287156b70"
+  },
+  {
+    "name": "Arlandastad Golfklubb",
+    "region": "Uppland",
+    "city": "ROSERSBERG",
+    "postal_code": "19595",
+    "country": "Sverige",
+    "email": "info@arlandastadgolf.se",
+    "id": "71336f7e-b950-4646-9dc9-2fdd402f208a"
+  },
+  {
+    "name": "Sparren Golfklubb",
+    "region": "",
+    "city": "RIMBO",
+    "postal_code": "76293",
+    "country": "Sverige",
+    "email": "info@sparrengolf.se",
+    "id": "b3375301-159a-4f88-8820-4532c7eeb90c"
+  },
+  {
+    "name": "Skerike Golfklubb",
+    "region": "",
+    "city": "VÄSTERÅS",
+    "postal_code": "72593",
+    "country": "Sverige",
+    "email": "kansli@skerikegk.se",
+    "id": "35f9ce62-4d8d-4f47-be24-98c535fe369c"
+  },
+  {
+    "name": "Mackmyra Golf",
+    "region": "",
+    "city": "VALBO",
+    "postal_code": "81832",
+    "country": "Sverige",
+    "email": "info@mackmyragolf.se",
+    "id": "c370bf9b-822c-4fd1-8fc1-eed6cb64446e"
+  },
+  {
+    "name": "Avesta Golfklubb",
+    "region": "",
+    "city": "AVESTA",
+    "postal_code": "77461",
+    "country": "Sverige",
+    "email": "info@avestagk.se",
+    "id": "ddd7635c-0544-4589-8e19-5afa8436c2cb"
+  },
+  {
+    "name": "Albatross Golfklubb",
+    "region": "",
+    "city": "HISINGS BACKA",
+    "postal_code": "42250",
+    "country": "Sverige",
+    "email": "reception@albatrossgolf.se",
+    "id": "f173cf07-11fe-4da2-9b11-8ff9f5911cd1"
+  },
+  {
+    "name": "Strängnäs Golfklubb",
+    "region": "SÖDERMANLAND",
+    "city": "STRÄNGNÄS",
+    "postal_code": "64547",
+    "country": "Sverige",
+    "email": "info@strangnasgk.se",
+    "id": "eef8e028-3603-4959-a66a-2f5289b4f9b1"
+  },
+  {
+    "name": "Hässlegårdens Golfklubb",
+    "region": "",
+    "city": "HÄSSLEHOLM",
+    "postal_code": "28135",
+    "country": "Sverige",
+    "email": "info@hggk.se",
+    "id": "13840737-732c-4ecb-8d4f-a93a68672850"
+  },
+  {
+    "name": "Gripsholms Golfklubb",
+    "region": "Södermanland",
+    "city": "MARIEFRED",
+    "postal_code": "64731",
+    "country": "Sverige",
+    "email": "info@gripsholmsgk.se",
+    "id": "b103184a-67a6-4095-bcdf-c42cb2aae41b"
+  },
+  {
+    "name": "Huvudstadens Golfklubb",
+    "region": "",
+    "city": "VALLENTUNA",
+    "postal_code": "18692",
+    "country": "Sverige",
+    "email": "info@huvudstadensgolfklubb.se",
+    "id": "38cfed92-8358-405c-b97e-242bef8b8da0"
+  },
+  {
+    "name": "Hässelby Golfklubb",
+    "region": "Stockholm",
+    "city": "HÄSSELBY",
+    "postal_code": "16572",
+    "country": "Sverige",
+    "email": "hasselby@golfstar.se",
+    "id": "646db102-140d-439a-966e-25027306653d"
+  },
+  {
+    "name": "Stannum Golfklubb",
+    "region": "",
+    "city": "GRÅBO",
+    "postal_code": "44370",
+    "country": "Sverige",
+    "email": "info@stannumgolf.se",
+    "id": "4ae0311d-9650-46b6-ab5c-80b289b30095"
+  },
+  {
+    "name": "Waxholms Golfklubb",
+    "region": "",
+    "city": "VAXHOLM",
+    "postal_code": "18593",
+    "country": "Sverige",
+    "email": "info@waxholmsgolfklubb.se",
+    "id": "c40d009a-c5b0-4ff0-b408-25859a9fdf85"
+  },
+  {
+    "name": "Viksbergs Golfklubb",
+    "region": "",
+    "city": "SÖDERTÄLJE",
+    "postal_code": "15295",
+    "country": "Sverige",
+    "email": "styrelsen@viksbergsgolf.se",
+    "id": "8e7be363-c559-472e-a74d-df0d8deb86c5"
+  },
+  {
+    "name": "Väddö Golfklubb",
+    "region": "",
+    "city": "VÄDDÖ",
+    "postal_code": "76040",
+    "country": "Sverige",
+    "email": "info@vgk.nu",
+    "id": "d76361c5-2d09-42b4-9ba3-292cd60f6718"
+  },
+  {
+    "name": "Vadstena Golfklubb",
+    "region": "",
+    "city": "VADSTENA",
+    "postal_code": "59294",
+    "country": "Sverige",
+    "email": "kansli@vadstenagk.nu",
+    "id": "12d45ade-16ae-4dbc-b886-113db4207016"
+  },
+  {
+    "name": "Ekholmsnäs Golf Lidingö",
+    "region": "",
+    "city": "LIDINGÖ",
+    "postal_code": "18141",
+    "country": "Sverige",
+    "email": "info@ekholmsnasgolf.se",
+    "id": "10395a91-58db-4dfa-a9fb-0423d39bc3ed"
+  },
+  {
+    "name": "Vassunda Golfklubb",
+    "region": "",
+    "city": "KNIVSTA",
+    "postal_code": "74191",
+    "country": "Sverige",
+    "email": "info@vassundagolf.se",
+    "id": "e193ff1b-3f56-4689-b110-1fbd871f4043"
+  },
+  {
+    "name": "Vallentuna Golfklubb",
+    "region": "",
+    "city": "VALLENTUNA",
+    "postal_code": "18694",
+    "country": "Sverige",
+    "email": "kansli@vallentunagk.se",
+    "id": "0eef2917-46bf-4a2e-95a5-60cb3e9fd0ab"
+  },
+  {
+    "name": "The National Golfresort",
+    "region": "",
+    "city": "BARA",
+    "postal_code": "23302",
+    "country": "Sverige",
+    "email": "reception@thenational.se",
+    "id": "b177a5ea-ba4e-48b0-88f5-d242b2516b75"
+  },
+  {
+    "name": "Älvkarleby Golfklubb",
+    "region": "Uppland",
+    "city": "ÄLVKARLEBY",
+    "postal_code": "81494",
+    "country": "Sverige",
+    "email": "info@alvkarlebygk.com",
+    "id": "7cc9a6ff-1a9b-4f62-ad84-681a4cd02411"
+  },
+  {
+    "name": "Kvicksund Golfklubb",
+    "region": "",
+    "city": "KVICKSUND",
+    "postal_code": "63531",
+    "country": "Sverige",
+    "email": "info@kvicksundgolf.com",
+    "id": "de03ad2e-f4c5-4289-a9d9-814cc714ede2"
+  },
+  {
+    "name": "Båstad Golfklubb",
+    "region": "",
+    "city": "BÅSTAD",
+    "postal_code": "26994",
+    "country": "Sverige",
+    "email": "kansli@bgk.se",
+    "id": "49acc0b1-0fc3-43d9-b9d9-9e7616439da7"
+  },
+  {
+    "name": "Sandnäset Golf",
+    "region": "",
+    "city": "DVÄRSÄTT",
+    "postal_code": "83541",
+    "country": "Sverige",
+    "email": "info@sandnasetgolf.se",
+    "id": "bb44b4ec-c171-4338-af65-2a230dea4fc3"
+  },
+  {
+    "name": "Torekovs Golfklubb",
+    "region": "",
+    "city": "TOREKOV",
+    "postal_code": "26976",
+    "country": "Sverige",
+    "email": "info@togk.se",
+    "id": "7cdd8145-5f49-4c59-9ef3-2cabdbf7abf0"
+  },
+  {
+    "name": "Stockholms Golfklubb",
+    "region": "Stockholm",
+    "city": "DANDERYD",
+    "postal_code": "18257",
+    "country": "Sverige",
+    "email": "reception@stockholmsgolfklubb.se",
+    "id": "e0809e9b-0d7d-420f-9ed1-17fe543bee36"
+  },
+  {
+    "name": "Saltsjöbadens Golfklubb",
+    "region": "Stockholm",
+    "city": "SALTSJÖBADEN",
+    "postal_code": "13321",
+    "country": "Sverige",
+    "email": "info@saltsjobadengk.se",
+    "id": "2ad91290-a073-456f-8cd6-10f8f7f29173"
+  },
+  {
+    "name": "Kallfors Golf",
+    "region": "",
+    "city": "JÄRNA",
+    "postal_code": "15338",
+    "country": "Sverige",
+    "email": "info@golfsouth.se",
+    "id": "fdb8dd91-43c1-40d6-b892-fd6d914c0789"
+  },
+  {
+    "name": "Ingarö Golfklubb",
+    "region": "Stockholm",
+    "city": "INGARÖ",
+    "postal_code": "13464",
+    "country": "Sverige",
+    "email": "info@igk.se",
+    "id": "40b37bcc-da06-44fc-a6cf-f0e9bea92f65"
+  },
+  {
+    "name": "Torslanda Golfklubb",
+    "region": "",
+    "city": "TORSLANDA",
+    "postal_code": "42338",
+    "country": "Sverige",
+    "email": "reception@torslandagk.se",
+    "id": "5e6085be-032d-42aa-873d-114b4a21608a"
+  },
+  {
+    "name": "Vårdsbergs Golfklubb",
+    "region": "",
+    "city": "LINKÖPING",
+    "postal_code": "58592",
+    "country": "Sverige",
+    "email": "info@vardsbergsgk.se",
+    "id": "b2a1c567-8b38-4517-b9b2-e0477d368b7a"
+  },
+  {
+    "name": "Woodlands Golf & Country Club",
+    "region": "",
+    "city": "ÖRKELLJUNGA",
+    "postal_code": "28691",
+    "country": "Sverige",
+    "email": "golf@woodlands.se",
+    "id": "f7c083d9-9607-4d65-9b34-ad8a53b03b9b"
+  },
+  {
+    "name": "Vidbynäs Golf",
+    "region": "",
+    "city": "NYKVARN",
+    "postal_code": "15591",
+    "country": "Sverige",
+    "email": "info@golfsouth.se",
+    "id": "d8392083-5822-414b-b452-43a3c05a1724"
+  },
+  {
+    "name": "Lerjedalens Golfklubb",
+    "region": "",
+    "city": "GUNNILSE",
+    "postal_code": "42456",
+    "country": "Sverige",
+    "email": "kansli@lerjedalen.se",
+    "id": "448d6e54-095c-43a6-81ce-9fd44690f220"
+  },
+  {
+    "name": "Blixtorps Golf",
+    "region": "Hallands län",
+    "city": "VARBERG",
+    "postal_code": "43291",
+    "country": "Sverige",
+    "email": "info@blixtorpsgolf.se",
+    "id": "e8e4432d-7e9f-44b1-a20c-d1cf1fdfdbd4"
+  },
+  {
+    "name": "Wittsjö Golfklubb",
+    "region": "Södra",
+    "city": "VITTSJÖ",
+    "postal_code": "28022",
+    "country": "Sverige",
+    "email": "info@wittsjogk.se",
+    "id": "246ddd60-0275-4668-91f1-e95923a1eaa9"
+  },
+  {
+    "name": "Ekarnas Golfklubb",
+    "region": "",
+    "city": "GRÄSTORP",
+    "postal_code": "46792",
+    "country": "Sverige",
+    "email": "info@ekarnasgk.se",
+    "id": "742f74eb-25ad-4871-a139-f1c0c87df566"
+  },
+  {
+    "name": "Laholms Golfklubb",
+    "region": "Halland",
+    "city": "VÅXTORP",
+    "postal_code": "31298",
+    "country": "Sverige",
+    "email": "kansli@laholmsgk.se",
+    "id": "28265a63-bd5d-4b92-8df6-1dd6526c24c7"
+  },
+  {
+    "name": "Mönsterås Golfklubb",
+    "region": "",
+    "city": "MÖNSTERÅS",
+    "postal_code": "38337",
+    "country": "Sverige",
+    "email": "info@monsterasgk.se",
+    "id": "ca61f0b8-8f6e-4ebd-a67a-d3d850181fd0"
+  },
+  {
+    "name": "Öregrunds Golfklubb",
+    "region": "Uppland",
+    "city": "ÖSTHAMMAR",
+    "postal_code": "74291",
+    "country": "Sverige",
+    "email": "info@oregrundsgk.com",
+    "id": "30c0163d-0b1c-412c-a9c3-0189928454c3"
+  },
+  {
+    "name": "Nicklastorp Golfklubb",
+    "region": "Blekinge",
+    "city": "KARLSKRONA",
+    "postal_code": "37191",
+    "country": "Sverige",
+    "email": "kansli@nigk.se",
+    "id": "b31136f8-fbb9-4fa7-b789-b6b9bdd85198"
+  },
+  {
+    "name": "Sala Golfklubb",
+    "region": "",
+    "city": "SALA",
+    "postal_code": "73392",
+    "country": "Sverige",
+    "email": "info@salagk.se",
+    "id": "9b0fb247-7147-4f7a-b102-80f3028ac9c0"
+  },
+  {
+    "name": "Jönköpings Golfklubb",
+    "region": "",
+    "city": "JÖNKÖPING",
+    "postal_code": "55627",
+    "country": "Sverige",
+    "email": "info@jonkopingsgk.se",
+    "id": "2c417219-2830-40ec-8a39-4ed980334b24"
+  },
+  {
+    "name": "Djurgårdens IF Golfförening",
+    "region": "",
+    "city": "LIDINGÖ",
+    "postal_code": "18142",
+    "country": "Sverige",
+    "email": "info@difgolf.se",
+    "id": "5e3b505d-a228-4819-bcb5-d7a90ec4f329"
+  },
+  {
+    "name": "Romeleåsens Golfklubb",
+    "region": "",
+    "city": "VEBERÖD",
+    "postal_code": "24796",
+    "country": "Sverige",
+    "email": "info@ragk.se",
+    "id": "9b40d38a-2f89-4d49-bd49-fa3f87ae43e2"
+  },
+  {
+    "name": "Bredareds Golfklubb",
+    "region": "",
+    "city": "FRISTAD",
+    "postal_code": "51391",
+    "country": "Sverige",
+    "email": "info@bredaredsgk.se",
+    "id": "46fc2f8e-4838-4398-9117-8c367fffa9c1"
+  },
+  {
+    "name": "Söderåsens Golfklubb",
+    "region": "",
+    "city": "BILLESHOLM",
+    "postal_code": "26771",
+    "country": "Sverige",
+    "email": "info@soderasensgk.se",
+    "id": "1bca0a66-35a4-4b5c-a810-e3e739da99fc"
+  },
+  {
+    "name": "Falköpings Golfklubb",
+    "region": "Västergötland",
+    "city": "FALKÖPING",
+    "postal_code": "52196",
+    "country": "Sverige",
+    "email": "info@falkopingsgk.com",
+    "id": "a6368135-82c6-4fcb-b656-15c210df04ba"
+  },
+  {
+    "name": "Högbo Golfklubb",
+    "region": "",
+    "city": "SANDVIKEN",
+    "postal_code": "81192",
+    "country": "Sverige",
+    "email": "info@hogbogk.com",
+    "id": "4b1f5a4e-e5d6-4f9e-93d5-c71991bdb167"
+  },
+  {
+    "name": "Sisjö Golfklubb",
+    "region": "",
+    "city": "VÄSTRA FRÖLUNDA",
+    "postal_code": "42132",
+    "country": "Sverige",
+    "email": "sisjogk@telia.com",
+    "id": "c076b0e4-30a8-4399-89e9-a0ae5466e251"
+  },
+  {
+    "name": "Kalix Golfklubb",
+    "region": "",
+    "city": "KALIX",
+    "postal_code": "95251",
+    "country": "Sverige",
+    "email": "info@kalixgolfklubb.se",
+    "id": "328ad582-f21e-47e3-aad6-44bdedb37d9d"
+  },
+  {
+    "name": "Bryttsätter Golfklubb",
+    "region": "",
+    "city": "NORRKÖPING",
+    "postal_code": "60596",
+    "country": "Sverige",
+    "email": "info@spelagolf.nu",
+    "id": "ff05606a-aca5-4f0d-82f8-53068081b522"
+  },
+  {
+    "name": "Burviks Golfklubb",
+    "region": "",
+    "city": "KNUTBY",
+    "postal_code": "74198",
+    "country": "Sverige",
+    "email": "info@burvik.se",
+    "id": "ed669f52-ea75-4d70-8d26-c634385fd5ab"
+  },
+  {
+    "name": "Nybro Golfklubb",
+    "region": "",
+    "city": "NYBRO",
+    "postal_code": "38292",
+    "country": "Sverige",
+    "email": "info@nybrogk.se",
+    "id": "e3aa5342-952a-4674-948e-c9a88e4c0059"
+  },
+  {
+    "name": "Norderöns Golfklubb/Njord",
+    "region": "Jämtlands län",
+    "city": "FRÖSÖN",
+    "postal_code": "83293",
+    "country": "Sverige",
+    "email": "info@norderonsgk.se",
+    "id": "d9a89e50-7e40-4ecd-a2b0-d59365f601b5"
+  },
+  {
+    "name": "Holms Golfklubb",
+    "region": "",
+    "city": "HALMSTAD",
+    "postal_code": "30592",
+    "country": "Sverige",
+    "email": "info@holmsgk.se",
+    "id": "60eef14c-9b70-490a-835d-250237aebf83"
+  },
+  {
+    "name": "Kiladalens Golfklubb",
+    "region": "",
+    "city": "NYKÖPING",
+    "postal_code": "61195",
+    "country": "Sverige",
+    "email": "info@kiladalensgolf.se",
+    "id": "6085f1e9-6476-40c6-a218-3e23b7a35b41"
+  },
+  {
+    "name": "Söderhamns Golfklubb",
+    "region": "",
+    "city": "SÖDERHAMN",
+    "postal_code": "82691",
+    "country": "Sverige",
+    "email": "info@soderhamnsgk.com",
+    "id": "06ab2f7a-d460-4655-a180-069a1ebf1989"
+  },
+  {
+    "name": "Tällbergsbyarnas Golfklubb",
+    "region": "Dalarna",
+    "city": "TÄLLBERG",
+    "postal_code": "79370",
+    "country": "Sverige",
+    "email": "kansli@tallberggk.com",
+    "id": "a30b7ce1-2d17-4472-9147-efa442103efb"
+  },
+  {
+    "name": "Hulta-Bollebygd Golfklubb",
+    "region": "",
+    "city": "BOLLEBYGD",
+    "postal_code": "51792",
+    "country": "Sverige",
+    "email": "info@hultagk.se",
+    "id": "c80c4ead-559b-45cf-804e-65d0cd30714f"
+  },
+  {
+    "name": "Kiruna Golfklubb",
+    "region": "",
+    "city": "KIRUNA",
+    "postal_code": "98102",
+    "country": "Sverige",
+    "email": "admin@kirunagolfklubb.com",
+    "id": "50dd218e-cd66-4481-a230-c0570ec1126b"
+  },
+  {
+    "name": "Ljugarns Golfklubb",
+    "region": "Gotland",
+    "city": "LJUGARN",
+    "postal_code": "62321",
+    "country": "Sverige",
+    "email": "info@ljugarnsgk.se",
+    "id": "c3f79828-941b-4096-bc2c-0eb7d926a65e"
+  },
+  {
+    "name": "Öijared Golfklubb",
+    "region": "",
+    "city": "FLODA",
+    "postal_code": "44892",
+    "country": "Sverige",
+    "email": "info@oijared.se",
+    "id": "7e4df02e-21d1-40ed-a68a-5f8b8e4fe8f9"
+  },
+  {
+    "name": "Askersunds Golfklubb",
+    "region": "",
+    "city": "ÅMMEBERG",
+    "postal_code": "69675",
+    "country": "Sverige",
+    "email": "info@askersundsgolfklubb.se",
+    "id": "8e28b72c-2450-447d-a315-94a7482c3843"
+  },
+  {
+    "name": "Trummenäs Golfklubb",
+    "region": "",
+    "city": "RAMDALA",
+    "postal_code": "37302",
+    "country": "Sverige",
+    "email": "kansli@trummenasgk.se",
+    "id": "7da92a3b-12a8-48a4-a77e-0fef588e0089"
+  },
+  {
+    "name": "Norrby Golf",
+    "region": "",
+    "city": "MARIEFRED",
+    "postal_code": "64791",
+    "country": "Sverige",
+    "email": "info@norrbygolf.se",
+    "id": "fec447fb-868b-4a0f-970e-07eddc33f59e"
+  },
+  {
+    "name": "Harabäckens Golfklubb",
+    "region": "Halland",
+    "city": "VARBERG",
+    "postal_code": "43291",
+    "country": "Sverige",
+    "email": "info@harabacken.se",
+    "id": "d2adb733-0f64-4d40-b099-55c0b7c6e2f9"
+  },
+  {
+    "name": "Boa Golfklubb Olofström",
+    "region": "Blekinge",
+    "city": "OLOFSTRÖM",
+    "postal_code": "29393",
+    "country": "Sverige",
+    "email": "boagk@oktv.se",
+    "id": "48d7601c-f7e4-48fc-9393-ca7e058518f6"
+  },
+  {
+    "name": "Ängsö Golfklubb",
+    "region": "",
+    "city": "VÄSTERÅS",
+    "postal_code": "72598",
+    "country": "Sverige",
+    "email": "kansli@angsogolf.org",
+    "id": "0c7679bf-6f90-461f-bf68-ade67ffbf5f2"
+  },
+  {
+    "name": "Ljungbyheds Golfklubb",
+    "region": "",
+    "city": "LJUNGBYHED",
+    "postal_code": "26451",
+    "country": "Sverige",
+    "email": "klubben@ljungbyhedsgk.se",
+    "id": "4b5818b3-653b-4422-b873-fa273e490cb4"
+  },
+  {
+    "name": "Varbergs Golfklubb",
+    "region": "",
+    "city": "TVÅÅKER",
+    "postal_code": "43277",
+    "country": "Sverige",
+    "email": "info@varbergsgk.se",
+    "id": "dc88a980-c1eb-4bdc-a18f-10b881685632"
+  },
+  {
+    "name": "Gräppås Golfklubb",
+    "region": "",
+    "city": "ONSALA",
+    "postal_code": "43991",
+    "country": "Sverige",
+    "email": "info@grappasgk.se",
+    "id": "81d47632-d383-497b-b174-e5cb86efd596"
+  },
+  {
+    "name": "Lysegårdens Golfklubb",
+    "region": "",
+    "city": "ROMELANDA",
+    "postal_code": "44292",
+    "country": "Sverige",
+    "email": "info@lysegardensgk.se",
+    "id": "0dd53078-ae3a-46bd-9305-103a6716a78c"
+  },
+  {
+    "name": "Grönlund Golfklubb",
+    "region": "",
+    "city": "ALMUGNE",
+    "postal_code": "74010",
+    "country": "Sverige",
+    "email": "info@gronlundgk.se",
+    "id": "dd329b2d-5bef-43c5-90b0-6c5d84679839"
+  },
+  {
+    "name": "Allerum Golfklubb",
+    "region": "",
+    "city": "ALLERUM",
+    "postal_code": "25476",
+    "country": "Sverige",
+    "email": "info@allerumgk.nu",
+    "id": "bd789494-c6a8-4e94-acdb-91c7b059e4cc"
+  },
+  {
+    "name": "Visingsö Links Golfklubb",
+    "region": "",
+    "city": "VISINGSÖ",
+    "postal_code": "56034",
+    "country": "Sverige",
+    "email": "kansli@visingsogk.se",
+    "id": "bef30503-cd92-472d-8b22-af22e1223302"
+  },
+  {
+    "name": "Umeå Golfklubb",
+    "region": "",
+    "city": "HOLMSUND",
+    "postal_code": "91335",
+    "country": "Sverige",
+    "email": "info@umgk.se",
+    "id": "260ad616-178f-4ddd-8bf0-a42f0d1026ab"
+  },
+  {
+    "name": "Tönnersjö Golfklubb",
+    "region": "",
+    "city": "ELDSBERGA",
+    "postal_code": "30597",
+    "country": "Sverige",
+    "email": "info@tonnersjogolf.se",
+    "id": "db82ead4-cd3e-4a36-9a07-9ad1c44cc238"
+  },
+  {
+    "name": "Ljusdals Golfklubb",
+    "region": "",
+    "city": "LJUSDAL",
+    "postal_code": "82735",
+    "country": "Sverige",
+    "email": "kansli@golfiljusdal.nu",
+    "id": "3bc7b759-b417-4c0e-8ef2-c1400e5d5d96"
+  },
+  {
+    "name": "Forsbacka Golfklubb",
+    "region": "",
+    "city": "ÅMÅL",
+    "postal_code": "66291",
+    "country": "Sverige",
+    "email": "info@forsbackagk.se",
+    "id": "69a1f26f-b9a0-4703-bb52-4da7d5d1e63a"
+  },
+  {
+    "name": "Degerfors Golf ",
+    "region": "",
+    "city": "DEGERFORS",
+    "postal_code": "69335",
+    "country": "Sverige",
+    "email": "info@degerforsgolf.se",
+    "id": "46637ca5-a486-4ed1-b2fe-fc98d5690f84"
+  },
+  {
+    "name": "Emmaboda Golfklubb",
+    "region": "",
+    "city": "VISSEFJÄRDA",
+    "postal_code": "36060",
+    "country": "Sverige",
+    "email": "info@emmabodagk.se",
+    "id": "a62a8f8e-9bbf-43b3-970f-771cf0b478cf"
+  },
+  {
+    "name": "Sjögärde Golfklubb",
+    "region": "",
+    "city": "FRILLESÅS",
+    "postal_code": "43963",
+    "country": "Sverige",
+    "email": "info@sjogarde.se",
+    "id": "1727825e-405b-48fa-8d85-a24b7f5d8e6b"
+  },
+  {
+    "name": "Byxelkroks Golfklubb",
+    "region": "",
+    "city": "BYXELKROK",
+    "postal_code": "38775",
+    "country": "Sverige",
+    "email": "kansli@byxelkroksgk.se",
+    "id": "12adcc9b-e363-43d6-8c75-0104e39b5174"
+  },
+  {
+    "name": "Finspångs Golfklubb",
+    "region": "Östergötland",
+    "city": "FINSPÅNG",
+    "postal_code": "61292",
+    "country": "Sverige",
+    "email": "info@finspangsgk.se",
+    "id": "3dde4d99-cf60-42e5-b78b-830f09ec02f5"
+  },
+  {
+    "name": "Täby Golfklubb",
+    "region": "",
+    "city": "TÄBY",
+    "postal_code": "18770",
+    "country": "Sverige",
+    "email": "reception@tabygk.se",
+    "id": "7b0590cb-ecee-41a1-8af7-cc0cb3417558"
+  },
+  {
+    "name": "World of Golf City Club",
+    "region": "",
+    "city": "VÄSTRA FRÖLUNDA",
+    "postal_code": "42147",
+    "country": "Sverige",
+    "email": "info@worldofgolf.se",
+    "id": "357d3046-a3bf-41cb-a43b-b64d9788bd41"
+  },
+  {
+    "name": "Köpings Golfklubb",
+    "region": "",
+    "city": "KÖPING",
+    "postal_code": "73126",
+    "country": "Sverige",
+    "email": "info@kopingsgk.nu",
+    "id": "cc589abb-d57f-4296-ba40-6fa1c72aa35c"
+  },
+  {
+    "name": "Mjölby Golfklubb",
+    "region": "",
+    "city": "MJÖLBY",
+    "postal_code": "59592",
+    "country": "Sverige",
+    "email": "kansli@mjolbygk.se",
+    "id": "b94f4834-222f-4c62-847e-91cd95b45862"
+  },
+  {
+    "name": "Tomelilla Golfklubb",
+    "region": "",
+    "city": "TOMELILLA",
+    "postal_code": "27394",
+    "country": "Sverige",
+    "email": "info@tomelillagolf.se",
+    "id": "f30d5bc0-d92a-4859-9d92-b370662d6386"
+  },
+  {
+    "name": "Falkenbergs Golfklubb",
+    "region": "",
+    "city": "FALKENBERG",
+    "postal_code": "31172",
+    "country": "Sverige",
+    "email": "info@falkenbergsgk.se",
+    "id": "83f323aa-313a-4fc3-829e-068ae1737045"
+  },
+  {
+    "name": "Motala Golfklubb",
+    "region": "",
+    "city": "MOTALA",
+    "postal_code": "59192",
+    "country": "Sverige",
+    "email": "kansli@motalagk.se",
+    "id": "458b588d-9cd5-4a9e-a3c9-6446e46c88ec"
+  },
+  {
+    "name": "Roslagens Golfklubb Norrtälje",
+    "region": "",
+    "city": "NORRTÄLJE",
+    "postal_code": "76175",
+    "country": "Sverige",
+    "email": "info@roslagensgk.com",
+    "id": "4191700c-72ef-4705-8431-6f6f07323354"
+  },
+  {
+    "name": "Åre Golfklubb",
+    "region": "",
+    "city": "DUVED",
+    "postal_code": "83772",
+    "country": "Sverige",
+    "email": "info@aregolfklubb.com",
+    "id": "bf12434c-0cc2-4f53-80f0-bec57bb7547d"
+  },
+  {
+    "name": "Surahammars Golfklubb",
+    "region": "Västmanland",
+    "city": "SURAHAMMAR",
+    "postal_code": "73534",
+    "country": "Sverige",
+    "email": "info@surahammarsgk.se",
+    "id": "b7ab1b47-956a-4980-bc87-4988dbc7a71d"
+  },
+  {
+    "name": "Vallda Golf & Country Club",
+    "region": "",
+    "city": "VALLDA",
+    "postal_code": "43490",
+    "country": "Sverige",
+    "email": "kansli@valldagolf.se",
+    "id": "88ad8025-f90c-4b29-9350-78ddb1fafc7d"
+  },
+  {
+    "name": "Haninge Golfklubb",
+    "region": "Stockholm",
+    "city": "ÖSTERHANINGE",
+    "postal_code": "13795",
+    "country": "Sverige",
+    "email": "info@haningegk.se",
+    "id": "d8e5e6cc-cfc4-403a-b3ea-d362900f6150"
+  },
+  {
+    "name": "Nässjö Golfklubb",
+    "region": "",
+    "city": "NÄSSJÖ",
+    "postal_code": "57195",
+    "country": "Sverige",
+    "email": "info@nassjogk.se",
+    "id": "9c9148eb-9545-4c0c-b91c-5e2506aa828f"
+  },
+  {
+    "name": "Vetlanda Golfklubb",
+    "region": "",
+    "city": "VETLANDA",
+    "postal_code": "57442",
+    "country": "Sverige",
+    "email": "info@vetlandagk.com",
+    "id": "33ec72ae-9b70-4cd1-9aa4-d6b999dad342"
+  },
+  {
+    "name": "Cloud Golf Club",
+    "region": "",
+    "city": "SOLNA",
+    "postal_code": "17148",
+    "country": "Sverige",
+    "email": "hello@cloudgolf.se",
+    "id": "7b6d5693-5bb0-4e5f-969d-51178c7c77ac"
+  },
+  {
+    "name": "Hedemora Golfklubb",
+    "region": "Dalarna",
+    "city": "HEDEMORA",
+    "postal_code": "77696",
+    "country": "Sverige",
+    "email": "info@hedemoragk.se",
+    "id": "3aa5ffed-e614-441c-aeb9-aa820bc83146"
+  },
+  {
+    "name": "Borås Golfklubb",
+    "region": "Västergötland",
+    "city": "BORÅS",
+    "postal_code": "50495",
+    "country": "Sverige",
+    "email": "info@borasgolfklubb.se",
+    "id": "8f88a01a-c01b-4049-843d-8419d6dd1e56"
+  },
+  {
+    "name": "GolfUppsala",
+    "region": "",
+    "city": "UPPSALA",
+    "postal_code": "75591",
+    "country": "Sverige",
+    "email": "info@golfuppsala.se",
+    "id": "d1587e05-9d9a-4a4a-a25d-d728dedab804"
+  },
+  {
+    "name": "Sölvesborgs Golfklubb",
+    "region": "",
+    "city": "SÖLVESBORG",
+    "postal_code": "29425",
+    "country": "Sverige",
+    "email": "info@solvesborgsgk.se",
+    "id": "f2f231c5-6fb2-426f-a65e-fb669f11649f"
+  },
+  {
+    "name": "Strömsunds Golfklubb",
+    "region": "",
+    "city": "STRÖMSUND",
+    "postal_code": "83323",
+    "country": "Sverige",
+    "email": "stromsundsgk@gmail.com",
+    "id": "47478d7e-656f-4afd-9e9e-cc4843447d33"
+  },
+  {
+    "name": "Landeryds Golfklubb",
+    "region": "",
+    "city": "LINKÖPING",
+    "postal_code": "58593",
+    "country": "Sverige",
+    "email": "kansli@landeryd.se",
+    "id": "e137a989-b9d6-40ec-8216-7f94857d9dc9"
+  },
+  {
+    "name": "Strandtorps Golfklubb",
+    "region": "",
+    "city": "HALMSTAD",
+    "postal_code": "30260",
+    "country": "Sverige",
+    "email": "kansli@strandtorpgolf.se",
+    "id": "be5b1fc0-17a2-4510-83e4-e8783a1cf9d0"
+  },
+  {
+    "name": "Skepptuna Golfklubb Valla",
+    "region": "Uppland",
+    "city": "MÄRSTA",
+    "postal_code": "19593",
+    "country": "Sverige",
+    "email": "skepptuna.golfklubb@gmail.com",
+    "id": "8f4d248f-8fff-4bfd-b316-d1407145be19"
+  },
+  {
+    "name": "Rossöns Golfklubb",
+    "region": "",
+    "city": "ROSSÖN",
+    "postal_code": "88051",
+    "country": "Sverige",
+    "email": "rossonsgk@gmail.com",
+    "id": "47946bca-318f-496a-a2eb-2e9ce8706145"
+  },
+  {
+    "name": "Västerviks Golf",
+    "region": "",
+    "city": "VÄSTERVIK",
+    "postal_code": "59338",
+    "country": "Sverige",
+    "email": "kansli@vasterviksgolf.se",
+    "id": "8f6d902b-6650-4411-8397-956f73f7adf4"
+  },
+  {
+    "name": "Östad Golf Väderstad",
+    "region": "östergötland",
+    "city": "VÄDERSTAD",
+    "postal_code": "59021",
+    "country": "Sverige",
+    "email": "info@ostadgolf.se",
+    "id": "a86fd645-c9ec-401c-9553-b34c59636362"
+  },
+  {
+    "name": "Waldemarsviks Golfbana",
+    "region": "",
+    "city": "GRYT",
+    "postal_code": "61042",
+    "country": "Sverige",
+    "email": "info@waldemarsviksgolf.se",
+    "id": "2c7eec25-7f89-443a-b621-cbfafebc377b"
+  },
+  {
+    "name": "Nora Golfklubb",
+    "region": "",
+    "city": "NORA",
+    "postal_code": "71391",
+    "country": "Sverige",
+    "email": "info@noragolfklubb.com",
+    "id": "87cdfa51-3c55-4c5f-aba4-4c11c61a5a05"
+  },
+  {
+    "name": "Leråkra Golfklubb",
+    "region": "Blekinge",
+    "city": "RONNEBY",
+    "postal_code": "37297",
+    "country": "Sverige",
+    "email": "info@lerakragolf.se",
+    "id": "0acf3515-9722-4ad2-aab6-f17ebc3d0576"
+  },
+  {
+    "name": "Gränna Golfklubb",
+    "region": "Småland",
+    "city": "GRÄNNA",
+    "postal_code": "56392",
+    "country": "Sverige",
+    "email": "kansli@grannagk.se",
+    "id": "1a8f389f-3bd7-49d0-83ce-4cf1bf04c7a1"
+  },
+  {
+    "name": "Oxie Golfklubb",
+    "region": "Skåne",
+    "city": "MALMÖ",
+    "postal_code": "23838",
+    "country": "Sverige",
+    "email": "info@oxiegk.se",
+    "id": "1583b2ec-99a2-4f1e-b08a-814403b8e829"
+  },
+  {
+    "name": "HG Golf Glumslöv",
+    "region": "",
+    "city": "GLUMSLÖV",
+    "postal_code": "26163",
+    "country": "Sverige",
+    "email": "info@hggolf.se",
+    "id": "513fd0f4-7681-431c-bd07-89c05b405970"
+  },
+  {
+    "name": "Saxå Golfklubb",
+    "region": "Värmland",
+    "city": "FILIPSTAD",
+    "postal_code": "68292",
+    "country": "Sverige",
+    "email": "saxagk@telia.com",
+    "id": "1926482e-bb91-4b97-9ac8-2b68428778f8"
+  },
+  {
+    "name": "Sundsta Golf Norrtälje",
+    "region": "",
+    "city": "NORRTÄLJE",
+    "postal_code": "76191",
+    "country": "Sverige",
+    "email": "golf@sundsta.se",
+    "id": "2354eb0a-6630-4437-affc-0766ed739c20"
+  },
+  {
+    "name": "Solbacka Golfklubb",
+    "region": "",
+    "city": "STJÄRNHOV",
+    "postal_code": "64696",
+    "country": "Sverige",
+    "email": "info@solbackagk.se",
+    "id": "60ef4531-4f3b-4535-88fd-05dbaa969488"
+  },
+  {
+    "name": "Hinton Golf Club",
+    "region": "Skåne",
+    "city": "OXIE",
+    "postal_code": "23841",
+    "country": "Sverige",
+    "email": "info@hintongolf.se",
+    "id": "b749835e-8686-4147-8985-453fe7eb5b52"
+  },
+  {
+    "name": "Fjällbacka Golfklubb",
+    "region": "",
+    "city": "FJÄLLBACKA",
+    "postal_code": "45741",
+    "country": "Sverige",
+    "email": "info@fjallbackagk.se",
+    "id": "8b1deda2-7189-48bf-b995-514eb7285b80"
+  },
+  {
+    "name": "Alvesta Golfklubb",
+    "region": "",
+    "city": "MOHEDA",
+    "postal_code": "34263",
+    "country": "Sverige",
+    "email": "kansli@alvestagolf.se",
+    "id": "e1f9db85-5d04-4a0d-8a64-02a13ef9fb11"
+  },
+  {
+    "name": "Kristinehamns Golfklubb",
+    "region": "",
+    "city": "KRISTINEHAMN",
+    "postal_code": "68194",
+    "country": "Sverige",
+    "email": "kansli@kristinehamnsgk.se",
+    "id": "5518cc78-7292-434b-abde-400cf86385c2"
+  },
+  {
+    "name": "Öresunds Golf ",
+    "region": "",
+    "city": "HÄLJARP",
+    "postal_code": "26172",
+    "country": "Sverige",
+    "email": "info@oresundsgk.se",
+    "id": "8ea1a174-2904-44a0-ae8a-e21b0bf18635"
+  },
+  {
+    "name": "Gävle Golfklubb",
+    "region": "",
+    "city": "GÄVLE",
+    "postal_code": "80647",
+    "country": "Sverige",
+    "email": "kansli@gavlegolf.com",
+    "id": "04d77d11-f066-4620-a8eb-8820ba99a6e7"
+  },
+  {
+    "name": "Koberg Golfklubb",
+    "region": "",
+    "city": "TROLLHÄTTAN",
+    "postal_code": "46194",
+    "country": "Sverige",
+    "email": "kansliet@koberggk.se",
+    "id": "9708fc1f-70a9-42f0-b716-d89b4c58eceb"
+  },
+  {
+    "name": "Lunds Akademiska Golfklubb",
+    "region": "Skåne",
+    "city": "LUND",
+    "postal_code": "22592",
+    "country": "Sverige",
+    "email": "info@lagk.se",
+    "id": "aca45bed-d39e-4c38-a3dd-342ec046e112"
+  },
+  {
+    "name": "Ingelsta Golfklubb",
+    "region": "Östergötland",
+    "city": "NORRKÖPING",
+    "postal_code": "60238",
+    "country": "Sverige",
+    "email": "info@ingelstagk.se",
+    "id": "6c79d731-c158-460d-866b-8c6e220275b5"
+  },
+  {
+    "name": "Kävlinge Golfklubb",
+    "region": "",
+    "city": "KÄVLINGE",
+    "postal_code": "24491",
+    "country": "Sverige",
+    "email": "info@kavlingegk.se",
+    "id": "7cd535ce-3d1f-4048-8391-f2b182808860"
+  },
+  {
+    "name": "Bokskogens Golfklubb",
+    "region": "Skåne",
+    "city": "BARA",
+    "postal_code": "23364",
+    "country": "Sverige",
+    "email": "info@bokskogen.com",
+    "id": "dc3ca23b-42ed-4b23-bb4b-45e8ff7f3cdb"
+  },
+  {
+    "name": "Marks Golfklubb",
+    "region": "",
+    "city": "KINNA",
+    "postal_code": "51158",
+    "country": "Sverige",
+    "email": "info@marksgk.se",
+    "id": "c665c705-ddd7-492e-9e31-d8fe987c4ca3"
+  },
+  {
+    "name": "Abbekås Golfklubb",
+    "region": "Skåne",
+    "city": "ABBEKÅS",
+    "postal_code": "27456",
+    "country": "Sverige",
+    "email": "info@abbekasgk.se",
+    "id": "347ad22e-b7d7-4ff0-a90f-9fdc6e5fb749"
+  },
+  {
+    "name": "Götaströms Golfklubb",
+    "region": "",
+    "city": "SKILLINGARYD",
+    "postal_code": "56832",
+    "country": "Sverige",
+    "email": "info@gotastromsgk.se",
+    "id": "cb4b1c70-7dcd-489a-bbe6-e4b45ed856a8"
+  },
+  {
+    "name": "Bjäre Golfklubb",
+    "region": "Skåne",
+    "city": "BÅSTAD",
+    "postal_code": "26993",
+    "country": "Sverige",
+    "email": "info@bjaregolfklubb.se",
+    "id": "9fa3a427-19f1-4028-a08d-3b33ab533fe4"
+  },
+  {
+    "name": "Fagersta Golfklubb",
+    "region": "",
+    "city": "FAGERSTA",
+    "postal_code": "73792",
+    "country": "Sverige",
+    "email": "info@fagerstagk.se",
+    "id": "de52c114-bfa3-480d-9a3c-3169bb7a760e"
+  },
+  {
+    "name": "Chalmers Golfklubb",
+    "region": "",
+    "city": "LANDVETTER",
+    "postal_code": "43891",
+    "country": "Sverige",
+    "email": "info@chgk.se",
+    "id": "51e73b28-7113-4a30-bc55-44710fd6f4a2"
+  },
+  {
+    "name": "Billingens Golfklubb",
+    "region": "",
+    "city": "LERDALA",
+    "postal_code": "54017",
+    "country": "Sverige",
+    "email": "info@billingensgk.se",
+    "id": "6266411b-4b1d-4460-9b89-e0d4c9b1a49f"
+  },
+  {
+    "name": "Vingåkers Golfklubb",
+    "region": "",
+    "city": "VINGÅKER",
+    "postal_code": "64393",
+    "country": "Sverige",
+    "email": "kansli@vingakersgolf.se",
+    "id": "5f7293c4-79e6-4884-8736-dcbe8c7ea604"
+  },
+  {
+    "name": "Sommarro Golf",
+    "region": "",
+    "city": "KARLSTAD",
+    "postal_code": "65230",
+    "country": "Sverige",
+    "email": "reception@karlstadcitygolf.se",
+    "id": "f961e804-870f-48f1-984c-6539e816829e"
+  },
+  {
+    "name": "GolfStar Golf Club",
+    "region": "Stockholm",
+    "city": "SOLNA",
+    "postal_code": "17148",
+    "country": "Sverige",
+    "email": "info@golfstar.se",
+    "id": "4170573d-7422-47e7-b93d-4e2b6dda7b10"
+  },
+  {
+    "name": "Mauritzbergs Slott & Golf",
+    "region": "",
+    "city": "VIKBOLANDET",
+    "postal_code": "61031",
+    "country": "Sverige",
+    "email": "golf@mauritzberg.se",
+    "id": "76585136-32de-4f9c-a2c1-d8966f011134"
+  },
+  {
+    "name": "Linköpings Golfklubb",
+    "region": "",
+    "city": "LINKÖPING",
+    "postal_code": "58330",
+    "country": "Sverige",
+    "email": "reception@linkopingsgk.se",
+    "id": "bd0bba30-f351-47fa-82ea-f26f4ace6c13"
+  },
+  {
+    "name": "Friiberghs Golfklubb",
+    "region": "",
+    "city": "ÖRSUNDSBRO",
+    "postal_code": "74962",
+    "country": "Sverige",
+    "email": "bokning@friiberghsgk.se",
+    "id": "8f72a8ea-c4e5-4fc1-9fc0-070080bad642"
+  },
+  {
+    "name": "Åsundsholms Golfklubb",
+    "region": "Västergötland",
+    "city": "VEGBY",
+    "postal_code": "52011",
+    "country": "Sverige",
+    "email": "info@asundsholm.se",
+    "id": "103758c4-dea2-4b66-bdf6-1c8322f3b9da"
+  },
+  {
+    "name": "Ulricehamns Golfklubb",
+    "region": "Västergötland",
+    "city": "ULRICEHAMN",
+    "postal_code": "52333",
+    "country": "Sverige",
+    "email": "info@ulricehamnsgk.se",
+    "id": "f092be36-5137-4eff-8bc1-a308cc77a51f"
+  },
+  {
+    "name": "Lundsbrunn Golfklubb",
+    "region": "Västra Götaland",
+    "city": "LUNDSBRUNN",
+    "postal_code": "53372",
+    "country": "Sverige",
+    "email": "kansliet@lundsbrunngk.com",
+    "id": "08b85d6a-8bc2-454b-be9e-5df1007a6525"
+  },
+  {
+    "name": "Läckö Golfklubb",
+    "region": "",
+    "city": "LIDKÖPING",
+    "postal_code": "53199",
+    "country": "Sverige",
+    "email": "info@lackogk.se",
+    "id": "b93da802-770f-4a2e-ba9a-004bc057c3dc"
+  },
+  {
+    "name": "Hooks Golfklubb",
+    "region": "",
+    "city": "HOK",
+    "postal_code": "56013",
+    "country": "Sverige",
+    "email": "kansli@hooksgk.se",
+    "id": "bcb4248f-5543-4c21-b242-2aed69ad9294"
+  },
+  {
+    "name": "Fullerö Golfklubb",
+    "region": "",
+    "city": "VÄSTERÅS",
+    "postal_code": "72591",
+    "country": "Sverige",
+    "email": "kontakta-oss@fullerogk.se",
+    "id": "ba07e392-be9c-4fae-af4f-f7a4380ef934"
+  },
+  {
+    "name": "HaningeStrand Golfklubb",
+    "region": "",
+    "city": "ÖSTERHANINGE",
+    "postal_code": "13795",
+    "country": "Sverige",
+    "email": "info@haningestrand.se",
+    "id": "19263661-a98b-4f8f-b8d5-d51c3b4d4d8b"
+  },
+  {
+    "name": "Kils Golfklubb",
+    "region": "",
+    "city": "KIL",
+    "postal_code": "66591",
+    "country": "Sverige",
+    "email": "kansli@kilsgk.se",
+    "id": "2369742f-c78d-4812-913e-4790aa3d5ff0"
+  },
+  {
+    "name": "Nyköpings Golfklubb",
+    "region": "",
+    "city": "NYKÖPING",
+    "postal_code": "61192",
+    "country": "Sverige",
+    "email": "kansli@nykopingsgk.se",
+    "id": "f29160f9-6a4c-43a6-92eb-2704b22f38b3"
+  },
+  {
+    "name": "Bedinge Golfklubb",
+    "region": "Skåne",
+    "city": "BEDDINGESTRAND",
+    "postal_code": "23176",
+    "country": "Sverige",
+    "email": "info@bedingegk.se",
+    "id": "65e8be4e-eb7c-448d-9c4b-f18841cb946d"
+  },
+  {
+    "name": "Ale Golfklubb",
+    "region": "",
+    "city": "ALVHEM",
+    "postal_code": "44691",
+    "country": "Sverige",
+    "email": "info@alegk.se",
+    "id": "76f18371-e53e-4843-afae-35a74ff0906a"
+  },
+  {
+    "name": "Gullbringa Golf & Country Club",
+    "region": "",
+    "city": "HÅLTA",
+    "postal_code": "44295",
+    "country": "Sverige",
+    "email": "kansli@gullbringagolf.se",
+    "id": "3e522386-ba69-4af8-8cb6-347c3cb3ffca"
+  },
+  {
+    "name": "Happy Golfers",
+    "region": "",
+    "city": "STOCKHOLM",
+    "postal_code": "11546",
+    "country": "Sverige",
+    "email": "support@happygolfer.se",
+    "id": "603fcf67-d3af-4b0b-a325-6dc4ad4aece2"
+  },
+  {
+    "name": "Vellinge Golfklubb",
+    "region": "Skåne",
+    "city": "VELLINGE",
+    "postal_code": "23594",
+    "country": "Sverige",
+    "email": "info@vellingegk.se",
+    "id": "f179bca8-5148-45c5-81bd-9e73aa7f8875"
+  },
+  {
+    "name": "Elisefarm Golf Club",
+    "region": "",
+    "city": "HÖÖR",
+    "postal_code": "24396",
+    "country": "Sverige",
+    "email": "info@elisefarm.se",
+    "id": "55cc5523-7595-40c2-bda7-f3a9126065dd"
+  },
+  {
+    "name": "Mölle Golfklubb",
+    "region": "",
+    "city": "MÖLLE",
+    "postal_code": "26377",
+    "country": "Sverige",
+    "email": "info@mollegk.se",
+    "id": "b2c32401-8a6d-4a88-b190-48d63dbf0157"
+  },
+  {
+    "name": "SGF Tillstånd Prispengar",
+    "region": "",
+    "city": "STOCKHOLM",
+    "postal_code": "10061",
+    "country": "Sverige",
+    "email": "oskar.gunnarsson@golf.se",
+    "id": "82308869-2f66-4f1e-bf82-cf26a5148d17"
+  },
+  {
+    "name": "Skepparslövs Golfklubb",
+    "region": "Skåne",
+    "city": "KRISTIANSTAD",
+    "postal_code": "29192",
+    "country": "Sverige",
+    "email": "kansli@skepparslovsgk.se",
+    "id": "53e819ab-c8b2-4bac-9c2e-c5bce188409c"
+  },
+  {
+    "name": "Örbyhus Golfklubb",
+    "region": "Uppland",
+    "city": "ÖRBYHUS",
+    "postal_code": "74895",
+    "country": "Sverige",
+    "email": "info@orbyhusgolf.se",
+    "id": "cdf73d4b-b676-4405-beb7-bb34c88cb2b6"
+  },
+  {
+    "name": "Skaftö Golfklubb",
+    "region": "",
+    "city": "FISKEBÄCKSKIL",
+    "postal_code": "45178",
+    "country": "Sverige",
+    "email": "kansliet@skaftogk.se",
+    "id": "cd045eb7-3c07-49c2-b2d8-50148254a705"
+  },
+  {
+    "name": "Kungälv-Kode Golfklubb",
+    "region": "",
+    "city": "KODE",
+    "postal_code": "44297",
+    "country": "Sverige",
+    "email": "info@kkgk.se",
+    "id": "863b3c77-1f07-4025-8860-6fb1c8e7bc28"
+  },
+  {
+    "name": "Jönåkers Golfklubb",
+    "region": "",
+    "city": "JÖNÅKER",
+    "postal_code": "61196",
+    "country": "Sverige",
+    "email": "info@jonakersgk.se",
+    "id": "42f91b0a-6fa7-460a-9d32-26efcfe38dde"
+  },
+  {
+    "name": "Fors Golf",
+    "region": "",
+    "city": "VÄSTERHANINGE",
+    "postal_code": "13791",
+    "country": "Sverige",
+    "email": "info@forsgolf.se",
+    "id": "4c11a26a-a8cc-41bd-bdf6-2a7c2eaaff44"
+  },
+  {
+    "name": "Söderslätts Golfklubb",
+    "region": "Skåne",
+    "city": "VELLINGE",
+    "postal_code": "23594",
+    "country": "Sverige",
+    "email": "info@sslgk.se",
+    "id": "2bd521e1-cc60-40d9-ae22-1d7b5eae5f23"
+  },
+  {
+    "name": "Västerås Golfklubb",
+    "region": "Västmanland",
+    "city": "VÄSTERÅS",
+    "postal_code": "72480",
+    "country": "Sverige",
+    "email": "info@vasterasgk.se",
+    "id": "377adfdb-8d74-41a6-b9d6-92e64b2e6d66"
+  },
+  {
+    "name": "Eksjö Golfklubb",
+    "region": "",
+    "city": "EKSJÖ",
+    "postal_code": "57596",
+    "country": "Sverige",
+    "email": "kansli@eksjogk.se",
+    "id": "218992e6-5ee5-4969-9afc-d9b3a95be316"
+  },
+  {
+    "name": "Åda Golf & Country Club",
+    "region": "",
+    "city": "TROSA",
+    "postal_code": "61991",
+    "country": "Sverige",
+    "email": "info@adagolf.se",
+    "id": "d57f91f9-bf70-465d-934f-50e7b2621846"
+  },
+  {
+    "name": "Rydö Golfklubb",
+    "region": "",
+    "city": "RYDÖBRUK",
+    "postal_code": "31442",
+    "country": "Sverige",
+    "email": "info@rydogolf.se",
+    "id": "2524c606-27df-4066-9ded-bca329faf149"
+  },
+  {
+    "name": "Hälla Golfklubb",
+    "region": "Västmanlands län",
+    "city": "VÄSTERÅS",
+    "postal_code": "72134",
+    "country": "Sverige",
+    "email": "info@hallagk.se",
+    "id": "bee3743c-cebe-4bb0-9272-bca9d4c47c11"
+  },
+  {
+    "name": "Wattholma Golfklubb",
+    "region": "",
+    "city": "VATTHOLMA",
+    "postal_code": "74392",
+    "country": "Sverige",
+    "email": "info@wattholmagk.se",
+    "id": "1fe679f2-e707-4275-9000-d95e8c851c70"
+  },
+  {
+    "name": "Nynäshamns Golfklubb",
+    "region": "",
+    "city": "ÖSMO",
+    "postal_code": "18491",
+    "country": "Sverige",
+    "email": "info@nynashamnsgk.se",
+    "id": "4addfe0f-9dd5-43d2-858f-7945d0f156ad"
+  },
+  {
+    "name": "Vårgårda Golfklubb",
+    "region": "Västra Götaland",
+    "city": "VÅRGÅRDA",
+    "postal_code": "44792",
+    "country": "Sverige",
+    "email": "info@vargardagolf.se",
+    "id": "fc92ee32-56d3-40f0-99ae-e2dac02a87a1"
+  },
+  {
+    "name": "Värnamo Golfklubb",
+    "region": "Småland",
+    "city": "VÄRNAMO",
+    "postal_code": "33196",
+    "country": "Sverige",
+    "email": "info@varnamogk.se",
+    "id": "4a1a005e-e108-4021-89b0-f13d8cdb52da"
+  },
+  {
+    "name": "Ulriksdals Golfklubb",
+    "region": "",
+    "city": "SOLNA",
+    "postal_code": "17068",
+    "country": "Sverige",
+    "email": "ulriksdal@arlandastadgolf.se",
+    "id": "ee098427-f975-4982-ae6f-8893efa42cac"
+  },
+  {
+    "name": "Sälenfjällens Golfklubb",
+    "region": "Dalarna",
+    "city": "SÄLEN",
+    "postal_code": "78067",
+    "country": "Sverige",
+    "email": "info@salenfjallensgk.se",
+    "id": "ea731b4b-3b2b-4097-a2b1-fcd4db1b66b4"
+  },
+  {
+    "name": "Möre Golfklubb",
+    "region": "SMÅLAND",
+    "city": "SÖDERÅKRA",
+    "postal_code": "38503",
+    "country": "Sverige",
+    "email": "info@moregk.se",
+    "id": "e4735cc3-c740-465d-920d-e42616ad9a33"
+  },
+  {
+    "name": "Haparanda Golfklubb",
+    "region": "",
+    "city": "HAPARANDA",
+    "postal_code": "0",
+    "country": "Finland",
+    "email": "kansli@haparandagk.com",
+    "id": "f98301d9-d26f-47f3-926a-dbc873d5b7da"
+  },
+  {
+    "name": "Isaberg Golfklubb",
+    "region": "Småland",
+    "city": "HESTRA",
+    "postal_code": "33027",
+    "country": "Sverige",
+    "email": "info@isaberggolf.se",
+    "id": "833ab1b5-72b4-46ea-acba-edd73956ec4c"
+  },
+  {
+    "name": "Tortuna Golfklubb",
+    "region": "",
+    "city": "VÄSTERÅS",
+    "postal_code": "72596",
+    "country": "Sverige",
+    "email": "kansli@tortunagk.com",
+    "id": "6166630f-4132-4ff0-8099-8de1772bcd57"
+  },
+  {
+    "name": "Lyckorna Golfklubb",
+    "region": "",
+    "city": "LJUNGSKILE",
+    "postal_code": "45991",
+    "country": "Sverige",
+    "email": "info@lyckornagk.se",
+    "id": "913b9ec4-f183-4b71-b723-87602eb0fb28"
+  },
+  {
+    "name": "Arboga Golfklubb",
+    "region": "",
+    "city": "ARBOGA",
+    "postal_code": "73291",
+    "country": "Sverige",
+    "email": "info@arbogagk.se",
+    "id": "13aa75a3-7f9a-4f3c-b092-432c6a6e993c"
+  },
+  {
+    "name": "Tyresö Golf",
+    "region": "Stockholm",
+    "city": "TYRESÖ",
+    "postal_code": "13549",
+    "country": "Sverige",
+    "email": "kansli@tyresogolf.com",
+    "id": "ce1fe6f1-3a5a-4666-89e5-f6cfa9272061"
+  },
+  {
+    "name": "Carlskrona Golfklubb",
+    "region": "Blekinge",
+    "city": "NÄTTRABY",
+    "postal_code": "37024",
+    "country": "Sverige",
+    "email": "info@carlskronagk.com",
+    "id": "5c98571a-417c-45e5-b852-242cf8a574b4"
+  },
+  {
+    "name": "Hammarö Golfklubb",
+    "region": "Värmland",
+    "city": "HAMMARÖ",
+    "postal_code": "66391",
+    "country": "Sverige",
+    "email": "info@hammarogk.se",
+    "id": "642bdb54-54eb-473e-8997-c43e78f73982"
+  },
+  {
+    "name": "Salems Golfklubb",
+    "region": "",
+    "city": "SÖDERTÄLJE",
+    "postal_code": "15295",
+    "country": "Sverige",
+    "email": "kansli@salemsgk.se",
+    "id": "86cdb4bc-eca1-40da-932c-21ebb7427cef"
+  },
+  {
+    "name": "Villa Baro Golf Åtvidaberg ",
+    "region": "",
+    "city": "ÅTVIDABERG",
+    "postal_code": "59731",
+    "country": "Sverige",
+    "email": "golf@villabaro.se",
+    "id": "e1fec8e2-a906-481e-88bc-f1d71ceb5720"
+  },
+  {
+    "name": "Sjöbo Golfklubb",
+    "region": "Skåne",
+    "city": "SJÖBO",
+    "postal_code": "27594",
+    "country": "Sverige",
+    "email": "info@sjobogk.com",
+    "id": "09d5fc8d-b80c-4dd4-928b-47fdd7ac2875"
+  },
+  {
+    "name": "Brastad Golfklubb",
+    "region": "Västra Götalands län",
+    "city": "BRASTAD",
+    "postal_code": "45491",
+    "country": "Sverige",
+    "email": "info@brastadgk.se",
+    "id": "68517dfb-9895-47fe-a1df-423bfd8d13de"
+  },
+  {
+    "name": "Töreboda Golfklubb",
+    "region": "",
+    "city": "TÖREBODA",
+    "postal_code": "54591",
+    "country": "Sverige",
+    "email": "info@torebodagk.se",
+    "id": "02d5f4c6-442e-44c7-bcb7-3e51dca49d7b"
+  },
+  {
+    "name": "Åkagårdens Golfklubb",
+    "region": "",
+    "city": "BÅSTAD",
+    "postal_code": "26992",
+    "country": "Sverige",
+    "email": "info@akgk.se",
+    "id": "66692156-0c52-4f16-aef2-553c622f5a8b"
+  },
+  {
+    "name": "Böda Sands Golfklubb",
+    "region": "NÖ Öland",
+    "city": "LÖTTORP",
+    "postal_code": "38373",
+    "country": "Sverige",
+    "email": "info@bodasandgk.se",
+    "id": "ffe053e8-c05a-4c02-913e-6e2e73f4472a"
+  },
+  {
+    "name": "Perstorps Golfklubb",
+    "region": "SKÅNE",
+    "city": "PERSTORP",
+    "postal_code": "28491",
+    "country": "Sverige",
+    "email": "kansli@perstorpsgk.se",
+    "id": "ff3899f4-ac80-4b59-bda0-09a593ce60e9"
+  },
+  {
+    "name": "Ramkvilla Golfklubb",
+    "region": "Småland",
+    "city": "RAMKVILLA",
+    "postal_code": "57474",
+    "country": "Sverige",
+    "email": "info@ramkvillagolf.com",
+    "id": "317c34c8-8345-409b-b916-edbac1137718"
+  },
+  {
+    "name": "Kårsta Golfklubb",
+    "region": "Örebro",
+    "city": "ÖREBRO",
+    "postal_code": "70591",
+    "country": "Sverige",
+    "email": "info@karstagk.se",
+    "id": "a931d1ea-c999-4bc4-95a0-98735788c7da"
+  },
+  {
+    "name": "Haverdals Golfklubb",
+    "region": "Halland",
+    "city": "HAVERDAL",
+    "postal_code": "30570",
+    "country": "Sverige",
+    "email": "info@haverdalsgk.se",
+    "id": "27ee4b73-ad57-453a-b600-7cf0674e0a46"
+  },
+  {
+    "name": "Vara-Bjertorp Golfklubb",
+    "region": "Västergötland",
+    "city": "KVÄNUM",
+    "postal_code": "53591",
+    "country": "Sverige",
+    "email": "info@vara-bjertorpgk.se",
+    "id": "2e8d1ef5-3621-4301-8ad9-4d322287ae43"
+  },
+  {
+    "name": "Mora Golfklubb",
+    "region": "Dalarna",
+    "city": "MORA",
+    "postal_code": "79232",
+    "country": "Sverige",
+    "email": "info@moragk.se",
+    "id": "cf0708ee-4fd0-418f-8efd-0b2fd043a426"
+  },
+  {
+    "name": "Onsjö Golfklubb",
+    "region": "",
+    "city": "VÄNERSBORG",
+    "postal_code": "46242",
+    "country": "Sverige",
+    "email": "info@onsjogk.com",
+    "id": "56101ce8-86e9-4605-b018-c87caee9c70d"
+  },
+  {
+    "name": "Örestads Golfklubb",
+    "region": "Skåne",
+    "city": "LOMMA",
+    "postal_code": "23434",
+    "country": "Sverige",
+    "email": "reception@orestadsgk.com",
+    "id": "a86fda95-6323-4a9a-9247-b6eeee736a5a"
+  },
+  {
+    "name": "Reftele Golfklubb",
+    "region": "",
+    "city": "REFTELE",
+    "postal_code": "33021",
+    "country": "Sverige",
+    "email": "info@reftelegk.com",
+    "id": "7cff7b29-605b-45ee-8392-2dea1005938c"
+  },
+  {
+    "name": "Backa Säteri IF",
+    "region": "",
+    "city": "NÖDINGE",
+    "postal_code": "44935",
+    "country": "Sverige",
+    "email": "info@backasaterigolf.se",
+    "id": "f0897c67-2dee-46ac-8e81-6bcbca71f966"
+  },
+  {
+    "name": "Uppvidinge Golfklubb",
+    "region": "",
+    "city": "KLAVRESTRÖM",
+    "postal_code": "36072",
+    "country": "Sverige",
+    "email": "info@uppvidingegk.com",
+    "id": "a3e18ee0-9433-43c8-a29c-7c75488f247d"
+  },
+  {
+    "name": "Skogaby Golfklubb",
+    "region": "Halland",
+    "city": "LAHOLM",
+    "postal_code": "31293",
+    "country": "Sverige",
+    "email": "info@skogabygk.se",
+    "id": "23004038-5c9f-4780-b72f-cc9f9452ca36"
+  },
+  {
+    "name": "Flens Golfklubb",
+    "region": "",
+    "city": "FLEN",
+    "postal_code": "64293",
+    "country": "Sverige",
+    "email": "info@flensgk.se",
+    "id": "3e17a1ba-d5ba-475b-818a-fa7e7683e080"
+  },
+  {
+    "name": "Gumbalde Resort",
+    "region": "",
+    "city": "STÅNGA",
+    "postal_code": "62315",
+    "country": "Sverige",
+    "email": "info@gumbalde.se",
+    "id": "25827b71-0f9f-420d-9dc2-7e5479e82ff9"
+  },
+  {
+    "name": "Åkersberga Golfklubb",
+    "region": "Stockholm",
+    "city": "ÅKERSBERGA",
+    "postal_code": "18433",
+    "country": "Sverige",
+    "email": "kansli@akersbergagk.se",
+    "id": "fde392ba-28ed-4459-8fc7-dc0712afa49c"
+  },
+  {
+    "name": "Bollnäs Golfklubb",
+    "region": "",
+    "city": "KILAFORS",
+    "postal_code": "82391",
+    "country": "Sverige",
+    "email": "info@bollnasgk.com",
+    "id": "db84bdc3-e9e8-4ac6-a8d1-2aacadf25118"
+  },
+  {
+    "name": "Jarlabanke Golfklubb",
+    "region": "",
+    "city": "TÄBY",
+    "postal_code": "18775",
+    "country": "Sverige",
+    "email": "kansli@jarlabankegk.se",
+    "id": "36f612aa-c35f-4769-91fa-9de84566e3f1"
+  },
+  {
+    "name": "Järfälla Golfklubb",
+    "region": "",
+    "city": "JÄRFÄLLA",
+    "postal_code": "17545",
+    "country": "Sverige",
+    "email": "kansli@jarfallagk.se",
+    "id": "0231a56a-49bf-41f0-a203-444953a7f9e0"
+  },
+  {
+    "name": "Klosterfjordens Golfklubb",
+    "region": "Halland",
+    "city": "ÅSKLOSTER",
+    "postal_code": "43296",
+    "country": "Sverige",
+    "email": "info@klosterfjordensgk.se",
+    "id": "6be6af4b-5ff8-48f2-839c-580709d6b8d1"
+  },
+  {
+    "name": "Degeberga-Widtsköfle Golfklubb",
+    "region": "Skåne",
+    "city": "VITTSKÖVLE",
+    "postal_code": "29791",
+    "country": "Sverige",
+    "email": "info@dwgolfklubb.se",
+    "id": "55720987-6a86-4521-b518-32247c0ce9d1"
+  },
+  {
+    "name": "Eda Golfklubb",
+    "region": "Värmland",
+    "city": "ÅMOTFORS",
+    "postal_code": "67396",
+    "country": "Sverige",
+    "email": "kansli@edagk.com",
+    "id": "78a441b1-c8ad-434a-81c8-4b2177fb0451"
+  },
+  {
+    "name": "Alfta-Edsbyns Golfklubb",
+    "region": "",
+    "city": "ALFTA",
+    "postal_code": "82222",
+    "country": "Sverige",
+    "email": "kanslist@alfta-edsbyn-gk.se",
+    "id": "de783ee9-a767-418e-8ca2-904513dd15cf"
+  },
+  {
+    "name": "Tranås Golfklubb",
+    "region": "Jönköpings län",
+    "city": "TRANÅS",
+    "postal_code": "57343",
+    "country": "Sverige",
+    "email": "kansli@tranasgk.se",
+    "id": "05cba23e-79ea-46aa-bf53-6b72334bb7aa"
+  },
+  {
+    "name": "Lycksele Golfklubb",
+    "region": "",
+    "city": "LYCKSELE",
+    "postal_code": "92142",
+    "country": "Sverige",
+    "email": "info@lyckselegolf.se",
+    "id": "830459e5-2c57-4fd1-999a-b13500c6e33b"
+  },
+  {
+    "name": "Björkenäs Golf",
+    "region": "",
+    "city": "LÖDDEKÖPINGE",
+    "postal_code": "24655",
+    "country": "Sverige",
+    "email": "kansli@larssonsgolfbana.se",
+    "id": "4ceba632-c9ae-4c23-a7ce-e4f68a984b63"
+  },
+  {
+    "name": "Lindesbergs Golfklubb",
+    "region": "",
+    "city": "LINDESBERG",
+    "postal_code": "71131",
+    "country": "Sverige",
+    "email": "info@lindesbergsgk.se",
+    "id": "0e625c76-423a-48ae-bc47-e86fb45495ac"
+  },
+  {
+    "name": "Skellefteå Golfklubb",
+    "region": "Västerbotten",
+    "city": "SKELLEFTEÅ",
+    "postal_code": "93192",
+    "country": "Sverige",
+    "email": "info@skellefteagolf.se",
+    "id": "ee6015d8-6ddc-48a7-a67c-cb2ad1f9a7e2"
+  },
+  {
+    "name": "Ljunghusens Golfklubb",
+    "region": "Skåne",
+    "city": "HÖLLVIKEN",
+    "postal_code": "23642",
+    "country": "Sverige",
+    "email": "info@ljgk.se",
+    "id": "bdb66c10-70d6-46d2-bdec-421b4c8596b5"
+  },
+  {
+    "name": "Bosjökloster Golfklubb",
+    "region": "Skåne",
+    "city": "HÖÖR",
+    "postal_code": "24395",
+    "country": "Sverige",
+    "email": "info@bosjoklostergk.se",
+    "id": "efa78854-5bbd-4346-acd4-87a2a2da7bf8"
+  },
+  {
+    "name": "Sigtuna Golfklubb",
+    "region": "Uppland",
+    "city": "SIGTUNA",
+    "postal_code": "19391",
+    "country": "Sverige",
+    "email": "info@sigtunagk.se",
+    "id": "b0f61b00-93d4-4534-b390-a0f9aec1f4f8"
+  },
+  {
+    "name": "Funäsfjällens Golfklubb",
+    "region": "Jämtland/Härjedalen",
+    "city": "LJUSNEDAL",
+    "postal_code": "84696",
+    "country": "Sverige",
+    "email": "kansli@funasfjallengolf.se",
+    "id": "7fcdfc79-05f1-4f96-9f6c-bc7df51476ba"
+  },
+  {
+    "name": "Eslövs Golfklubb",
+    "region": "Skåne",
+    "city": "ESLÖV",
+    "postal_code": "24193",
+    "country": "Sverige",
+    "email": "info@eslovsgk.se",
+    "id": "123b3dfe-4ae4-48f6-855c-2398b9c9cd6a"
+  },
+  {
+    "name": "Katrineholms Golfklubb",
+    "region": "",
+    "city": "KATRINEHOLM",
+    "postal_code": "64193",
+    "country": "Sverige",
+    "email": "info@katrineholmsgolf.se",
+    "id": "b1057f34-89ee-49c3-827f-70acb2b9ba4c"
+  },
+  {
+    "name": "Araslöv Golf & Resort",
+    "region": "",
+    "city": "FÄRLÖV",
+    "postal_code": "29175",
+    "country": "Sverige",
+    "email": "info@araslovgolf.se",
+    "id": "2aea10cb-a8c6-4e5f-be22-3acb18e8e33f"
+  },
+  {
+    "name": "Ringenäs Golfklubb",
+    "region": "",
+    "city": "HALMSTAD",
+    "postal_code": "30591",
+    "country": "Sverige",
+    "email": "info@ringenas.com",
+    "id": "9a031aa6-21f9-4db5-aa66-3918a2c24fd5"
+  },
+  {
+    "name": "Allerum Golf",
+    "region": "",
+    "city": "ALLERUM",
+    "postal_code": "25476",
+    "country": "Sverige",
+    "email": "info@allerumgk.nu",
+    "id": "b83d52c0-b22a-4249-bdc2-329cc525a7af"
+  },
+  {
+    "name": "Norrköping Söderköping Golfklubb",
+    "region": "",
+    "city": "NORRKÖPING",
+    "postal_code": "60597",
+    "country": "Sverige",
+    "email": "info@nsgk.se",
+    "id": "d643eb14-cc03-4342-b840-3c83eac32010"
+  },
+  {
+    "name": "Melleruds Golfklubb",
+    "region": "Västra Götaland",
+    "city": "MELLERUD",
+    "postal_code": "46493",
+    "country": "Sverige",
+    "email": "reception@mellerudsgolfklubb.se",
+    "id": "bdc68d48-b92e-42d7-b27e-05d901afd437"
+  },
+  {
+    "name": "Piteå Golfklubb",
+    "region": "",
+    "city": "PITEÅ",
+    "postal_code": "94141",
+    "country": "Sverige",
+    "email": "info@piteagolf.se",
+    "id": "17eb047d-8fe3-43b7-8fe6-4dda92eea8cf"
+  },
+  {
+    "name": "Mjölkeröds Golfklubb",
+    "region": "",
+    "city": "TANUMSHEDE",
+    "postal_code": "45791",
+    "country": "Sverige",
+    "email": "info@mjolkerodgk.se",
+    "id": "630e0bc5-0ba2-41cc-bf00-b2c2eb77efd5"
+  },
+  {
+    "name": "Hofgårds Golfklubb",
+    "region": "Halland",
+    "city": "ROLFSTORP",
+    "postal_code": "43297",
+    "country": "Sverige",
+    "email": "kansli@hofgard.se",
+    "id": "9c85d7bc-c434-4014-9bc8-1e8984db4924"
+  },
+  {
+    "name": "Alingsås Golfklubb",
+    "region": "",
+    "city": "ALINGSÅS",
+    "postal_code": "44195",
+    "country": "Sverige",
+    "email": "info@alingsasgk.se",
+    "id": "5f8e4826-4b55-4f48-a75c-acb461806da9"
+  },
+  {
+    "name": "Öjestrand Golf Club",
+    "region": "",
+    "city": "NJURUNDA",
+    "postal_code": "86294",
+    "country": "Sverige",
+    "email": "info@ojestrandgc.se",
+    "id": "3815f5ac-7b43-4538-ac91-10d616b5c7dd"
+  },
+  {
+    "name": "Österåkers Golfklubb",
+    "region": "",
+    "city": "ÅKERSBERGA",
+    "postal_code": "18492",
+    "country": "Sverige",
+    "email": "kansli@ostgk.se",
+    "id": "3523fc39-9e64-4efd-bf66-4c6d8fca4003"
+  },
+  {
+    "name": "Timrå Golfklubb",
+    "region": "",
+    "city": "FAGERVIK",
+    "postal_code": "86032",
+    "country": "Sverige",
+    "email": "info@timragk.se",
+    "id": "1f08dc87-8ccc-4901-a5fc-be5b8011e382"
+  },
+  {
+    "name": "Vreta Kloster Golfklubb",
+    "region": "",
+    "city": "LJUNGSBRO",
+    "postal_code": "59075",
+    "country": "Sverige",
+    "email": "info@vkgk.se",
+    "id": "3be7a6ac-9bde-4c7e-b515-b74afb817d67"
+  },
+  {
+    "name": "Hallstaviks Golfklubb",
+    "region": "",
+    "city": "HALLSTAVIK",
+    "postal_code": "76330",
+    "country": "Sverige",
+    "email": "info@hallstavikgk.se",
+    "id": "ea518905-6c1f-415e-b769-dde7003e47ab"
+  },
+  {
+    "name": "Dagsholm Golfklubb",
+    "region": "",
+    "city": "FÄRGELANDA",
+    "postal_code": "45892",
+    "country": "Sverige",
+    "email": "info@dagsholmgolf.se",
+    "id": "e150ab54-8ed1-4971-88b2-91c856a0fd4c"
+  },
+  {
+    "name": "Torreby Golfklubb",
+    "region": "",
+    "city": "MUNKEDAL",
+    "postal_code": "45593",
+    "country": "Sverige",
+    "email": "Kansliet@torrebygk.se",
+    "id": "a6d6f266-117d-43cc-b216-78358522e4ce"
+  },
+  {
+    "name": "Växjö Golfklubb",
+    "region": "",
+    "city": "VÄXJÖ",
+    "postal_code": "35260",
+    "country": "Sverige",
+    "email": "klubbchef@vaxjogk.com",
+    "id": "74ebf48f-dbad-4d6f-9848-4ce78a02a3ba"
+  },
+  {
+    "name": "Östersund-Frösö Golfklubb",
+    "region": "Jämtland",
+    "city": "FRÖSÖN",
+    "postal_code": "83296",
+    "country": "Sverige",
+    "email": "info@ofg.nu",
+    "id": "f0d1b151-cab2-418d-ba2f-aa832f3e527f"
+  },
+  {
+    "name": "Mölndals Golfklubb",
+    "region": "",
+    "city": "LINDOME",
+    "postal_code": "43791",
+    "country": "Sverige",
+    "email": "reception@molndalsgk.se",
+    "id": "aec2dd69-1f7f-42a3-8787-997e7f6c2bea"
+  },
+  {
+    "name": "Norsjö Golfklubb",
+    "region": "Västerbotten",
+    "city": "NORSJÖ",
+    "postal_code": "93532",
+    "country": "Sverige",
+    "email": "kansli@norsjogk.se",
+    "id": "0c4de4a1-00a9-4c0d-a38a-16c8aff388bb"
+  },
+  {
+    "name": "Tjörns Golfklubb",
+    "region": "",
+    "city": "KÅLLEKÄRR",
+    "postal_code": "47193",
+    "country": "Sverige",
+    "email": "info@tjornsgk.se",
+    "id": "403f7641-1f96-4a5c-af03-1eae080fe350"
+  },
+  {
+    "name": "Flemminge Golfklubb",
+    "region": "",
+    "city": "BOXHOLM",
+    "postal_code": "59012",
+    "country": "Sverige",
+    "email": "kansli@flemmingegolf.se",
+    "id": "d049cab6-9929-4d7c-8cd8-5af303701237"
+  },
+  {
+    "name": "Mälarö Golfklubb Skytteholm",
+    "region": "",
+    "city": "EKERÖ",
+    "postal_code": "17890",
+    "country": "Sverige",
+    "email": "kansli@malarogk.se",
+    "id": "d86adc30-6a71-4ede-9217-40ba1bd959a3"
+  },
+  {
+    "name": "Troxhammar Golfklubb",
+    "region": "",
+    "city": "SKÅ",
+    "postal_code": "17975",
+    "country": "Sverige",
+    "email": "kansli@troxhammargk.se",
+    "id": "5c2b60d7-92b1-4307-b3c5-2007fcb209b8"
+  },
+  {
+    "name": "Kalmar Golfklubb",
+    "region": "",
+    "city": "KALMAR",
+    "postal_code": "39359",
+    "country": "Sverige",
+    "email": "reception@kalmargk.se",
+    "id": "a7bbb6b9-90e5-4d56-8a19-43f3fa9940d4"
+  },
+  {
+    "name": "Norrfällsvikens Golfklubb",
+    "region": "",
+    "city": "MJÄLLOM",
+    "postal_code": "87031",
+    "country": "Sverige",
+    "email": "info@nvgk.se",
+    "id": "827ca629-49b1-4141-a4bb-267048438ec5"
+  },
+  {
+    "name": "Hammarby IF Golfförening",
+    "region": "",
+    "city": "STOCKHOLM",
+    "postal_code": "11635",
+    "country": "Sverige",
+    "email": "info@hammarbygolf.se",
+    "id": "fd2b5984-b944-419e-bfa2-d83d9cdc111d"
+  },
+  {
+    "name": "Malmö Burlöv Golfklubb",
+    "region": "Skåne",
+    "city": "MALMÖ",
+    "postal_code": "21227",
+    "country": "Sverige",
+    "email": "golfklubben@mabgk.se",
+    "id": "328613ec-a055-45df-8570-8435714d7bb7"
+  },
+  {
+    "name": "Umeå Norrmjöle Golfklubb",
+    "region": "Västerbotten",
+    "city": "UMEÅ",
+    "postal_code": "90582",
+    "country": "Sverige",
+    "email": "kansli@nmgk.se",
+    "id": "330aaf19-374e-49a7-9bac-6e7f0c869565"
+  },
+  {
+    "name": "Björkhagens Golfklubb",
+    "region": "",
+    "city": "BAGARMOSSEN",
+    "postal_code": "12804",
+    "country": "Sverige",
+    "email": "kansli@bjgk.se",
+    "id": "9671eb51-cf90-4b6a-bd47-8f2ccc48e579"
+  },
+  {
+    "name": "AIK Golfklubb",
+    "region": "",
+    "city": "SOLNA",
+    "postal_code": "16935",
+    "country": "Sverige",
+    "email": "golf@aik.se",
+    "id": "db898993-8dcf-4ce5-a3c0-c07ec4d59b37"
+  },
+  {
+    "name": "Kinds Golfklubb",
+    "region": "",
+    "city": "SVENLJUNGA",
+    "postal_code": "51293",
+    "country": "Sverige",
+    "email": "info@kindsgk.se",
+    "id": "5aaad466-0b21-48b7-949e-44e2cf6c8548"
+  },
+  {
+    "name": "Trelleborgs Golfklubb",
+    "region": "",
+    "city": "TRELLEBORG",
+    "postal_code": "23193",
+    "country": "Sverige",
+    "email": "kansli@trelleborgsgk.se",
+    "id": "e1356f4b-7dae-41a0-8064-5ed366a01af3"
+  },
+  {
+    "name": "Eskilstuna Golfklubb",
+    "region": "Södermanlands län",
+    "city": "ESKILSTUNA",
+    "postal_code": "63502",
+    "country": "Sverige",
+    "email": "info@eskilstunagk.se",
+    "id": "dce407a4-058f-443c-920d-b133b7faa427"
+  },
+  {
+    "name": "Ryfors Golfklubb",
+    "region": "",
+    "city": "MULLSJÖ",
+    "postal_code": "56591",
+    "country": "Sverige",
+    "email": "info@ryforsgk.se",
+    "id": "0f46bdad-94eb-47bd-809d-8f23db35fc4d"
+  },
+  {
+    "name": "Nya Ullared Flädje Golfklubb",
+    "region": "Halland",
+    "city": "VESSIGEBRO",
+    "postal_code": "31165",
+    "country": "Sverige",
+    "email": "info@fladjegolf.se",
+    "id": "012a9ab9-d257-4ab0-acef-778526676d34"
+  },
+  {
+    "name": "Bjurholms Golfklubb",
+    "region": "",
+    "city": "BJURHOLM",
+    "postal_code": "91693",
+    "country": "Sverige",
+    "email": "kansliet@bjurholmsgk.se",
+    "id": "f2a06aa4-b125-4149-ae14-0ac78e4f7147"
+  },
+  {
+    "name": "Karlstads Golfklubb",
+    "region": "",
+    "city": "KARLSTAD",
+    "postal_code": "65592",
+    "country": "Sverige",
+    "email": "info@karlstadgk.se",
+    "id": "43a293b4-43fa-4066-a752-a286c78939a8"
+  },
+  {
+    "name": "Ölands Golfklubb",
+    "region": "",
+    "city": "LÖTTORP",
+    "postal_code": "38771",
+    "country": "Sverige",
+    "email": "kansli@olandsgk.se",
+    "id": "7358bed3-b297-4c86-877a-6868d57ed9c5"
+  },
+  {
+    "name": "Sundsvalls Golfklubb",
+    "region": "",
+    "city": "KVISSLEBY",
+    "postal_code": "86234",
+    "country": "Sverige",
+    "email": "info@sundsvallsgk.se",
+    "id": "e8a763c0-b502-49c3-9a5e-58862b32bf47"
+  },
+  {
+    "name": "Snöå Golfklubb",
+    "region": "",
+    "city": "DALA-JÄRNA",
+    "postal_code": "78051",
+    "country": "Sverige",
+    "email": "kansli@snoagk.se",
+    "id": "8b654d00-2893-424a-bacf-52a7fa3ab0aa"
+  },
+  {
+    "name": "Furudals-Bruks Golfklubb",
+    "region": "",
+    "city": "FURUDAL",
+    "postal_code": "79597",
+    "country": "Sverige",
+    "email": "info@furudalsgolf.com",
+    "id": "5b53a239-493d-4e85-b42c-cc6376347abe"
+  },
+  {
+    "name": "Hussborg Golfklubb",
+    "region": "",
+    "city": "LJUNGAVERK",
+    "postal_code": "84010",
+    "country": "Sverige",
+    "email": "golf@hussborg.com",
+    "id": "831187ec-3dcd-4e88-8f87-a6d25aeb977a"
+  },
+  {
+    "name": "Ängelholms Golfklubb",
+    "region": "Skåne",
+    "city": "MUNKA LJUNGBY",
+    "postal_code": "26693",
+    "country": "Sverige",
+    "email": "info@angelholmsgk.se",
+    "id": "157b80fa-f269-42a3-aef9-661347297fb6"
+  },
+  {
+    "name": "Lysingsbadets Golfklubb",
+    "region": "Småland",
+    "city": "VÄSTERVIK",
+    "postal_code": "59352",
+    "country": "Sverige",
+    "email": "info@lysingsbadetsgk.se",
+    "id": "fce7dc2a-7da7-4583-afb2-f961533f44a6"
+  },
+  {
+    "name": "Mälarbadens Golfklubb",
+    "region": "Södermanland",
+    "city": "TORSHÄLLA",
+    "postal_code": "64436",
+    "country": "Sverige",
+    "email": "reception@malarbadensgk.se",
+    "id": "47364b19-89ad-437d-a2dc-2872aa6e30e1"
+  },
+  {
+    "name": "Örebro City Golf & Country Club",
+    "region": "",
+    "city": "ÖREBRO",
+    "postal_code": "70594",
+    "country": "Sverige",
+    "email": "mosjo@orebrogolf.se",
+    "id": "1bbf51f8-e8ad-4406-8602-1f02954d820c"
+  },
+  {
+    "name": "S:t Arild Golfklubb",
+    "region": "",
+    "city": "SKÄRET",
+    "postal_code": "26372",
+    "country": "Sverige",
+    "email": "golf@starild.se",
+    "id": "5e18e1c6-b5d3-44f1-90bc-64fc31917091"
+  },
+  {
+    "name": "Kinda Golfklubb",
+    "region": "",
+    "city": "KISA",
+    "postal_code": "59040",
+    "country": "Sverige",
+    "email": "info@kindagk.se",
+    "id": "43bd8715-3972-4986-baca-58c4c681102c"
+  },
+  {
+    "name": "Sotenäs Golfklubb",
+    "region": "Bohuslän",
+    "city": "HUNNEBOSTRAND",
+    "postal_code": "45693",
+    "country": "Sverige",
+    "email": "info@sotenasgolf.se",
+    "id": "7c1781ae-b161-45a8-b127-083bee208eb2"
+  },
+  {
+    "name": "Torshälla Golfklubb",
+    "region": "",
+    "city": "TORSHÄLLA",
+    "postal_code": "64431",
+    "country": "Sverige",
+    "email": "kansli@torshallagk.com",
+    "id": "a54eb664-f157-453a-87b5-1b7db97321c6"
+  },
+  {
+    "name": "Stenungsund Golfklubb",
+    "region": "Bohuslän",
+    "city": "SPEKERÖD",
+    "postal_code": "44493",
+    "country": "Sverige",
+    "email": "info@stenungsundgk.se",
+    "id": "4bca6fdf-aea9-482b-81f4-f7ef22bdf122"
+  },
+  {
+    "name": "Umeå Sörfors Golfklubb",
+    "region": "",
+    "city": "UMEÅ",
+    "postal_code": "90588",
+    "country": "Sverige",
+    "email": "kansli@sorforsgk.se",
+    "id": "7e0193c5-d38d-4b32-a884-17f2d34dfa6c"
+  },
+  {
+    "name": "Sörfjärdens Golfklubb",
+    "region": "",
+    "city": "GNARP",
+    "postal_code": "82962",
+    "country": "Sverige",
+    "email": "info@sorfjardensgk.se",
+    "id": "c6ec057c-3cdc-4392-a9bf-0dfb065bf5e1"
+  },
+  {
+    "name": "SAIK Golfklubb",
+    "region": "",
+    "city": "SANDVIKEN",
+    "postal_code": "81152",
+    "country": "Sverige",
+    "email": "info@saikgolf.se",
+    "id": "4e3053f4-4fcb-41c7-bdf7-5bc276214418"
+  },
+  {
+    "name": "Rättviks Golfklubb",
+    "region": "",
+    "city": "RÄTTVIK",
+    "postal_code": "79532",
+    "country": "Sverige",
+    "email": "info@rattviksgk.se",
+    "id": "a7723844-f999-44e5-b077-aee87938c196"
+  },
+  {
+    "name": "Björklidens Golfklubb",
+    "region": "",
+    "city": "BROMMA",
+    "postal_code": "16874",
+    "country": "Sverige",
+    "email": "info@bjorklidensgolfklubb.se",
+    "id": "7ec9b7ac-4b0c-46ce-a798-2a277e4524ed"
+  },
+  {
+    "name": "Säters Golfklubb",
+    "region": "Dalarnas län",
+    "city": "SÄTER",
+    "postal_code": "78332",
+    "country": "Sverige",
+    "email": "info@satersgk.se",
+    "id": "ba9489e1-808f-4b71-ad4e-a325b647f7e7"
+  },
+  {
+    "name": "Rya Golfklubb",
+    "region": "",
+    "city": "RYDEBÄCK",
+    "postal_code": "25730",
+    "country": "Sverige",
+    "email": "info@rya.nu",
+    "id": "e70a3e30-46d2-46e3-abef-daedb4a69313"
+  },
+  {
+    "name": "Lagans Golfklubb",
+    "region": "Småland",
+    "city": "LAGAN",
+    "postal_code": "34152",
+    "country": "Sverige",
+    "email": "kansli@lagansgk.se",
+    "id": "944355a9-e995-46de-a106-956b1c43c7ca"
+  },
+  {
+    "name": "Vasatorps Golfklubb",
+    "region": "",
+    "city": "MÖRARP",
+    "postal_code": "25354",
+    "country": "Sverige",
+    "email": "info@vasatorp.golf",
+    "id": "ec82da12-bd5d-45af-aedf-e459c3d70e59"
+  },
+  {
+    "name": "Visby Golfklubb",
+    "region": "",
+    "city": "GOTLANDS TOFTA",
+    "postal_code": "62230",
+    "country": "Sverige",
+    "email": "info@visbygk.com",
+    "id": "d677144d-252f-4dcc-98ed-44ce68b415c5"
+  },
+  {
+    "name": "Bråvikens Golfklubb",
+    "region": "Östergötland",
+    "city": "NORRKÖPING",
+    "postal_code": "60591",
+    "country": "Sverige",
+    "email": "info@bragk.se",
+    "id": "acac3051-4824-4fdb-80ce-ef129ace97d8"
+  },
+  {
+    "name": "Hökensås Golfklubb",
+    "region": "Västergötland",
+    "city": "HJO",
+    "postal_code": "54494",
+    "country": "Sverige",
+    "email": "info@hokensasgk.se",
+    "id": "e4bc4277-5e4e-4c88-bca1-2eac64896178"
+  },
+  {
+    "name": "Hagge Golfklubb",
+    "region": "",
+    "city": "LUDVIKA",
+    "postal_code": "77190",
+    "country": "Sverige",
+    "email": "info@haggegk.se",
+    "id": "10c9e9ec-35d0-4ff6-9fec-a754fa3a1215"
+  },
+  {
+    "name": "Partille Golfklubb",
+    "region": "",
+    "city": "ÖJERSJÖ",
+    "postal_code": "43351",
+    "country": "Sverige",
+    "email": "info@partillegk.se",
+    "id": "5a851a7a-df87-43f7-a439-01d4300ebc82"
+  },
+  {
+    "name": "Älmhults Golfklubb",
+    "region": "",
+    "city": "ÄLMHULT",
+    "postal_code": "34390",
+    "country": "Sverige",
+    "email": "info@almhultsgk.se",
+    "id": "c92232ee-c58c-4f9c-9da3-6fcf7955c8f6"
+  },
+  {
+    "name": "Bro-Bålsta Golfklubb",
+    "region": "",
+    "city": "BRO",
+    "postal_code": "19791",
+    "country": "Sverige",
+    "email": "susanne.englund@bbgk.se",
+    "id": "54cc95f4-0038-4bdf-9b68-9cb1b13c595a"
+  },
+  {
+    "name": "Stjernfors Golfklubb",
+    "region": "",
+    "city": "KOPPARBERG",
+    "postal_code": "71493",
+    "country": "Sverige",
+    "email": "info@stjernforsgk.com",
+    "id": "e19d7034-2707-4e23-a143-ef99e03a973c"
+  },
+  {
+    "name": "Robertsfors Golfklubb",
+    "region": "Västerbotten",
+    "city": "ROBERTSFORS",
+    "postal_code": "91532",
+    "country": "Sverige",
+    "email": "info@robertsforsgk.se",
+    "id": "9abbee66-3d20-4417-8510-4c46a0bb8819"
+  },
+  {
+    "name": "Idrefjällens Golfklubb",
+    "region": "",
+    "city": "IDRE",
+    "postal_code": "79091",
+    "country": "Sverige",
+    "email": "golf@idrefjall.se",
+    "id": "3d7be6e0-598c-4ccd-b575-b1f6ba756492"
+  },
+  {
+    "name": "Tegelberga Golfklubb",
+    "region": "",
+    "city": "TRELLEBORG",
+    "postal_code": "23196",
+    "country": "Sverige",
+    "email": "kansli@tegelbergagk.se",
+    "id": "7c9d89de-a00e-4f2e-8fd8-86ae75429fdb"
+  },
+  {
+    "name": "Falun-Borlänge Golfklubb",
+    "region": "",
+    "city": "FALUN",
+    "postal_code": "79193",
+    "country": "Sverige",
+    "email": "info@fbgk.se",
+    "id": "fb1564da-c6a4-4e71-bb79-efefc00cf88f"
+  },
+  {
+    "name": "Uddevalla Golfklubb",
+    "region": "",
+    "city": "UDDEVALLA",
+    "postal_code": "45194",
+    "country": "Sverige",
+    "email": "info@uddevallagk.se",
+    "id": "91fe129b-1714-4310-bf67-f45d243b6e58"
+  },
+  {
+    "name": "Tjusta Golf",
+    "region": "",
+    "city": "ROSERSBERG",
+    "postal_code": "19596",
+    "country": "Sverige",
+    "email": "klubben@tjustagolf.se",
+    "id": "1a061116-13f8-483d-933c-4cb6e96047de"
+  },
+  {
+    "name": "Skövde Golfklubb",
+    "region": "Västra Götaland",
+    "city": "SKÖVDE",
+    "postal_code": "54133",
+    "country": "Sverige",
+    "email": "info@skovdegk.se",
+    "id": "d0230b7c-cf7a-49c8-9a9a-7a51af431d76"
+  },
+  {
+    "name": "Hasselabygdens Golfklubb",
+    "region": "",
+    "city": "HASSELA",
+    "postal_code": "82078",
+    "country": "Sverige",
+    "email": "hasselabygdensgk@gmail.com",
+    "id": "f956f5ce-9df6-4022-8955-82a609668768"
+  },
+  {
+    "name": "Kungsbacka Golfklubb",
+    "region": "Kungsbacka kommun",
+    "city": "SÄRÖ",
+    "postal_code": "42944",
+    "country": "Sverige",
+    "email": "shop@kungsbackagk.se",
+    "id": "da9e80b9-1a08-4066-923d-2b4e0fc9cc2a"
+  },
+  {
+    "name": "Frösåker Golf & Country Club",
+    "region": "",
+    "city": "VÄSTERÅS",
+    "postal_code": "72597",
+    "country": "Sverige",
+    "email": "info@fgcc.se",
+    "id": "043e750a-9432-48d8-a02d-0c4c43a24899"
+  },
+  {
+    "name": "Holma Stångenäs Golf",
+    "region": "Västra Götalands län",
+    "city": "BRASTAD",
+    "postal_code": "45491",
+    "country": "Sverige",
+    "email": "info@holmagolf.se",
+    "id": "79b744a3-3b3b-4574-8335-1f49b99c2b25"
+  },
+  {
+    "name": "Storsjöbygdens Golfklubb",
+    "region": "",
+    "city": "TANDSBYN",
+    "postal_code": "83499",
+    "country": "Sverige",
+    "email": "kansli@sbgolf.se",
+    "id": "303697bc-57e6-430d-8ed8-b0615b637eb6"
+  },
+  {
+    "name": "Väddö Golfklubb i Älmsta",
+    "region": "Stockholms län",
+    "city": "VÄDDÖ",
+    "postal_code": "76492",
+    "country": "Sverige",
+    "email": "info@vaddogolf.se",
+    "id": "ce5817b1-09a2-49d4-81cb-e22e932aec18"
+  },
+  {
+    "name": "LinksGolf Öland i Grönhögen",
+    "region": "Småland",
+    "city": "DEGERHAMN",
+    "postal_code": "38065",
+    "country": "Sverige",
+    "email": "info@linksgolfoland.se",
+    "id": "a090736b-e37b-41d1-8a55-27b9a3747f4b"
+  },
+  {
+    "name": "Trosa Golfklubb",
+    "region": "",
+    "city": "TROSA",
+    "postal_code": "61992",
+    "country": "Sverige",
+    "email": "info@trosagk.se",
+    "id": "494e2a6e-7249-4644-9dcc-c5939618365c"
+  },
+  {
+    "name": "Samuelsdals Golfklubb",
+    "region": "",
+    "city": "FALUN",
+    "postal_code": "79161",
+    "country": "Sverige",
+    "email": "samuelsdalgolf@gmail.com",
+    "id": "712b9577-d509-4dc2-8fe4-a7cc499eee53"
+  },
+  {
+    "name": "Upsala Golfklubb",
+    "region": "Uppland",
+    "city": "UPPSALA",
+    "postal_code": "75592",
+    "country": "Sverige",
+    "email": "info@upsalagk.se",
+    "id": "205d47a4-97c6-48f5-8500-a70f1e778001"
+  },
+  {
+    "name": "Slite Golfklubb",
+    "region": "Gotland",
+    "city": "SLITE",
+    "postal_code": "62446",
+    "country": "Sverige",
+    "email": "info@slitegk.se",
+    "id": "05c565b4-90a9-47c4-8977-b0173669666d"
+  },
+  {
+    "name": "Karlshamns Golfklubb",
+    "region": "",
+    "city": "MÖRRUM",
+    "postal_code": "37590",
+    "country": "Sverige",
+    "email": "info@karlshamnsgk.com",
+    "id": "eeaca02c-4189-42df-a7ac-a11d772c2a3b"
+  },
+  {
+    "name": "Fågelbro Golf & Country Club",
+    "region": "",
+    "city": "VÄRMDÖ",
+    "postal_code": "13960",
+    "country": "Sverige",
+    "email": "kansli@fagelbrogolf.se",
+    "id": "f4002ff5-4b1e-447c-998d-561c421b7ad3"
+  },
+  {
+    "name": "Allmag Golf & Country Club",
+    "region": "",
+    "city": "STILLINGSÖN",
+    "postal_code": "47292",
+    "country": "Sverige",
+    "email": "info@agcc.se",
+    "id": "90f2e97c-6d73-4bd5-beea-562ccf6dd65b"
+  },
+  {
+    "name": "Dalsjö Golfklubb",
+    "region": "",
+    "city": "BORLÄNGE",
+    "postal_code": "78478",
+    "country": "Sverige",
+    "email": "info@dalsjogolf.se",
+    "id": "ae6a4c1f-f2fd-4d7a-8135-b6512ce3d738"
+  },
+  {
+    "name": "Bolidens Golfklubb",
+    "region": "",
+    "city": "BOLIDEN",
+    "postal_code": "93692",
+    "country": "Sverige",
+    "email": "info@bolidensgolfklubb.se",
+    "id": "7fb922e1-6e69-450e-998a-4e5bd19c1646"
+  },
+  {
+    "name": "Wermdö Golf & Country Club",
+    "region": "Stockholm",
+    "city": "VÄRMDÖ",
+    "postal_code": "13940",
+    "country": "Sverige",
+    "email": "kansli@wermodogolf.se",
+    "id": "a34e6689-6164-4aa1-8acf-0139d7f96aae"
+  },
+  {
+    "name": "Älvdalens Golfklubb",
+    "region": "",
+    "city": "ÄLVDALEN",
+    "postal_code": "79690",
+    "country": "Sverige",
+    "email": "golf@alvdalen.nu",
+    "id": "c05cc2a8-6cc0-49c2-a5b1-85a794d0e303"
+  },
+  {
+    "name": "Ljusterö Golfklubb",
+    "region": "",
+    "city": "LJUSTERÖ",
+    "postal_code": "18495",
+    "country": "Sverige",
+    "email": "receptionen@ljusterogolf.se",
+    "id": "b7d96c03-1444-4979-851f-71a7ba81b91f"
+  },
+  {
+    "name": "Leksands Golfklubb",
+    "region": "",
+    "city": "LEKSAND",
+    "postal_code": "79390",
+    "country": "Sverige",
+    "email": "info@leksandsgk.se",
+    "id": "0ef8f123-f5a7-41f4-b634-d8a55fb4bee9"
+  }
+]
