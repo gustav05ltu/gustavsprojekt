@@ -1,454 +1,454 @@
 name,region,city,postal_code,country,email,id,lat,lng
-Monday Weekly Golf Villamartin,,CHARLOTTENBERG,67331.0,Sverige,,e55f9408-4f73-49ad-89f4-f927b0a34ba1,,
-Huddinge Golfklubb,,HUDDINGE,14140.0,Sverige,huddingegolf@gmail.com,41134e6c-da18-46c7-a332-6a70b1a0a70b,,
-Hills Golfklubb,,MÖLNDAL,43151.0,Sverige,info@hillsgolfclub.se,e6c09b49-06e6-4c5f-982f-2bc35a786e98,,
-Golfers Dream,,SALTSJÖBADEN,13335.0,Sverige,info@navitess.se,d50bb20f-fd56-494b-9fad-f966d499a6c3,,
-Idrottshögskolans Golfklubb,,STOCKHOLM,11486.0,Sverige,anna.tiden@gih.se,9fdfe1d3-7944-4606-bdcd-228e9564b1da,,
+Monday Weekly Golf Villamartin,,CHARLOTTENBERG,67331.0,Sverige,,e55f9408-4f73-49ad-89f4-f927b0a34ba1,59.8839607,12.3049207
+Huddinge Golfklubb,,HUDDINGE,14140.0,Sverige,huddingegolf@gmail.com,41134e6c-da18-46c7-a332-6a70b1a0a70b,59.216667,18.0
+Hills Golfklubb,,MÖLNDAL,43151.0,Sverige,info@hillsgolfclub.se,e6c09b49-06e6-4c5f-982f-2bc35a786e98,57.6564918,12.0153085
+Golfers Dream,,SALTSJÖBADEN,13335.0,Sverige,info@navitess.se,d50bb20f-fd56-494b-9fad-f966d499a6c3,59.2792775,18.3049291
+Idrottshögskolans Golfklubb,,STOCKHOLM,11486.0,Sverige,anna.tiden@gih.se,9fdfe1d3-7944-4606-bdcd-228e9564b1da,59.3251172,18.0710935
 Golfens Gröna Kort,,,,Sverige,,6b361663-fc25-4423-afba-97ebd2c52a1d,,
-GolfUppsala Allmänna Idrottsklubb,Uppland,UPPSALA,75591.0,Sverige,aik@golfuppsala.se,b67997c0-4e88-4b14-bc56-1397504ad1af,,
+GolfUppsala Allmänna Idrottsklubb,Uppland,UPPSALA,75591.0,Sverige,aik@golfuppsala.se,b67997c0-4e88-4b14-bc56-1397504ad1af,59.8586126,17.6387436
 Bro Hof Golf förening,,,,Sverige,,bdb49159-23fe-4f2f-bca6-5957eaf0486e,,
-Veckefjärdens Golf Club,,ÖRNSKÖLDSVIK,89130.0,Sverige,kontakt@veckefjarden.com,1690af60-d866-40de-824a-baca9f507ddc,,
-Vimmerby Golfklubb,,VIMMERBY,59830.0,Sverige,info@vimmerbygk.se,a29e706c-c8e4-47db-bc5b-6479d747ea66,,
-Viksjö Golfklubb,,JÄRFÄLLA,17545.0,Sverige,kansli@viksjogk.se,353506ba-6805-4fff-b2d9-f9093ac317d8,,
+Veckefjärdens Golf Club,,ÖRNSKÖLDSVIK,89130.0,Sverige,kontakt@veckefjarden.com,1690af60-d866-40de-824a-baca9f507ddc,63.2888613,18.7160209
+Vimmerby Golfklubb,,VIMMERBY,59830.0,Sverige,info@vimmerbygk.se,a29e706c-c8e4-47db-bc5b-6479d747ea66,57.683333,15.833333
+Viksjö Golfklubb,,JÄRFÄLLA,17545.0,Sverige,kansli@viksjogk.se,353506ba-6805-4fff-b2d9-f9093ac317d8,59.4204736,17.8285472
 Vallgårdens Golfklubb Åkarp,,ÅKARP,23252.0,Sverige,kansli@vallgardensgk.se,921c47ae-5b32-4b2c-ad84-cc0e5d2c86bb,55.6486257,13.1238016
 Särö Golf Club,Göteborg,SÄRÖ,42943.0,Sverige,kansli@sarogc.se,40ec0b6d-faec-4b82-a55b-572cd6860e65,57.5055216,11.9579182
-Äppelgårdens Golfklubb,,BÅSTAD,26996.0,Sverige,info@appelgarden.se,435070db-b6e4-444f-a80c-9e08ab55aef5,,
-Åsele Nya Golfklubb,,ÅSELE,91932.0,Sverige,info@aselegk.com,6b4e22b1-a4e6-4ba5-b9a6-58134dd20639,,
-Myra Golfklubb,,KUNGSBACKA,43498.0,Sverige,info@myragolf.se,4aea3c4b-e5d8-456c-9b51-88bf0e96e918,,
-Valley Golfklubb,,MÖLNDAL,43190.0,Sverige,info@valleygk.se,508000c7-5c4b-44f4-b02b-e0a8b6eaa725,,
-Lökeberg Golfklubb,,HÅLTA,44295.0,Sverige,info@lokeberggk.se,5d20be36-dc57-446e-8d17-d7549f347647,,
+Äppelgårdens Golfklubb,,BÅSTAD,26996.0,Sverige,info@appelgarden.se,435070db-b6e4-444f-a80c-9e08ab55aef5,56.4268963,12.8608789
+Åsele Nya Golfklubb,,ÅSELE,91932.0,Sverige,info@aselegk.com,6b4e22b1-a4e6-4ba5-b9a6-58134dd20639,64.166667,17.333333
+Myra Golfklubb,,KUNGSBACKA,43498.0,Sverige,info@myragolf.se,4aea3c4b-e5d8-456c-9b51-88bf0e96e918,57.4888563,12.0787529
+Valley Golfklubb,,MÖLNDAL,43190.0,Sverige,info@valleygk.se,508000c7-5c4b-44f4-b02b-e0a8b6eaa725,57.6564918,12.0153085
+Lökeberg Golfklubb,,HÅLTA,44295.0,Sverige,info@lokeberggk.se,5d20be36-dc57-446e-8d17-d7549f347647,57.8959643,11.8248295
 Luleå Golfklubb,,LULEÅ,97596.0,Sverige,kansli@luleagolf.se,3aaaf47c-776c-49bb-a8af-71d7d3722882,65.686638,22.0868994
-Lannalodge Golfresort,,VINTROSA,71993.0,Sverige,info@lannalodge.se,e8f2b0f1-98e3-466c-8553-e5b2805456a9,,
+Lannalodge Golfresort,,VINTROSA,71993.0,Sverige,info@lannalodge.se,e8f2b0f1-98e3-466c-8553-e5b2805456a9,59.255355,14.9618552
 Lidköpings Golfklubb,VÄSTERGÖTLAND,LIDKÖPING,53170.0,Sverige,info@lidkopingsgk.se,5a8d726e-6ec7-4cd4-8cb4-7bbb17608639,58.4872156,13.2666291
 Lidingö Golfklubb,,LIDINGÖ,18121.0,Sverige,kansli@lidingogk.se,76890cbf-500e-4adf-ad26-6ae20e84e1fb,59.3792626,18.1274208
-Lanna Golfklubb,,BREDARYD,33010.0,Sverige,Lannagolfklubb@gmail.com,968b0494-d055-4b27-87a3-5dd6f6ebdca7,,
+Lanna Golfklubb,,BREDARYD,33010.0,Sverige,Lannagolfklubb@gmail.com,968b0494-d055-4b27-87a3-5dd6f6ebdca7,57.1741048,13.7389376
 Lundsbergs Golfklubb,,STORFORS,68891.0,Sverige,golf@lundsbergsgk.com,5aa9f9a3-3fe8-42be-a9c9-2219393b6261,59.4892347,14.1847983
 Norråva Golfklubb,,VÄRMDÖ,13990.0,Sverige,kansli@norravagk.se,28b1b562-a081-4d22-9847-d129521b440f,59.3700307,18.5551744
-Norra Backa Golf Fjällbacka ,,FJÄLLBACKA,45741.0,Sverige,golfkustens@gmail.com,4e8862f1-57f9-43b7-9bd0-6253bc0db137,,
-Tureholms Nya Golfklubb,Norr- Västerbottens Golfförbund,ÖVERTORNEÅ,95732.0,Sverige,tureholms.ngk@gmail.se,98fba086-7e56-4e91-911e-1ee984483f50,,
+Norra Backa Golf Fjällbacka ,,FJÄLLBACKA,45741.0,Sverige,golfkustens@gmail.com,4e8862f1-57f9-43b7-9bd0-6253bc0db137,58.5987546,11.2827802
+Tureholms Nya Golfklubb,Norr- Västerbottens Golfförbund,ÖVERTORNEÅ,95732.0,Sverige,tureholms.ngk@gmail.se,98fba086-7e56-4e91-911e-1ee984483f50,66.666667,23.5
 Kumla Golfklubb,,KUMLA,69292.0,Sverige,info@kumlagk.se,d2fb2089-75ec-4341-b3c6-738d5ccc21d5,59.1171238,15.2483082
-Sunne Golfklubb,Värmland,ROTTNEROS,68694.0,Sverige,info@sunnegk.se,54b0d532-ff18-46db-a747-b47c1f06baa1,,
-Svegs Golfklubb,,SVEG,84294.0,Sverige,info@svegsgk.se,4c9ac030-9b0a-45ff-8259-8735301c4ecb,,
+Sunne Golfklubb,Värmland,ROTTNEROS,68694.0,Sverige,info@sunnegk.se,54b0d532-ff18-46db-a747-b47c1f06baa1,59.7966916,13.1090966
+Svegs Golfklubb,,SVEG,84294.0,Sverige,info@svegsgk.se,4c9ac030-9b0a-45ff-8259-8735301c4ecb,62.0360709,14.3598392
 Strands Golfklubb,Södermanland,ESKILSTUNA,63505.0,Sverige,info@strandgolf.se,61dafea8-b3d3-45d0-87b5-05dcc1e355ae,59.4023433,16.796041
 Strömsholms Golfklubb,,KOLBÄCK,73493.0,Sverige,Kansli@stromsholmsgolf.se,c0ea81e3-ffdd-42d5-8cb2-ef6366bad712,59.5484025,16.243969
-Strömstad Golfklubb,,STRÖMSTAD,45290.0,Sverige,kansli@stdgk.se,cd576cb3-be86-4898-866f-5fc1f0456295,,
-Sollentuna Golfklubb,STOCKHOLM,SOLLENTUNA,19277.0,Sverige,sollentunagk@sollentunagk.se,12461b50-bb94-400a-811d-8c9773339108,,
-Scandinavian Golf Society,Petchaburi,ENSKEDE,12263.0,Sverige,sgshuahin@gmail.com,ffe9f4ce-a673-4836-8028-3f580ed561e8,,
-Svensk Seniorgolf,,KUNGSBACKA,43497.0,Sverige,info@svenskseniorgolf.se,0d59ed9b-0e68-4f8f-97f6-30cfdbf38a1d,,
-Skyrups Golfklubb,,TYRINGE,28295.0,Sverige,info@skyrupsgk.se,d22b1621-42f9-4f2e-8e38-bad886805d4a,,
-S:t Ibbs Golfklubb,Skåne,S:T IBB - VEN,26195.0,Sverige,stibbgk@gmail.com,c9e0bdcd-ad47-4660-8ccd-dc6e9c957346,,
-Orresta Golfklubb,,VÄSTERÅS,72596.0,Sverige,info@orrestagolf.se,458a18cd-684c-4f50-a727-763e42893fb2,,
-Orust Golfklubb,,ELLÖS,47493.0,Sverige,info@orustgk.se,0243aa2f-deab-452c-b2c2-7453706fcb63,,
-Porjus Golfklubb,Norrbotten,PORJUS,98260.0,Sverige,info@porjusgk.com,ef2bde3b-7cb4-40d2-846c-b37612fd516d,,
-Smådalarö Golf,Stockholm,DALARÖ,13770.0,Sverige,info@smadalarogard.se,9a72a494-fa1f-4834-b228-1b2f87aac51f,,
-Halmstad Golfarena,,HALMSTAD,30591.0,Sverige,reception@golfarenan.se,3245fe32-40d4-4232-b8d2-375fc792d034,,
-Hills Golf & Sports Club,,MÖLNDAL,43151.0,Sverige,info@hillsgolfclub.se,17644bb7-1a66-4bc2-a6da-301420df457a,,
-Granöbygdens Golfklubb,,GRANÖ,92295.0,Sverige,kansliet@granobygdensgk.se,92642dab-f4a3-4b38-b47e-8fa0e587b8ad,,
-Ekerum Golfklubb,Småland,BORGHOLM,38792.0,Sverige,info@ekerum.com,f0af7a72-9dd3-4764-8837-4f569e17a04d,,
+Strömstad Golfklubb,,STRÖMSTAD,45290.0,Sverige,kansli@stdgk.se,cd576cb3-be86-4898-866f-5fc1f0456295,58.9377567,11.1736096
+Sollentuna Golfklubb,STOCKHOLM,SOLLENTUNA,19277.0,Sverige,sollentunagk@sollentunagk.se,12461b50-bb94-400a-811d-8c9773339108,59.4293164,17.9500556
+Scandinavian Golf Society,Petchaburi,ENSKEDE,12263.0,Sverige,sgshuahin@gmail.com,ffe9f4ce-a673-4836-8028-3f580ed561e8,59.2892869,18.0702041
+Svensk Seniorgolf,,KUNGSBACKA,43497.0,Sverige,info@svenskseniorgolf.se,0d59ed9b-0e68-4f8f-97f6-30cfdbf38a1d,57.4888563,12.0787529
+Skyrups Golfklubb,,TYRINGE,28295.0,Sverige,info@skyrupsgk.se,d22b1621-42f9-4f2e-8e38-bad886805d4a,56.1602044,13.6042633
+S:t Ibbs Golfklubb,Skåne,S:T IBB - VEN,26195.0,Sverige,stibbgk@gmail.com,c9e0bdcd-ad47-4660-8ccd-dc6e9c957346,59.6749712,14.5208584
+Orresta Golfklubb,,VÄSTERÅS,72596.0,Sverige,info@orrestagolf.se,458a18cd-684c-4f50-a727-763e42893fb2,59.6110992,16.5463679
+Orust Golfklubb,,ELLÖS,47493.0,Sverige,info@orustgk.se,0243aa2f-deab-452c-b2c2-7453706fcb63,58.1799703,11.4687475
+Porjus Golfklubb,Norrbotten,PORJUS,98260.0,Sverige,info@porjusgk.com,ef2bde3b-7cb4-40d2-846c-b37612fd516d,66.9600806,19.8222319
+Smådalarö Golf,Stockholm,DALARÖ,13770.0,Sverige,info@smadalarogard.se,9a72a494-fa1f-4834-b228-1b2f87aac51f,59.1335185,18.4052397
+Halmstad Golfarena,,HALMSTAD,30591.0,Sverige,reception@golfarenan.se,3245fe32-40d4-4232-b8d2-375fc792d034,56.6739826,12.8574827
+Hills Golf & Sports Club,,MÖLNDAL,43151.0,Sverige,info@hillsgolfclub.se,17644bb7-1a66-4bc2-a6da-301420df457a,57.6564918,12.0153085
+Granöbygdens Golfklubb,,GRANÖ,92295.0,Sverige,kansliet@granobygdensgk.se,92642dab-f4a3-4b38-b47e-8fa0e587b8ad,59.5615062,18.7640905
+Ekerum Golfklubb,Småland,BORGHOLM,38792.0,Sverige,info@ekerum.com,f0af7a72-9dd3-4764-8837-4f569e17a04d,56.8794759,16.6559707
 Falsterbo Golfklubb,,FALSTERBO,23940.0,Sverige,info@falsterbogk.se,cd5fda21-11ba-4863-8472-116a98f4f358,55.3855946,12.8187498
 Bryngfjordens Golfklubb,Värmland,KARLSTAD,65350.0,Sverige,info@bryngfjorden.com,5df58ad8-cf7d-4c72-a73a-79de65b0c7ad,59.414487,13.4470887
-Botkyrka Golfklubb,,GRÖDINGE,14791.0,Sverige,info@botkyrkagk.se,9eb9f76d-bdbc-49c0-b8d6-b934a3b1c6b0,,
+Botkyrka Golfklubb,,GRÖDINGE,14791.0,Sverige,info@botkyrkagk.se,9eb9f76d-bdbc-49c0-b8d6-b934a3b1c6b0,59.1446122,17.7876432
 Malungs Golfklubb,,MALUNG,78291.0,Sverige,info@malungsgk.se,82d6467f-ca49-45ff-856d-c5341817bcd0,60.629323,13.7492511
 Flygstadens Golfklubb,,HALMSTAD,30241.0,Sverige,info@flygstadensgolfklubb.se,9b5fa5f4-ae25-4adc-bc2c-d967d6154e5b,56.6760751,12.8171309
-Lydinge Golfklubb,Skåne,HYLLINGE,26575.0,Sverige,reception@lydinge.com,aa91f81a-8131-4be1-a725-fca0ee51c7dc,,
+Lydinge Golfklubb,Skåne,HYLLINGE,26575.0,Sverige,reception@lydinge.com,aa91f81a-8131-4be1-a725-fca0ee51c7dc,56.1048737,12.8654784
 Ribbingsfors Golf & Kultur,,GULLSPÅNG,54792.0,Sverige,info@ribbingsforsgk.se,a5a9a5b7-9f73-4b68-b569-a6668954cb70,58.9633335,14.1247718
 Mariestads Golfklubb,,MARIESTAD,54294.0,Sverige,info@mariestadsgk.se,8f545c9f-b419-4d8b-abe6-a1ae4af5a777,58.6971294,13.7607427
-Lycke Golf & Country Club Marstrand,Västra Götaland,LYCKE,44275.0,Sverige,reception@lyckegc.se,f15e2101-6f31-4e23-a76d-9763a0b66c61,,
-När Golfklubb,,STÅNGA,62348.0,Sverige,info@nargk.se,fbcc0ba2-0b3d-48e0-9aee-eae16e661e82,,
+Lycke Golf & Country Club Marstrand,Västra Götaland,LYCKE,44275.0,Sverige,reception@lyckegc.se,f15e2101-6f31-4e23-a76d-9763a0b66c61,57.887903,12.9820535
+När Golfklubb,,STÅNGA,62348.0,Sverige,info@nargk.se,fbcc0ba2-0b3d-48e0-9aee-eae16e661e82,57.2814458,18.4714278
 Dynekilens Golfklubb,Bohuslän-Dal,STRÖMSTAD,45292.0,Sverige,kansliet@dynegolf.se,5fbac161-9dcc-45a6-a8ee-7928d33557bf,59.0033755,11.2551104
 Landskrona Golfklubb,,LANDSKRONA,26161.0,Sverige,info@landskronagk.se,801f3a7f-0a72-483f-b484-e707bfd875e7,55.9089858,12.8133656
-Billeruds Golfklubb,,SEGMON,66040.0,Sverige,kansli@billerudsgk.se,1362b797-2b44-42ba-9b8c-e38f32706164,,
+Billeruds Golfklubb,,SEGMON,66040.0,Sverige,kansli@billerudsgk.se,1362b797-2b44-42ba-9b8c-e38f32706164,59.2747878,13.0426532
 Karlskoga Golfklubb,Värmland,KARLSKOGA,69194.0,Sverige,info@karlskogagk.se,965761cd-91ae-48c7-8068-af9a00695584,59.3021782,14.5786201
 Kristianstads Golfklubb ,,ÅHUS,29635.0,Sverige,receptionen@kristianstadsgk.com,23012d35-2ca1-47c7-8c59-1e5dcd1f3cfd,55.9249636,14.2734326
 Hörlycke Golfklubb,Västergötland,TROLLHÄTTAN,46198.0,Sverige,kansli@horlyckegk.se,3c40f24b-1296-4d38-92a9-94fab2bd183f,58.2496824,12.2609715
-Härnösands Golfklubb,Ångermanlnd,ÄLANDSBRO,87010.0,Sverige,info@harnosandgk.se,b553b130-e820-420d-9dc7-c247e7bda9cd,,
+Härnösands Golfklubb,Ångermanlnd,ÄLANDSBRO,87010.0,Sverige,info@harnosandgk.se,b553b130-e820-420d-9dc7-c247e7bda9cd,62.6779718,17.8392153
 HOMA Holidays,,,,Sverige,info@homaholidays.es,00b36afe-86cb-4cae-8557-03f78fd18b44,,
-Järvsöbadens Golfklubb,,JÄRVSÖ,82040.0,Sverige,info@jarvsogolf.se,0f2a320b-2303-4768-84a0-102339e808c7,,
+Järvsöbadens Golfklubb,,JÄRVSÖ,82040.0,Sverige,info@jarvsogolf.se,0f2a320b-2303-4768-84a0-102339e808c7,61.7158943,16.1693209
 Halmstad Golfklubb,,HALMSTAD,30273.0,Sverige,info@hgk.se,729d1b1a-56e4-4b3d-9e3d-aefda83acc40,56.6630912,12.7527741
 Golf i Solen,,,,Sverige,,32cba1a4-bd60-4979-8371-7032320b5b2e,,
-Grindslanten Golfklubb,,LIDINGÖ,18157.0,Sverige,info@grindslantengolf.se,32e993bc-98a5-4c0b-bea7-2f77df50eed9,,
+Grindslanten Golfklubb,,LIDINGÖ,18157.0,Sverige,info@grindslantengolf.se,32e993bc-98a5-4c0b-bea7-2f77df50eed9,59.3669445,18.1820897
 Herrljunga Golfklubb,Västra Götaland,HERRLJUNGA,52492.0,Sverige,info@herrljungagk.se,92219bd0-c136-4044-b87e-9430b83143df,58.0451757,13.0935477
 Gagnefs Golfklubb,,DJURÅS,78560.0,Sverige,kansli@gagnefsgk.com,2f0c3491-be08-4983-8c82-05e6c33ca643,60.5309917,15.0422306
-Fogdö Golfklubb,Södermanland,STRÄNGNÄS,64592.0,Sverige,kansli@fogdogk.se,3e6673fe-0c75-4447-8793-3e80d93f0dd3,,
+Fogdö Golfklubb,Södermanland,STRÄNGNÄS,64592.0,Sverige,kansli@fogdogk.se,3e6673fe-0c75-4447-8793-3e80d93f0dd3,59.3763155,17.0268194
 Danderyds Golfklubb,Stockholm,DANDERYD,18237.0,Sverige,info@danderydsgk.se,308c2661-553f-46d2-aed6-4d22b35b219b,59.4144742,18.0236194
 Enköpings Golfklubb,,ENKÖPING,74946.0,Sverige,info@enkopinggolf.se,343bc5ba-f408-4036-883f-2b8ec922a6f9,59.6344115,17.1268814
 Bro Hof Slott Golf Club,,BRO,19791.0,Sverige,reception@brohofslott.se,77c52af7-8897-4ca4-a859-9fb9bcdfdeec,59.4978099,17.6433983
-Björnhults Golfklubb,,FALKENBERG,31194.0,Sverige,info@bjornhultsgk.se,7313ddd9-3d1e-40e6-9a61-1ee779a016b0,,
-Arvika Golfklubb,,BRUNSKOG,67194.0,Sverige,info@arvikagk.com,5d26fe79-1b33-4c98-9938-959648afd542,,
-Binga Golf,,LJUNGBYHOLM,38892.0,Sverige,info@bingagolf.se,7a4ed169-cc65-4761-a9b2-578e34e66184,,
+Björnhults Golfklubb,,FALKENBERG,31194.0,Sverige,info@bjornhultsgk.se,7313ddd9-3d1e-40e6-9a61-1ee779a016b0,56.904894,12.4912926
+Arvika Golfklubb,,BRUNSKOG,67194.0,Sverige,info@arvikagk.com,5d26fe79-1b33-4c98-9938-959648afd542,56.6267147,13.0042637
+Binga Golf,,LJUNGBYHOLM,38892.0,Sverige,info@bingagolf.se,7a4ed169-cc65-4761-a9b2-578e34e66184,56.6339754,16.1683753
 Bodens Golfklubb,Norrbotten,BODEN,96151.0,Sverige,info@bodensgk.se,ce43217e-fa8c-481b-a42e-794b58cca823,65.750985,21.7557678
 Ågesta Golfklubb,STOCKHOLM,FARSTA,12352.0,Sverige,info@agestagk.se,76ba59de-31e5-4cf0-b58b-be229a611071,59.2236215,18.0828407
-Årjängs Golfklubb,Värmland,ÅRJÄNG,67295.0,Sverige,info@arjangsgk.se,3e08b8fd-c7f6-41b8-85c2-cbd4cff7a97f,,
+Årjängs Golfklubb,Värmland,ÅRJÄNG,67295.0,Sverige,info@arjangsgk.se,3e08b8fd-c7f6-41b8-85c2-cbd4cff7a97f,59.416667,12.166667
 Sollefteå Golfklubb,,LÅNGSELE,88291.0,Sverige,kansli@sollefteagk.se,f0924889-e97e-4616-b005-7d77a7c67852,63.1660517,17.012389
-Wiredaholm Golf & Konferens,,ANEBY,57892.0,Sverige,info@wiredaholm.se,febb2a2a-9aa6-472f-a636-54080d7f0a3b,,
-Sand Golf Club,,BANKERYD,56491.0,Sverige,info@sandgolfclub.se,3a7568ba-d39e-4349-b771-904fd519a46b,,
-Saxnäs Golfklubb,,FÄRJESTADEN,38695.0,Sverige,info@saxnasgolf.se,8eb71b59-7b2c-4d75-9cdf-7eb8fc921acb,,
+Wiredaholm Golf & Konferens,,ANEBY,57892.0,Sverige,info@wiredaholm.se,febb2a2a-9aa6-472f-a636-54080d7f0a3b,57.833333,14.75
+Sand Golf Club,,BANKERYD,56491.0,Sverige,info@sandgolfclub.se,3a7568ba-d39e-4349-b771-904fd519a46b,57.8631423,14.1278533
+Saxnäs Golfklubb,,FÄRJESTADEN,38695.0,Sverige,info@saxnasgolf.se,8eb71b59-7b2c-4d75-9cdf-7eb8fc921acb,56.6517105,16.4721747
 Österlens Golfklubb,Skåne,SIMRISHAMN,27295.0,Sverige,info@osterlensgk.com,f7d48313-efc9-4cd6-b28d-5b757400a93e,55.6208741,14.2768779
-Värpinge Golfklubb,Skåne,LUND,22761.0,Sverige,info@varpinge.se,d25dc61b-0516-4057-8b91-18521d923d22,,
-Skinnarebo Golf & Country Club,,SKINNAREBO,55593.0,Sverige,kansli@skinnarebo.com,e9e81ea6-bd90-4e6e-a529-b9c408ae6467,,
-Ystad Golfklubb,Skåne,NYBROSTRAND,27171.0,Sverige,info@ystadgk.se,dde92211-ee7a-4f4a-b9d4-211a31c78a5b,,
-Sankt Jörgen Park Golf ,,GÖTEBORG,41749.0,Sverige,golf@sanktjorgenpark.se,3438a355-6754-4571-aded-51a554f4cc11,,
+Värpinge Golfklubb,Skåne,LUND,22761.0,Sverige,info@varpinge.se,d25dc61b-0516-4057-8b91-18521d923d22,55.7029296,13.1929449
+Skinnarebo Golf & Country Club,,SKINNAREBO,55593.0,Sverige,kansli@skinnarebo.com,e9e81ea6-bd90-4e6e-a529-b9c408ae6467,58.3108089,15.6496391
+Ystad Golfklubb,Skåne,NYBROSTRAND,27171.0,Sverige,info@ystadgk.se,dde92211-ee7a-4f4a-b9d4-211a31c78a5b,55.433008,13.9502983
+Sankt Jörgen Park Golf ,,GÖTEBORG,41749.0,Sverige,golf@sanktjorgenpark.se,3438a355-6754-4571-aded-51a554f4cc11,57.7072326,11.9670171
 Helsingborgs Golfklubb,,VIKEN,26361.0,Sverige,office@helsingborgsgk.com,277ada2d-c848-4021-9d97-3207ccb39ace,56.1607235,12.5656275
-Brevikens Golfklubb,Västergötland,KARLSBORG,54691.0,Sverige,kansli@breviken.se,f9e73369-7825-4622-9664-085d874b0d22,,
-Barsebäck Golf & Resort,,LÖDDEKÖPINGE,24655.0,Sverige,golf@barseback.com,5b64fcd6-8bdd-4f58-9dda-59fc6caec7ec,,
-Ullna Golf & Country Club,Stockholm,ÅKERSBERGA,18494.0,Sverige,reception@ullnagolf.se,615ffc0b-8fce-4cd3-8d02-2a1c30340688,,
+Brevikens Golfklubb,Västergötland,KARLSBORG,54691.0,Sverige,kansli@breviken.se,f9e73369-7825-4622-9664-085d874b0d22,58.583333,14.5
+Barsebäck Golf & Resort,,LÖDDEKÖPINGE,24655.0,Sverige,golf@barseback.com,5b64fcd6-8bdd-4f58-9dda-59fc6caec7ec,55.7632132,13.0003944
+Ullna Golf & Country Club,Stockholm,ÅKERSBERGA,18494.0,Sverige,reception@ullnagolf.se,615ffc0b-8fce-4cd3-8d02-2a1c30340688,59.4823516,18.2943981
 Ingarö Golf,,INAGRÖ,13464.0,Sverige,info@igk.se,d4b1239c-1636-4a6e-be16-d88250d65466,,
-Gotska Golfklubb,Gotland,VISBY,62141.0,Sverige,info@gotskagk.se,e6cbd378-f6ef-480f-8a74-c39099842549,,
+Gotska Golfklubb,Gotland,VISBY,62141.0,Sverige,info@gotskagk.se,e6cbd378-f6ef-480f-8a74-c39099842549,57.6379361,18.297982
 Forsgårdens Golfklubb,Halland,KUNGSBACKA,43447.0,Sverige,kansli@forsgarden.se,f6dfc227-53eb-49f7-8182-456d995efe92,57.4981774,12.1097998
 Hede-Vemdalens Golfklubb,,HEDE,84631.0,Sverige,kansli@hede-vemdalensgk.se,40ec4c68-6bc8-42d9-86a6-f993fd65b94d,62.4233761,13.5085353
-Hudiksvalls Golfklubb,,HUDIKSVALL,82491.0,Sverige,jon@hudiksvallsgk.se,49ec7286-842d-45eb-a48c-03812509c916,,
+Hudiksvalls Golfklubb,,HUDIKSVALL,82491.0,Sverige,jon@hudiksvallsgk.se,49ec7286-842d-45eb-a48c-03812509c916,61.7281607,17.105575
 Arninge Golfklubb,,TÄBY,18769.0,Sverige,klubbchef@arningegk.se,80e90da7-26e6-443e-86fd-71f059b77187,59.4811492,18.1257884
 Crownwood Golf,,,,Sverige,golf@crownwood.club,d11abe58-0d32-4f2c-8ac8-66eca37d6c63,,
-Torsby Golfklubb,Värmland,TORSBY,68592.0,Sverige,info@torsbygolfklubb.se,aa609a07-26c7-4cdc-b49e-b3f91ed92e5e,,
+Torsby Golfklubb,Värmland,TORSBY,68592.0,Sverige,info@torsbygolfklubb.se,aa609a07-26c7-4cdc-b49e-b3f91ed92e5e,60.5,13.083333
 Delsjö Golfklubb,,GÖTEBORG,41276.0,Sverige,info@degk.se,46e9603a-5e54-48d0-b73e-ca0936719284,57.6893038,12.0192071
 Hofors Golfklubb,,HOFORS,81391.0,Sverige,info@hoforsgk.se,048c9d4d-cb65-4fb2-a529-cf4323bf0ce1,60.521994,16.3724589
 Ronneby Golfklubb,Blekinge,RONNEBY,37273.0,Sverige,info@ronnebygk.se,7e9959bc-0055-48ac-b827-c75927844e5f,56.1896858,15.2934408
 Flommens Golfklubb,Skåne,FALSTERBO,23940.0,Sverige,reception@flommensgk.se,0fb95bb1-6c01-45fa-b89b-0e5d287f1848,55.3936584,12.8279084
 Oskarshamns Golfklubb,Småland,OSKARSHAMN,57293.0,Sverige,info@oskarshamnsgk.com,49023a45-95f0-4a09-be28-8342c29d0d89,57.1938629,16.3918036
-Forshaga Golfklubb,Värmland,DEJE,66991.0,Sverige,info@forshagadejegk.se,b9a5b540-1414-48f8-a2d1-8964778d1d21,,
+Forshaga Golfklubb,Värmland,DEJE,66991.0,Sverige,info@forshagadejegk.se,b9a5b540-1414-48f8-a2d1-8964778d1d21,59.6059394,13.4636486
 Djursholms Golfklubb,,DJURSHOLM,18263.0,Sverige,info@dgk.nu,4248b9e6-94a0-42e9-9c96-23916ba49083,59.4166843,18.0701553
-Naturligtvis Golf & Country Club,,GENARP,24799.0,Sverige,info@naturligtvisgcc.se,b6baadc1-93dc-4133-8668-745170f84ad3,,
+Naturligtvis Golf & Country Club,,GENARP,24799.0,Sverige,info@naturligtvisgcc.se,b6baadc1-93dc-4133-8668-745170f84ad3,55.5995193,13.3995293
 Glasrikets Golfklubb Växjö,,VÄXJÖ,35592.0,Sverige,info@glasriketsgk.se,7bd30526-d1b1-40ad-950e-7fc73027d4ce,56.8982474,14.8680174
-Ombergs Golf Resort,Östergötland,ÖDESHÖG,59993.0,Sverige,info@ombergsgolfresort.se,c39f1aa2-5168-4c18-b44d-d12b77e861d5,,
-Gunnarns Golfklubb,Västerbotten,GUNNARN,95342.0,Sverige,gunnarngolf@gmail.com,5861fd66-7b14-4740-9dcc-89e6613d33a0,,
+Ombergs Golf Resort,Östergötland,ÖDESHÖG,59993.0,Sverige,info@ombergsgolfresort.se,c39f1aa2-5168-4c18-b44d-d12b77e861d5,58.183333,14.683333
+Gunnarns Golfklubb,Västerbotten,GUNNARN,95342.0,Sverige,gunnarngolf@gmail.com,5861fd66-7b14-4740-9dcc-89e6613d33a0,65.0096127,17.6818012
 Östra Göinge Golfklubb,Skåne,KNISLINGE,28931.0,Sverige,04460060@telia.com,2600ea29-8186-4c05-a867-f45c81fcb167,56.2015298,14.0853851
 Vinbergs Golfklubb,,FALKENBERG,31195.0,Sverige,info@vinbergsgolfklubb.se,758d7694-35b7-4d73-ad33-d8228513cd2a,56.9641521,12.5551589
-Klövsjö-Vemdalens Golfklubb,,KLÖVSJÖ,84597.0,Sverige,kvgk@telia.com,faf90112-8444-4a3f-a0f1-fb7f3bc568ec,,
-Nacka Golfklubb,,SALTSJÖ-BOO,13236.0,Sverige,info@nackagk.se,651b23e7-9ed5-432f-8ffa-45782468340e,,
-Wasa Golfklubb,Södermanland,SÖDERTÄLJE,15152.0,Sverige,info@wasagolf.se,e4c35d52-1263-4dd1-861f-877e17067476,,
+Klövsjö-Vemdalens Golfklubb,,KLÖVSJÖ,84597.0,Sverige,kvgk@telia.com,faf90112-8444-4a3f-a0f1-fb7f3bc568ec,62.5278287,14.1971946
+Nacka Golfklubb,,SALTSJÖ-BOO,13236.0,Sverige,info@nackagk.se,651b23e7-9ed5-432f-8ffa-45782468340e,59.3012194,18.2050913
+Wasa Golfklubb,Södermanland,SÖDERTÄLJE,15152.0,Sverige,info@wasagolf.se,e4c35d52-1263-4dd1-861f-877e17067476,59.1964289,17.6271663
 Knistad Golf & Country Club,,SKÖVDE,54192.0,Sverige,info@knistad.se,8ef887b6-b50e-4b62-8319-54db8dfb3c4c,58.4210057,13.9458846
-Sönnertorps Golfklubb,Skåne,BÅSTAD,26993.0,Sverige,info@sonnertorpgolf.se,4b64531e-1453-47c3-81ae-de365807e7c8,,
+Sönnertorps Golfklubb,Skåne,BÅSTAD,26993.0,Sverige,info@sonnertorpgolf.se,4b64531e-1453-47c3-81ae-de365807e7c8,56.4268963,12.8608789
 Arvidsjaurs Golfklubb,,ARVIDSJAUR,93334.0,Sverige,info@arvidsjaurgolf.se,1dc4b9e1-ca2b-42b5-b78a-1558a6d9e215,65.5857069,19.2135755
-Johannesberg Golfklubb,,RIMBO,76295.0,Sverige,golf@johannesbergsgolf.se,a9d34edb-c0a5-4b0a-8a32-cec9377578ae,,
+Johannesberg Golfklubb,,RIMBO,76295.0,Sverige,golf@johannesbergsgolf.se,a9d34edb-c0a5-4b0a-8a32-cec9377578ae,59.7453192,18.3601765
 Tobo Golfklubb,Småland,VIMMERBY,59891.0,Sverige,info@tobogk.se,d010f82d-8031-452f-b292-0bd1d7144e38,57.576815,15.8109958
-Gällivare-Malmbergets Golfklubb,,MALMBERGET,98321.0,Sverige,gmgk@GALLIVAREMALMBERGETSGOLF.onmicrosoft.com,536678ed-755a-4ca1-afc6-1963d9d84892,,
+Gällivare-Malmbergets Golfklubb,,MALMBERGET,98321.0,Sverige,gmgk@GALLIVAREMALMBERGETSGOLF.onmicrosoft.com,536678ed-755a-4ca1-afc6-1963d9d84892,61.1446227,15.5670987
 Loftahammars Golfklubb,Småland,LOFTAHAMMAR,59095.0,Sverige,info@loftahammarsgk.se,dcc6074a-b75f-4399-ac18-ec1ca12d2583,57.9096033,16.6990544
 Kungl. Drottningholms Golfklubb,,DROTTNINGHOLM,17893.0,Sverige,info@kdrgk.se,bfd13b90-c4df-4660-afa9-0b953fcd623d,59.3175288,17.8539679
 Göteborgs Golf Klubb,,HOVÅS,43650.0,Sverige,reception@goteborgsgk.org,f9ceaff2-4166-4857-9d24-93e96f55f065,57.6115165,11.9284343
-Örnsköldsviks Golfklubb Puttom,,ARNÄSVALL,89195.0,Sverige,kansli@puttom.se,0b2062ae-e752-418b-bf67-af121d75de86,,
+Örnsköldsviks Golfklubb Puttom,,ARNÄSVALL,89195.0,Sverige,kansli@puttom.se,0b2062ae-e752-418b-bf67-af121d75de86,63.3187214,18.7955247
 A6 Golfklubb,Småland,JÖNKÖPING,55305.0,Sverige,info@a6gk.se,081d1920-eb5c-4303-9940-420beacd2351,57.7603579,14.2169419
-Wäsby Golfklubb,Stockholm,UPPLANDS VÄSBY,19492.0,Sverige,kansli@wasbygolf.se,bfd70135-982b-498e-b000-b2766a5b0f17,,
-Olandsbygdens Golfklubb,Östhammars kommun,ALUNDA,74791.0,Sverige,golf@olandsbygdensgk.se,57078b98-8f8e-4f5c-b34b-abc28a008d77,,
+Wäsby Golfklubb,Stockholm,UPPLANDS VÄSBY,19492.0,Sverige,kansli@wasbygolf.se,bfd70135-982b-498e-b000-b2766a5b0f17,59.516667,17.916667
+Olandsbygdens Golfklubb,Östhammars kommun,ALUNDA,74791.0,Sverige,golf@olandsbygdensgk.se,57078b98-8f8e-4f5c-b34b-abc28a008d77,60.0664532,18.0780717
 Höganäs Golfklubb,,LERBERGET,26354.0,Sverige,kansli@hoganasgk.se,0a68a2e0-5ac6-4e16-a917-787287156b70,56.1832784,12.5743192
-Arlandastad Golfklubb,Uppland,ROSERSBERG,19595.0,Sverige,info@arlandastadgolf.se,71336f7e-b950-4646-9dc9-2fdd402f208a,,
-Sparren Golfklubb,,RIMBO,76293.0,Sverige,info@sparrengolf.se,b3375301-159a-4f88-8820-4532c7eeb90c,,
-Skerike Golfklubb,,VÄSTERÅS,72593.0,Sverige,kansli@skerikegk.se,35f9ce62-4d8d-4f47-be24-98c535fe369c,,
-Mackmyra Golf,,VALBO,81832.0,Sverige,info@mackmyragolf.se,c370bf9b-822c-4fd1-8fc1-eed6cb64446e,,
+Arlandastad Golfklubb,Uppland,ROSERSBERG,19595.0,Sverige,info@arlandastadgolf.se,71336f7e-b950-4646-9dc9-2fdd402f208a,59.5778633,17.8853319
+Sparren Golfklubb,,RIMBO,76293.0,Sverige,info@sparrengolf.se,b3375301-159a-4f88-8820-4532c7eeb90c,59.7453192,18.3601765
+Skerike Golfklubb,,VÄSTERÅS,72593.0,Sverige,kansli@skerikegk.se,35f9ce62-4d8d-4f47-be24-98c535fe369c,59.6110992,16.5463679
+Mackmyra Golf,,VALBO,81832.0,Sverige,info@mackmyragolf.se,c370bf9b-822c-4fd1-8fc1-eed6cb64446e,60.6447772,17.0122765
 Avesta Golfklubb,,AVESTA,77461.0,Sverige,info@avestagk.se,ddd7635c-0544-4589-8e19-5afa8436c2cb,60.1450019,16.216104
-Albatross Golfklubb,,HISINGS BACKA,42250.0,Sverige,reception@albatrossgolf.se,f173cf07-11fe-4da2-9b11-8ff9f5911cd1,,
+Albatross Golfklubb,,HISINGS BACKA,42250.0,Sverige,reception@albatrossgolf.se,f173cf07-11fe-4da2-9b11-8ff9f5911cd1,57.742936,11.9758332
 Strängnäs Golfklubb,SÖDERMANLAND,STRÄNGNÄS,64547.0,Sverige,info@strangnasgk.se,eef8e028-3603-4959-a66a-2f5289b4f9b1,59.3473495,17.024402
-Hässlegårdens Golfklubb,,HÄSSLEHOLM,28135.0,Sverige,info@hggk.se,13840737-732c-4ecb-8d4f-a93a68672850,,
+Hässlegårdens Golfklubb,,HÄSSLEHOLM,28135.0,Sverige,info@hggk.se,13840737-732c-4ecb-8d4f-a93a68672850,56.157986,13.7653328
 Gripsholms Golfklubb,Södermanland,MARIEFRED,64731.0,Sverige,info@gripsholmsgk.se,b103184a-67a6-4095-bcdf-c42cb2aae41b,59.2622921,17.1982796
 Huvudstadens Golfklubb,,VALLENTUNA,18692.0,Sverige,info@huvudstadensgolfklubb.se,38cfed92-8358-405c-b97e-242bef8b8da0,59.5578037,18.0290527
-Hässelby Golfklubb,Stockholm,HÄSSELBY,16572.0,Sverige,hasselby@golfstar.se,646db102-140d-439a-966e-25027306653d,,
-Stannum Golfklubb,,GRÅBO,44370.0,Sverige,info@stannumgolf.se,4ae0311d-9650-46b6-ab5c-80b289b30095,,
+Hässelby Golfklubb,Stockholm,HÄSSELBY,16572.0,Sverige,hasselby@golfstar.se,646db102-140d-439a-966e-25027306653d,59.8813945,17.5548257
+Stannum Golfklubb,,GRÅBO,44370.0,Sverige,info@stannumgolf.se,4ae0311d-9650-46b6-ab5c-80b289b30095,57.838561,12.2991979
 Waxholms Golfklubb,,VAXHOLM,18593.0,Sverige,info@waxholmsgolfklubb.se,c40d009a-c5b0-4ff0-b408-25859a9fdf85,59.3907425,18.2452082
 Viksbergs Golfklubb,,SÖDERTÄLJE,15295.0,Sverige,styrelsen@viksbergsgolf.se,8e7be363-c559-472e-a74d-df0d8deb86c5,59.2491012,17.6195894
-Väddö Golfklubb,,VÄDDÖ,76040.0,Sverige,info@vgk.nu,d76361c5-2d09-42b4-9ba3-292cd60f6718,,
+Väddö Golfklubb,,VÄDDÖ,76040.0,Sverige,info@vgk.nu,d76361c5-2d09-42b4-9ba3-292cd60f6718,59.9674213,18.8596191
 Vadstena Golfklubb,,VADSTENA,59294.0,Sverige,kansli@vadstenagk.nu,12d45ade-16ae-4dbc-b886-113db4207016,58.4206064,14.8953357
-Ekholmsnäs Golf Lidingö,,LIDINGÖ,18141.0,Sverige,info@ekholmsnasgolf.se,10395a91-58db-4dfa-a9fb-0423d39bc3ed,,
+Ekholmsnäs Golf Lidingö,,LIDINGÖ,18141.0,Sverige,info@ekholmsnasgolf.se,10395a91-58db-4dfa-a9fb-0423d39bc3ed,59.3669445,18.1820897
 Vassunda Golfklubb,,KNIVSTA,74191.0,Sverige,info@vassundagolf.se,e193ff1b-3f56-4689-b110-1fbd871f4043,59.6867308,17.7083653
 Vallentuna Golfklubb,,VALLENTUNA,18694.0,Sverige,kansli@vallentunagk.se,0eef2917-46bf-4a2e-95a5-60cb3e9fd0ab,59.5618357,18.1118466
-The National Golfresort,,BARA,23302.0,Sverige,reception@thenational.se,b177a5ea-ba4e-48b0-88f5-d242b2516b75,,
+The National Golfresort,,BARA,23302.0,Sverige,reception@thenational.se,b177a5ea-ba4e-48b0-88f5-d242b2516b75,55.5821668,13.1806037
 Älvkarleby Golfklubb,Uppland,ÄLVKARLEBY,81494.0,Sverige,info@alvkarlebygk.com,7cc9a6ff-1a9b-4f62-ad84-681a4cd02411,60.5907175,17.4455521
-Kvicksund Golfklubb,,KVICKSUND,63531.0,Sverige,info@kvicksundgolf.com,de03ad2e-f4c5-4289-a9d9-814cc714ede2,,
+Kvicksund Golfklubb,,KVICKSUND,63531.0,Sverige,info@kvicksundgolf.com,de03ad2e-f4c5-4289-a9d9-814cc714ede2,59.4576443,16.3144858
 Båstad Golfklubb,,BÅSTAD,26994.0,Sverige,kansli@bgk.se,49acc0b1-0fc3-43d9-b9d9-9e7616439da7,56.4289151,12.7916478
-Sandnäset Golf,,DVÄRSÄTT,83541.0,Sverige,info@sandnasetgolf.se,bb44b4ec-c171-4338-af65-2a230dea4fc3,,
-Torekovs Golfklubb,,TOREKOV,26976.0,Sverige,info@togk.se,7cdd8145-5f49-4c59-9ef3-2cabdbf7abf0,,
+Sandnäset Golf,,DVÄRSÄTT,83541.0,Sverige,info@sandnasetgolf.se,bb44b4ec-c171-4338-af65-2a230dea4fc3,63.3024114,14.4731993
+Torekovs Golfklubb,,TOREKOV,26976.0,Sverige,info@togk.se,7cdd8145-5f49-4c59-9ef3-2cabdbf7abf0,56.4262975,12.6267676
 Stockholms Golfklubb,Stockholm,DANDERYD,18257.0,Sverige,reception@stockholmsgolfklubb.se,e0809e9b-0d7d-420f-9ed1-17fe543bee36,59.395953,18.0250356
 Saltsjöbadens Golfklubb,Stockholm,SALTSJÖBADEN,13321.0,Sverige,info@saltsjobadengk.se,2ad91290-a073-456f-8cd6-10f8f7f29173,59.2841031,18.2660309
-Kallfors Golf,,JÄRNA,15338.0,Sverige,info@golfsouth.se,fdb8dd91-43c1-40d6-b892-fd6d914c0789,,
-Ingarö Golfklubb,Stockholm,INGARÖ,13464.0,Sverige,info@igk.se,40b37bcc-da06-44fc-a6cf-f0e9bea92f65,,
+Kallfors Golf,,JÄRNA,15338.0,Sverige,info@golfsouth.se,fdb8dd91-43c1-40d6-b892-fd6d914c0789,59.0913404,17.5651066
+Ingarö Golfklubb,Stockholm,INGARÖ,13464.0,Sverige,info@igk.se,40b37bcc-da06-44fc-a6cf-f0e9bea92f65,59.2523654,18.4672668
 Torslanda Golfklubb,,TORSLANDA,42338.0,Sverige,reception@torslandagk.se,5e6085be-032d-42aa-873d-114b4a21608a,57.7037926,11.7804175
 Vårdsbergs Golfklubb,,LINKÖPING,58592.0,Sverige,info@vardsbergsgk.se,b2a1c567-8b38-4517-b9b2-e0477d368b7a,58.4123519,15.7459512
-Woodlands Golf & Country Club,,ÖRKELLJUNGA,28691.0,Sverige,golf@woodlands.se,f7c083d9-9607-4d65-9b34-ad8a53b03b9b,,
-Vidbynäs Golf,,NYKVARN,15591.0,Sverige,info@golfsouth.se,d8392083-5822-414b-b452-43a3c05a1724,,
+Woodlands Golf & Country Club,,ÖRKELLJUNGA,28691.0,Sverige,golf@woodlands.se,f7c083d9-9607-4d65-9b34-ad8a53b03b9b,56.2827878,13.2828212
+Vidbynäs Golf,,NYKVARN,15591.0,Sverige,info@golfsouth.se,d8392083-5822-414b-b452-43a3c05a1724,59.2,17.416667
 Lerjedalens Golfklubb,,GUNNILSE,42456.0,Sverige,kansli@lerjedalen.se,448d6e54-095c-43a6-81ce-9fd44690f220,57.7930216,12.1053771
-Blixtorps Golf,Hallands län,VARBERG,43291.0,Sverige,info@blixtorpsgolf.se,e8e4432d-7e9f-44b1-a20c-d1cf1fdfdbd4,,
-Wittsjö Golfklubb,Södra,VITTSJÖ,28022.0,Sverige,info@wittsjogk.se,246ddd60-0275-4668-91f1-e95923a1eaa9,,
+Blixtorps Golf,Hallands län,VARBERG,43291.0,Sverige,info@blixtorpsgolf.se,e8e4432d-7e9f-44b1-a20c-d1cf1fdfdbd4,57.1057412,12.2502949
+Wittsjö Golfklubb,Södra,VITTSJÖ,28022.0,Sverige,info@wittsjogk.se,246ddd60-0275-4668-91f1-e95923a1eaa9,56.3419237,13.6654927
 Ekarnas Golfklubb,,GRÄSTORP,46792.0,Sverige,info@ekarnasgk.se,742f74eb-25ad-4871-a139-f1c0c87df566,58.3329164,12.6531535
 Laholms Golfklubb,Halland,VÅXTORP,31298.0,Sverige,kansli@laholmsgk.se,28265a63-bd5d-4b92-8df6-1dd6526c24c7,56.4358454,13.1279375
-Mönsterås Golfklubb,,MÖNSTERÅS,38337.0,Sverige,info@monsterasgk.se,ca61f0b8-8f6e-4ebd-a67a-d3d850181fd0,,
+Mönsterås Golfklubb,,MÖNSTERÅS,38337.0,Sverige,info@monsterasgk.se,ca61f0b8-8f6e-4ebd-a67a-d3d850181fd0,57.066667,16.416667
 Öregrunds Golfklubb,Uppland,ÖSTHAMMAR,74291.0,Sverige,info@oregrundsgk.com,30c0163d-0b1c-412c-a9c3-0189928454c3,60.2766516,18.4114993
-Nicklastorp Golfklubb,Blekinge,KARLSKRONA,37191.0,Sverige,kansli@nigk.se,b31136f8-fbb9-4fa7-b789-b6b9bdd85198,,
+Nicklastorp Golfklubb,Blekinge,KARLSKRONA,37191.0,Sverige,kansli@nigk.se,b31136f8-fbb9-4fa7-b789-b6b9bdd85198,56.1621073,15.5866422
 Sala Golfklubb,,SALA,73392.0,Sverige,info@salagk.se,9b0fb247-7147-4f7a-b102-80f3028ac9c0,59.9457181,16.7131657
-Jönköpings Golfklubb,,JÖNKÖPING,55627.0,Sverige,info@jonkopingsgk.se,2c417219-2830-40ec-8a39-4ed980334b24,,
-Djurgårdens IF Golfförening,,LIDINGÖ,18142.0,Sverige,info@difgolf.se,5e3b505d-a228-4819-bcb5-d7a90ec4f329,,
-Romeleåsens Golfklubb,,VEBERÖD,24796.0,Sverige,info@ragk.se,9b40d38a-2f89-4d49-bd49-fa3f87ae43e2,,
-Bredareds Golfklubb,,FRISTAD,51391.0,Sverige,info@bredaredsgk.se,46fc2f8e-4838-4398-9117-8c367fffa9c1,,
+Jönköpings Golfklubb,,JÖNKÖPING,55627.0,Sverige,info@jonkopingsgk.se,2c417219-2830-40ec-8a39-4ed980334b24,57.7825634,14.165719
+Djurgårdens IF Golfförening,,LIDINGÖ,18142.0,Sverige,info@difgolf.se,5e3b505d-a228-4819-bcb5-d7a90ec4f329,59.3669445,18.1820897
+Romeleåsens Golfklubb,,VEBERÖD,24796.0,Sverige,info@ragk.se,9b40d38a-2f89-4d49-bd49-fa3f87ae43e2,55.6334996,13.4925649
+Bredareds Golfklubb,,FRISTAD,51391.0,Sverige,info@bredaredsgk.se,46fc2f8e-4838-4398-9117-8c367fffa9c1,57.8238811,13.0100197
 Söderåsens Golfklubb,,BILLESHOLM,26771.0,Sverige,info@soderasensgk.se,1bca0a66-35a4-4b5c-a810-e3e739da99fc,56.0493373,12.9534573
 Falköpings Golfklubb,Västergötland,FALKÖPING,52196.0,Sverige,info@falkopingsgk.com,a6368135-82c6-4fcb-b656-15c210df04ba,58.2158479,13.6278588
 Högbo Golfklubb,,SANDVIKEN,81192.0,Sverige,info@hogbogk.com,4b1f5a4e-e5d6-4f9e-93d5-c71991bdb167,60.6671457,16.8159101
-Sisjö Golfklubb,,VÄSTRA FRÖLUNDA,42132.0,Sverige,sisjogk@telia.com,c076b0e4-30a8-4399-89e9-a0ae5466e251,,
+Sisjö Golfklubb,,VÄSTRA FRÖLUNDA,42132.0,Sverige,sisjogk@telia.com,c076b0e4-30a8-4399-89e9-a0ae5466e251,57.6569983,11.911899
 Kalix Golfklubb,,KALIX,95251.0,Sverige,info@kalixgolfklubb.se,328ad582-f21e-47e3-aad6-44bdedb37d9d,65.8368079,23.1522104
 Bryttsätter Golfklubb,,NORRKÖPING,60596.0,Sverige,info@spelagolf.nu,ff05606a-aca5-4f0d-82f8-53068081b522,58.4704893,16.118215
 Burviks Golfklubb,,KNUTBY,74198.0,Sverige,info@burvik.se,ed669f52-ea75-4d70-8d26-c634385fd5ab,59.90949,18.26566
 Nybro Golfklubb,,NYBRO,38292.0,Sverige,info@nybrogk.se,e3aa5342-952a-4674-948e-c9a88e4c0059,56.6956035,15.9889932
-Norderöns Golfklubb/Njord,Jämtlands län,FRÖSÖN,83293.0,Sverige,info@norderonsgk.se,d9a89e50-7e40-4ecd-a2b0-d59365f601b5,,
+Norderöns Golfklubb/Njord,Jämtlands län,FRÖSÖN,83293.0,Sverige,info@norderonsgk.se,d9a89e50-7e40-4ecd-a2b0-d59365f601b5,63.1930406,14.534365
 Holms Golfklubb,,HALMSTAD,30592.0,Sverige,info@holmsgk.se,60eef14c-9b70-490a-835d-250237aebf83,56.7562456,12.8734295
-Kiladalens Golfklubb,,NYKÖPING,61195.0,Sverige,info@kiladalensgolf.se,6085f1e9-6476-40c6-a218-3e23b7a35b41,,
-Söderhamns Golfklubb,,SÖDERHAMN,82691.0,Sverige,info@soderhamnsgk.com,06ab2f7a-d460-4655-a180-069a1ebf1989,,
-Tällbergsbyarnas Golfklubb,Dalarna,TÄLLBERG,79370.0,Sverige,kansli@tallberggk.com,a30b7ce1-2d17-4472-9147-efa442103efb,,
-Hulta-Bollebygd Golfklubb,,BOLLEBYGD,51792.0,Sverige,info@hultagk.se,c80c4ead-559b-45cf-804e-65d0cd30714f,,
-Kiruna Golfklubb,,KIRUNA,98102.0,Sverige,admin@kirunagolfklubb.com,50dd218e-cd66-4481-a230-c0570ec1126b,,
-Ljugarns Golfklubb,Gotland,LJUGARN,62321.0,Sverige,info@ljugarnsgk.se,c3f79828-941b-4096-bc2c-0eb7d926a65e,,
-Öijared Golfklubb,,FLODA,44892.0,Sverige,info@oijared.se,7e4df02e-21d1-40ed-a68a-5f8b8e4fe8f9,,
-Askersunds Golfklubb,,ÅMMEBERG,69675.0,Sverige,info@askersundsgolfklubb.se,8e28b72c-2450-447d-a315-94a7482c3843,,
+Kiladalens Golfklubb,,NYKÖPING,61195.0,Sverige,info@kiladalensgolf.se,6085f1e9-6476-40c6-a218-3e23b7a35b41,58.7545409,17.0120656
+Söderhamns Golfklubb,,SÖDERHAMN,82691.0,Sverige,info@soderhamnsgk.com,06ab2f7a-d460-4655-a180-069a1ebf1989,61.2998501,17.0607599
+Tällbergsbyarnas Golfklubb,Dalarna,TÄLLBERG,79370.0,Sverige,kansli@tallberggk.com,a30b7ce1-2d17-4472-9147-efa442103efb,60.8256353,14.9945806
+Hulta-Bollebygd Golfklubb,,BOLLEBYGD,51792.0,Sverige,info@hultagk.se,c80c4ead-559b-45cf-804e-65d0cd30714f,57.75,12.6
+Kiruna Golfklubb,,KIRUNA,98102.0,Sverige,admin@kirunagolfklubb.com,50dd218e-cd66-4481-a230-c0570ec1126b,67.8496111,20.30625
+Ljugarns Golfklubb,Gotland,LJUGARN,62321.0,Sverige,info@ljugarnsgk.se,c3f79828-941b-4096-bc2c-0eb7d926a65e,57.3337749,18.7068773
+Öijared Golfklubb,,FLODA,44892.0,Sverige,info@oijared.se,7e4df02e-21d1-40ed-a68a-5f8b8e4fe8f9,57.8101225,12.3616284
+Askersunds Golfklubb,,ÅMMEBERG,69675.0,Sverige,info@askersundsgolfklubb.se,8e28b72c-2450-447d-a315-94a7482c3843,58.8656103,14.9991924
 Trummenäs Golfklubb,,RAMDALA,37302.0,Sverige,kansli@trummenasgk.se,7da92a3b-12a8-48a4-a77e-0fef588e0089,56.1603481,15.7400103
-Norrby Golf,,MARIEFRED,64791.0,Sverige,info@norrbygolf.se,fec447fb-868b-4a0f-970e-07eddc33f59e,,
-Harabäckens Golfklubb,Halland,VARBERG,43291.0,Sverige,info@harabacken.se,d2adb733-0f64-4d40-b099-55c0b7c6e2f9,,
+Norrby Golf,,MARIEFRED,64791.0,Sverige,info@norrbygolf.se,fec447fb-868b-4a0f-970e-07eddc33f59e,59.2599454,17.2229487
+Harabäckens Golfklubb,Halland,VARBERG,43291.0,Sverige,info@harabacken.se,d2adb733-0f64-4d40-b099-55c0b7c6e2f9,57.1057412,12.2502949
 Boa Golfklubb Olofström,Blekinge,OLOFSTRÖM,29393.0,Sverige,boagk@oktv.se,48d7601c-f7e4-48fc-9393-ca7e058518f6,56.2096443,14.6005585
 Ängsö Golfklubb,,VÄSTERÅS,72598.0,Sverige,kansli@angsogolf.org,0c7679bf-6f90-461f-bf68-ade67ffbf5f2,59.5712087,16.8680962
 Ljungbyheds Golfklubb,,LJUNGBYHED,26451.0,Sverige,klubben@ljungbyhedsgk.se,4b5818b3-653b-4422-b873-fa273e490cb4,56.0744027,13.2153006
-Varbergs Golfklubb,,TVÅÅKER,43277.0,Sverige,info@varbergsgk.se,dc88a980-c1eb-4bdc-a18f-10b881685632,,
+Varbergs Golfklubb,,TVÅÅKER,43277.0,Sverige,info@varbergsgk.se,dc88a980-c1eb-4bdc-a18f-10b881685632,57.0413621,12.3991052
 Gräppås Golfklubb,,ONSALA,43991.0,Sverige,info@grappasgk.se,81d47632-d383-497b-b174-e5cb86efd596,57.4386474,11.9817133
 Lysegårdens Golfklubb,,ROMELANDA,44292.0,Sverige,info@lysegardensgk.se,0dd53078-ae3a-46bd-9305-103a6716a78c,57.9418445,12.0287303
 Grönlund Golfklubb,,ALMUGNE,74010.0,Sverige,info@gronlundgk.se,dd329b2d-5bef-43c5-90b0-6c5d84679839,,
 Allerum Golfklubb,,ALLERUM,25476.0,Sverige,info@allerumgk.nu,bd789494-c6a8-4e94-acdb-91c7b059e4cc,56.126345,12.7100668
-Visingsö Links Golfklubb,,VISINGSÖ,56034.0,Sverige,kansli@visingsogk.se,bef30503-cd92-472d-8b22-af22e1223302,,
+Visingsö Links Golfklubb,,VISINGSÖ,56034.0,Sverige,kansli@visingsogk.se,bef30503-cd92-472d-8b22-af22e1223302,58.0528247,14.3444742
 Umeå Golfklubb,,HOLMSUND,91335.0,Sverige,info@umgk.se,260ad616-178f-4ddd-8bf0-a42f0d1026ab,63.7146416,20.412356
-Tönnersjö Golfklubb,,ELDSBERGA,30597.0,Sverige,info@tonnersjogolf.se,db82ead4-cd3e-4a36-9a07-9ad1c44cc238,,
+Tönnersjö Golfklubb,,ELDSBERGA,30597.0,Sverige,info@tonnersjogolf.se,db82ead4-cd3e-4a36-9a07-9ad1c44cc238,56.5989253,12.9818682
 Ljusdals Golfklubb,,LJUSDAL,82735.0,Sverige,kansli@golfiljusdal.nu,3bc7b759-b417-4c0e-8ef2-c1400e5d5d96,61.8147247,16.1216676
 Forsbacka Golfklubb,,ÅMÅL,66291.0,Sverige,info@forsbackagk.se,69a1f26f-b9a0-4703-bb52-4da7d5d1e63a,59.0880847,12.6183538
 Degerfors Golf ,,DEGERFORS,69335.0,Sverige,info@degerforsgolf.se,46637ca5-a486-4ed1-b2fe-fc98d5690f84,59.25559,14.4469509
 Emmaboda Golfklubb,,VISSEFJÄRDA,36060.0,Sverige,info@emmabodagk.se,a62a8f8e-9bbf-43b3-970f-771cf0b478cf,56.5276743,15.5923008
-Sjögärde Golfklubb,,FRILLESÅS,43963.0,Sverige,info@sjogarde.se,1727825e-405b-48fa-8d85-a24b7f5d8e6b,,
-Byxelkroks Golfklubb,,BYXELKROK,38775.0,Sverige,kansli@byxelkroksgk.se,12adcc9b-e363-43d6-8c75-0104e39b5174,,
+Sjögärde Golfklubb,,FRILLESÅS,43963.0,Sverige,info@sjogarde.se,1727825e-405b-48fa-8d85-a24b7f5d8e6b,57.3172804,12.1767467
+Byxelkroks Golfklubb,,BYXELKROK,38775.0,Sverige,kansli@byxelkroksgk.se,12adcc9b-e363-43d6-8c75-0104e39b5174,57.3266918,17.0152662
 Finspångs Golfklubb,Östergötland,FINSPÅNG,61292.0,Sverige,info@finspangsgk.se,3dde4d99-cf60-42e5-b78b-830f09ec02f5,58.6940381,15.8303679
 Täby Golfklubb,,TÄBY,18770.0,Sverige,reception@tabygk.se,7b0590cb-ecee-41a1-8af7-cc0cb3417558,59.5008786,18.0130203
-World of Golf City Club,,VÄSTRA FRÖLUNDA,42147.0,Sverige,info@worldofgolf.se,357d3046-a3bf-41cb-a43b-b64d9788bd41,,
+World of Golf City Club,,VÄSTRA FRÖLUNDA,42147.0,Sverige,info@worldofgolf.se,357d3046-a3bf-41cb-a43b-b64d9788bd41,57.6569983,11.911899
 Köpings Golfklubb,,KÖPING,73126.0,Sverige,info@kopingsgk.nu,cc589abb-d57f-4296-ba40-6fa1c72aa35c,59.5518322,15.9523239
 Mjölby Golfklubb,,MJÖLBY,59592.0,Sverige,kansli@mjolbygk.se,b94f4834-222f-4c62-847e-91cd95b45862,58.3080918,15.0986436
-Tomelilla Golfklubb,,TOMELILLA,27394.0,Sverige,info@tomelillagolf.se,f30d5bc0-d92a-4859-9d92-b370662d6386,,
-Falkenbergs Golfklubb,,FALKENBERG,31172.0,Sverige,info@falkenbergsgk.se,83f323aa-313a-4fc3-829e-068ae1737045,,
-Motala Golfklubb,,MOTALA,59192.0,Sverige,kansli@motalagk.se,458b588d-9cd5-4a9e-a3c9-6446e46c88ec,,
+Tomelilla Golfklubb,,TOMELILLA,27394.0,Sverige,info@tomelillagolf.se,f30d5bc0-d92a-4859-9d92-b370662d6386,55.5447478,13.9329289
+Falkenbergs Golfklubb,,FALKENBERG,31172.0,Sverige,info@falkenbergsgk.se,83f323aa-313a-4fc3-829e-068ae1737045,56.904894,12.4912926
+Motala Golfklubb,,MOTALA,59192.0,Sverige,kansli@motalagk.se,458b588d-9cd5-4a9e-a3c9-6446e46c88ec,58.5420395,15.041261
 Roslagens Golfklubb Norrtälje,,NORRTÄLJE,76175.0,Sverige,info@roslagensgk.com,4191700c-72ef-4705-8431-6f6f07323354,59.8025887,18.7816951
-Åre Golfklubb,,DUVED,83772.0,Sverige,info@aregolfklubb.com,bf12434c-0cc2-4f53-80f0-bec57bb7547d,,
+Åre Golfklubb,,DUVED,83772.0,Sverige,info@aregolfklubb.com,bf12434c-0cc2-4f53-80f0-bec57bb7547d,63.3941812,12.9198927
 Surahammars Golfklubb,Västmanland,SURAHAMMAR,73534.0,Sverige,info@surahammarsgk.se,b7ab1b47-956a-4980-bc87-4988dbc7a71d,59.7259313,16.2249489
 Vallda Golf & Country Club,,VALLDA,43490.0,Sverige,kansli@valldagolf.se,88ad8025-f90c-4b29-9350-78ddb1fafc7d,57.4741499,12.0117683
-Haninge Golfklubb,Stockholm,ÖSTERHANINGE,13795.0,Sverige,info@haningegk.se,d8e5e6cc-cfc4-403a-b3ea-d362900f6150,,
+Haninge Golfklubb,Stockholm,ÖSTERHANINGE,13795.0,Sverige,info@haningegk.se,d8e5e6cc-cfc4-403a-b3ea-d362900f6150,59.1274727,18.1666192
 Nässjö Golfklubb,,NÄSSJÖ,57195.0,Sverige,info@nassjogk.se,9c9148eb-9545-4c0c-b91c-5e2506aa828f,57.6740743,14.669323
 Vetlanda Golfklubb,,VETLANDA,57442.0,Sverige,info@vetlandagk.com,33ec72ae-9b70-4cd1-9aa4-d6b999dad342,57.4102537,15.0465249
-Cloud Golf Club,,SOLNA,17148.0,Sverige,hello@cloudgolf.se,7b6d5693-5bb0-4e5f-969d-51178c7c77ac,,
+Cloud Golf Club,,SOLNA,17148.0,Sverige,hello@cloudgolf.se,7b6d5693-5bb0-4e5f-969d-51178c7c77ac,59.366667,18.016667
 Hedemora Golfklubb,Dalarna,HEDEMORA,77696.0,Sverige,info@hedemoragk.se,3aa5ffed-e614-441c-aeb9-aa820bc83146,60.2438585,15.9169515
 Borås Golfklubb,Västergötland,BORÅS,50495.0,Sverige,info@borasgolfklubb.se,8f88a01a-c01b-4049-843d-8419d6dd1e56,57.670936,12.9351678
-GolfUppsala,,UPPSALA,75591.0,Sverige,info@golfuppsala.se,d1587e05-9d9a-4a4a-a25d-d728dedab804,,
+GolfUppsala,,UPPSALA,75591.0,Sverige,info@golfuppsala.se,d1587e05-9d9a-4a4a-a25d-d728dedab804,59.8586126,17.6387436
 Sölvesborgs Golfklubb,,SÖLVESBORG,29425.0,Sverige,info@solvesborgsgk.se,f2f231c5-6fb2-426f-a65e-fb669f11649f,56.0423742,14.6047015
-Strömsunds Golfklubb,,STRÖMSUND,83323.0,Sverige,stromsundsgk@gmail.com,47478d7e-656f-4afd-9e9e-cc4843447d33,,
+Strömsunds Golfklubb,,STRÖMSUND,83323.0,Sverige,stromsundsgk@gmail.com,47478d7e-656f-4afd-9e9e-cc4843447d33,64.25,15.366667
 Landeryds Golfklubb,,LINKÖPING,58593.0,Sverige,kansli@landeryd.se,e137a989-b9d6-40ec-8216-7f94857d9dc9,58.360262,15.7083768
 Strandtorps Golfklubb,,HALMSTAD,30260.0,Sverige,kansli@strandtorpgolf.se,be5b1fc0-17a2-4510-83e4-e8783a1cf9d0,56.6423712,12.9002154
-Skepptuna Golfklubb Valla,Uppland,MÄRSTA,19593.0,Sverige,skepptuna.golfklubb@gmail.com,8f4d248f-8fff-4bfd-b316-d1407145be19,,
-Rossöns Golfklubb,,ROSSÖN,88051.0,Sverige,rossonsgk@gmail.com,47946bca-318f-496a-a2eb-2e9ce8706145,,
-Västerviks Golf,,VÄSTERVIK,59338.0,Sverige,kansli@vasterviksgolf.se,8f6d902b-6650-4411-8397-956f73f7adf4,,
-Östad Golf Väderstad,östergötland,VÄDERSTAD,59021.0,Sverige,info@ostadgolf.se,a86fd645-c9ec-401c-9553-b34c59636362,,
+Skepptuna Golfklubb Valla,Uppland,MÄRSTA,19593.0,Sverige,skepptuna.golfklubb@gmail.com,8f4d248f-8fff-4bfd-b316-d1407145be19,59.6252383,17.8515672
+Rossöns Golfklubb,,ROSSÖN,88051.0,Sverige,rossonsgk@gmail.com,47946bca-318f-496a-a2eb-2e9ce8706145,63.9228433,16.3387298
+Västerviks Golf,,VÄSTERVIK,59338.0,Sverige,kansli@vasterviksgolf.se,8f6d902b-6650-4411-8397-956f73f7adf4,57.7594186,16.6385035
+Östad Golf Väderstad,östergötland,VÄDERSTAD,59021.0,Sverige,info@ostadgolf.se,a86fd645-c9ec-401c-9553-b34c59636362,58.3114358,14.9236438
 Waldemarsviks Golfbana,,GRYT,61042.0,Sverige,info@waldemarsviksgolf.se,2c7eec25-7f89-443a-b621-cbfafebc377b,58.1847127,16.7567953
 Nora Golfklubb,,NORA,71391.0,Sverige,info@noragolfklubb.com,87cdfa51-3c55-4c5f-aba4-4c11c61a5a05,59.4978886,15.0842599
-Leråkra Golfklubb,Blekinge,RONNEBY,37297.0,Sverige,info@lerakragolf.se,0acf3515-9722-4ad2-aab6-f17ebc3d0576,,
+Leråkra Golfklubb,Blekinge,RONNEBY,37297.0,Sverige,info@lerakragolf.se,0acf3515-9722-4ad2-aab6-f17ebc3d0576,56.2100417,15.2760355
 Gränna Golfklubb,Småland,GRÄNNA,56392.0,Sverige,kansli@grannagk.se,1a8f389f-3bd7-49d0-83ce-4cf1bf04c7a1,57.9847099,14.4177588
-Oxie Golfklubb,Skåne,MALMÖ,23838.0,Sverige,info@oxiegk.se,1583b2ec-99a2-4f1e-b08a-814403b8e829,,
-HG Golf Glumslöv,,GLUMSLÖV,26163.0,Sverige,info@hggolf.se,513fd0f4-7681-431c-bd07-89c05b405970,,
+Oxie Golfklubb,Skåne,MALMÖ,23838.0,Sverige,info@oxiegk.se,1583b2ec-99a2-4f1e-b08a-814403b8e829,55.6052931,13.0001566
+HG Golf Glumslöv,,GLUMSLÖV,26163.0,Sverige,info@hggolf.se,513fd0f4-7681-431c-bd07-89c05b405970,55.9416984,12.8104863
 Saxå Golfklubb,Värmland,FILIPSTAD,68292.0,Sverige,saxagk@telia.com,1926482e-bb91-4b97-9ac8-2b68428778f8,59.7964579,14.3578275
 Sundsta Golf Norrtälje,,NORRTÄLJE,76191.0,Sverige,golf@sundsta.se,2354eb0a-6630-4437-affc-0766ed739c20,59.7543064,18.5766014
-Solbacka Golfklubb,,STJÄRNHOV,64696.0,Sverige,info@solbackagk.se,60ef4531-4f3b-4535-88fd-05dbaa969488,,
-Hinton Golf Club,Skåne,OXIE,23841.0,Sverige,info@hintongolf.se,b749835e-8686-4147-8985-453fe7eb5b52,,
-Fjällbacka Golfklubb,,FJÄLLBACKA,45741.0,Sverige,info@fjallbackagk.se,8b1deda2-7189-48bf-b995-514eb7285b80,,
-Alvesta Golfklubb,,MOHEDA,34263.0,Sverige,kansli@alvestagolf.se,e1f9db85-5d04-4a0d-8a64-02a13ef9fb11,,
+Solbacka Golfklubb,,STJÄRNHOV,64696.0,Sverige,info@solbackagk.se,60ef4531-4f3b-4535-88fd-05dbaa969488,59.080099,17.0136626
+Hinton Golf Club,Skåne,OXIE,23841.0,Sverige,info@hintongolf.se,b749835e-8686-4147-8985-453fe7eb5b52,55.5461572,13.0967868
+Fjällbacka Golfklubb,,FJÄLLBACKA,45741.0,Sverige,info@fjallbackagk.se,8b1deda2-7189-48bf-b995-514eb7285b80,58.5987546,11.2827802
+Alvesta Golfklubb,,MOHEDA,34263.0,Sverige,kansli@alvestagolf.se,e1f9db85-5d04-4a0d-8a64-02a13ef9fb11,57.0043559,14.572811
 Kristinehamns Golfklubb,,KRISTINEHAMN,68194.0,Sverige,kansli@kristinehamnsgk.se,5518cc78-7292-434b-abde-400cf86385c2,59.337721,14.1354408
-Öresunds Golf ,,HÄLJARP,26172.0,Sverige,info@oresundsgk.se,8ea1a174-2904-44a0-ae8a-e21b0bf18635,,
+Öresunds Golf ,,HÄLJARP,26172.0,Sverige,info@oresundsgk.se,8ea1a174-2904-44a0-ae8a-e21b0bf18635,55.8515457,12.9152096
 Gävle Golfklubb,,GÄVLE,80647.0,Sverige,kansli@gavlegolf.com,04d77d11-f066-4620-a8eb-8820ba99a6e7,60.6953147,17.1751772
 Koberg Golfklubb,,TROLLHÄTTAN,46194.0,Sverige,kansliet@koberggk.se,9708fc1f-70a9-42f0-b716-d89b4c58eceb,58.1648845,12.3922419
 Lunds Akademiska Golfklubb,Skåne,LUND,22592.0,Sverige,info@lagk.se,aca45bed-d39e-4c38-a3dd-342ec046e112,55.7165296,13.2695155
-Ingelsta Golfklubb,Östergötland,NORRKÖPING,60238.0,Sverige,info@ingelstagk.se,6c79d731-c158-460d-866b-8c6e220275b5,,
-Kävlinge Golfklubb,,KÄVLINGE,24491.0,Sverige,info@kavlingegk.se,7cd535ce-3d1f-4048-8391-f2b182808860,,
-Bokskogens Golfklubb,Skåne,BARA,23364.0,Sverige,info@bokskogen.com,dc3ca23b-42ed-4b23-bb4b-45e8ff7f3cdb,,
+Ingelsta Golfklubb,Östergötland,NORRKÖPING,60238.0,Sverige,info@ingelstagk.se,6c79d731-c158-460d-866b-8c6e220275b5,58.5909124,16.1903511
+Kävlinge Golfklubb,,KÄVLINGE,24491.0,Sverige,info@kavlingegk.se,7cd535ce-3d1f-4048-8391-f2b182808860,55.7795769,13.0337618
+Bokskogens Golfklubb,Skåne,BARA,23364.0,Sverige,info@bokskogen.com,dc3ca23b-42ed-4b23-bb4b-45e8ff7f3cdb,55.5821668,13.1806037
 Marks Golfklubb,,KINNA,51158.0,Sverige,info@marksgk.se,c665c705-ddd7-492e-9e31-d8fe987c4ca3,57.5056665,12.709137
 Abbekås Golfklubb,Skåne,ABBEKÅS,27456.0,Sverige,info@abbekasgk.se,347ad22e-b7d7-4ff0-a90f-9fdc6e5fb749,55.4101886,13.6033802
 Götaströms Golfklubb,,SKILLINGARYD,56832.0,Sverige,info@gotastromsgk.se,cb4b1c70-7dcd-489a-bbe6-e4b45ed856a8,57.4591898,14.1028491
 Bjäre Golfklubb,Skåne,BÅSTAD,26993.0,Sverige,info@bjaregolfklubb.se,9fa3a427-19f1-4028-a08d-3b33ab533fe4,56.4054242,12.7875043
 Fagersta Golfklubb,,FAGERSTA,73792.0,Sverige,info@fagerstagk.se,de52c114-bfa3-480d-9a3c-3169bb7a760e,59.9721794,15.7469362
-Chalmers Golfklubb,,LANDVETTER,43891.0,Sverige,info@chgk.se,51e73b28-7113-4a30-bc55-44710fd6f4a2,,
+Chalmers Golfklubb,,LANDVETTER,43891.0,Sverige,info@chgk.se,51e73b28-7113-4a30-bc55-44710fd6f4a2,57.6886943,12.219017
 Billingens Golfklubb,,LERDALA,54017.0,Sverige,info@billingensgk.se,6266411b-4b1d-4460-9b89-e0d4c9b1a49f,58.4670263,13.6865594
-Vingåkers Golfklubb,,VINGÅKER,64393.0,Sverige,kansli@vingakersgolf.se,5f7293c4-79e6-4884-8736-dcbe8c7ea604,,
-Sommarro Golf,,KARLSTAD,65230.0,Sverige,reception@karlstadcitygolf.se,f961e804-870f-48f1-984c-6539e816829e,,
-GolfStar Golf Club,Stockholm,SOLNA,17148.0,Sverige,info@golfstar.se,4170573d-7422-47e7-b93d-4e2b6dda7b10,,
-Mauritzbergs Slott & Golf,,VIKBOLANDET,61031.0,Sverige,golf@mauritzberg.se,76585136-32de-4f9c-a2c1-d8966f011134,,
+Vingåkers Golfklubb,,VINGÅKER,64393.0,Sverige,kansli@vingakersgolf.se,5f7293c4-79e6-4884-8736-dcbe8c7ea604,59.066667,15.883333
+Sommarro Golf,,KARLSTAD,65230.0,Sverige,reception@karlstadcitygolf.se,f961e804-870f-48f1-984c-6539e816829e,59.3809146,13.5027631
+GolfStar Golf Club,Stockholm,SOLNA,17148.0,Sverige,info@golfstar.se,4170573d-7422-47e7-b93d-4e2b6dda7b10,59.366667,18.016667
+Mauritzbergs Slott & Golf,,VIKBOLANDET,61031.0,Sverige,golf@mauritzberg.se,76585136-32de-4f9c-a2c1-d8966f011134,60.1539018,16.8172768
 Linköpings Golfklubb,,LINKÖPING,58330.0,Sverige,reception@linkopingsgk.se,bd0bba30-f351-47fa-82ea-f26f4ace6c13,58.3996868,15.5664817
-Friiberghs Golfklubb,,ÖRSUNDSBRO,74962.0,Sverige,bokning@friiberghsgk.se,8f72a8ea-c4e5-4fc1-9fc0-070080bad642,,
-Åsundsholms Golfklubb,Västergötland,VEGBY,52011.0,Sverige,info@asundsholm.se,103758c4-dea2-4b66-bdf6-1c8322f3b9da,,
+Friiberghs Golfklubb,,ÖRSUNDSBRO,74962.0,Sverige,bokning@friiberghsgk.se,8f72a8ea-c4e5-4fc1-9fc0-070080bad642,59.7319788,17.302278
+Åsundsholms Golfklubb,Västergötland,VEGBY,52011.0,Sverige,info@asundsholm.se,103758c4-dea2-4b66-bdf6-1c8322f3b9da,57.6788601,13.3742261
 Ulricehamns Golfklubb,Västergötland,ULRICEHAMN,52333.0,Sverige,info@ulricehamnsgk.se,f092be36-5137-4eff-8bc1-a308cc77a51f,57.7925155,13.4476631
 Lundsbrunn Golfklubb,Västra Götaland,LUNDSBRUNN,53372.0,Sverige,kansliet@lundsbrunngk.com,08b85d6a-8bc2-454b-be9e-5df1007a6525,58.4769605,13.4356717
 Läckö Golfklubb,,LIDKÖPING,53199.0,Sverige,info@lackogk.se,b93da802-770f-4a2e-ba9a-004bc057c3dc,58.6536577,13.1114798
 Hooks Golfklubb,,HOK,56013.0,Sverige,kansli@hooksgk.se,bcb4248f-5543-4c21-b242-2aed69ad9294,57.5404219,14.2760494
 Fullerö Golfklubb,,VÄSTERÅS,72591.0,Sverige,kontakta-oss@fullerogk.se,ba07e392-be9c-4fae-af4f-f7a4380ef934,59.5649437,16.5057974
-HaningeStrand Golfklubb,,ÖSTERHANINGE,13795.0,Sverige,info@haningestrand.se,19263661-a98b-4f8f-b8d5-d51c3b4d4d8b,,
+HaningeStrand Golfklubb,,ÖSTERHANINGE,13795.0,Sverige,info@haningestrand.se,19263661-a98b-4f8f-b8d5-d51c3b4d4d8b,59.1274727,18.1666192
 Kils Golfklubb,,KIL,66591.0,Sverige,kansli@kilsgk.se,2369742f-c78d-4812-913e-4790aa3d5ff0,59.5521828,13.35144
 Nyköpings Golfklubb,,NYKÖPING,61192.0,Sverige,kansli@nykopingsgk.se,f29160f9-6a4c-43a6-92eb-2704b22f38b3,58.7258674,16.9727669
 Bedinge Golfklubb,Skåne,BEDDINGESTRAND,23176.0,Sverige,info@bedingegk.se,65e8be4e-eb7c-448d-9c4b-f18841cb946d,55.3656018,13.4295223
 Ale Golfklubb,,ALVHEM,44691.0,Sverige,info@alegk.se,76f18371-e53e-4843-afae-35a74ff0906a,58.0082527,12.1804695
-Gullbringa Golf & Country Club,,HÅLTA,44295.0,Sverige,kansli@gullbringagolf.se,3e522386-ba69-4af8-8cb6-347c3cb3ffca,,
-Happy Golfers,,STOCKHOLM,11546.0,Sverige,support@happygolfer.se,603fcf67-d3af-4b0b-a325-6dc4ad4aece2,,
-Vellinge Golfklubb,Skåne,VELLINGE,23594.0,Sverige,info@vellingegk.se,f179bca8-5148-45c5-81bd-9e73aa7f8875,,
+Gullbringa Golf & Country Club,,HÅLTA,44295.0,Sverige,kansli@gullbringagolf.se,3e522386-ba69-4af8-8cb6-347c3cb3ffca,57.8959643,11.8248295
+Happy Golfers,,STOCKHOLM,11546.0,Sverige,support@happygolfer.se,603fcf67-d3af-4b0b-a325-6dc4ad4aece2,59.3251172,18.0710935
+Vellinge Golfklubb,Skåne,VELLINGE,23594.0,Sverige,info@vellingegk.se,f179bca8-5148-45c5-81bd-9e73aa7f8875,55.466667,13.033333
 Elisefarm Golf Club,,HÖÖR,24396.0,Sverige,info@elisefarm.se,55cc5523-7595-40c2-bda7-f3a9126065dd,55.8274232,13.5590448
 Mölle Golfklubb,,MÖLLE,26377.0,Sverige,info@mollegk.se,b2c32401-8a6d-4a88-b190-48d63dbf0157,56.2966962,12.4712982
-Skepparslövs Golfklubb,Skåne,KRISTIANSTAD,29192.0,Sverige,kansli@skepparslovsgk.se,53e819ab-c8b2-4bac-9c2e-c5bce188409c,,
-Örbyhus Golfklubb,Uppland,ÖRBYHUS,74895.0,Sverige,info@orbyhusgolf.se,cdf73d4b-b676-4405-beb7-bb34c88cb2b6,,
+Skepparslövs Golfklubb,Skåne,KRISTIANSTAD,29192.0,Sverige,kansli@skepparslovsgk.se,53e819ab-c8b2-4bac-9c2e-c5bce188409c,56.0293778,14.1566859
+Örbyhus Golfklubb,Uppland,ÖRBYHUS,74895.0,Sverige,info@orbyhusgolf.se,cdf73d4b-b676-4405-beb7-bb34c88cb2b6,60.2269328,17.7056289
 Skaftö Golfklubb,,FISKEBÄCKSKIL,45178.0,Sverige,kansliet@skaftogk.se,cd045eb7-3c07-49c2-b2d8-50148254a705,58.2414469,11.4435109
-Kungälv-Kode Golfklubb,,KODE,44297.0,Sverige,info@kkgk.se,863b3c77-1f07-4025-8860-6fb1c8e7bc28,,
+Kungälv-Kode Golfklubb,,KODE,44297.0,Sverige,info@kkgk.se,863b3c77-1f07-4025-8860-6fb1c8e7bc28,57.943903,11.8508131
 Jönåkers Golfklubb,,JÖNÅKER,61196.0,Sverige,info@jonakersgk.se,42f91b0a-6fa7-460a-9d32-26efcfe38dde,58.7518191,16.715426
-Fors Golf,,VÄSTERHANINGE,13791.0,Sverige,info@forsgolf.se,4c11a26a-a8cc-41bd-bdf6-2a7c2eaaff44,,
-Söderslätts Golfklubb,Skåne,VELLINGE,23594.0,Sverige,info@sslgk.se,2bd521e1-cc60-40d9-ae22-1d7b5eae5f23,,
+Fors Golf,,VÄSTERHANINGE,13791.0,Sverige,info@forsgolf.se,4c11a26a-a8cc-41bd-bdf6-2a7c2eaaff44,59.1221593,18.1085969
+Söderslätts Golfklubb,Skåne,VELLINGE,23594.0,Sverige,info@sslgk.se,2bd521e1-cc60-40d9-ae22-1d7b5eae5f23,55.466667,13.033333
 Västerås Golfklubb,Västmanland,VÄSTERÅS,72480.0,Sverige,info@vasterasgk.se,377adfdb-8d74-41a6-b9d6-92e64b2e6d66,59.6278344,16.5085088
 Eksjö Golfklubb,,EKSJÖ,57596.0,Sverige,kansli@eksjogk.se,218992e6-5ee5-4969-9afc-d9b3a95be316,57.6409931,14.9052751
 Åda Golf & Country Club,,TROSA,61991.0,Sverige,info@adagolf.se,d57f91f9-bf70-465d-934f-50e7b2621846,58.9314941,17.5459921
-Rydö Golfklubb,,RYDÖBRUK,31442.0,Sverige,info@rydogolf.se,2524c606-27df-4066-9ded-bca329faf149,,
-Hälla Golfklubb,Västmanlands län,VÄSTERÅS,72134.0,Sverige,info@hallagk.se,bee3743c-cebe-4bb0-9272-bca9d4c47c11,,
+Rydö Golfklubb,,RYDÖBRUK,31442.0,Sverige,info@rydogolf.se,2524c606-27df-4066-9ded-bca329faf149,56.9619763,13.1377669
+Hälla Golfklubb,Västmanlands län,VÄSTERÅS,72134.0,Sverige,info@hallagk.se,bee3743c-cebe-4bb0-9272-bca9d4c47c11,59.6110992,16.5463679
 Wattholma Golfklubb,,VATTHOLMA,74392.0,Sverige,info@wattholmagk.se,1fe679f2-e707-4275-9000-d95e8c851c70,60.0312099,17.7395744
 Nynäshamns Golfklubb,,ÖSMO,18491.0,Sverige,info@nynashamnsgk.se,4addfe0f-9dd5-43d2-858f-7945d0f156ad,59.0026629,17.8860239
 Vårgårda Golfklubb,Västra Götaland,VÅRGÅRDA,44792.0,Sverige,info@vargardagolf.se,fc92ee32-56d3-40f0-99ae-e2dac02a87a1,58.0303055,12.8580202
-Värnamo Golfklubb,Småland,VÄRNAMO,33196.0,Sverige,info@varnamogk.se,4a1a005e-e108-4021-89b0-f13d8cdb52da,,
+Värnamo Golfklubb,Småland,VÄRNAMO,33196.0,Sverige,info@varnamogk.se,4a1a005e-e108-4021-89b0-f13d8cdb52da,57.184902,14.0410977
 Ulriksdals Golfklubb,,SOLNA,17068.0,Sverige,ulriksdal@arlandastadgolf.se,ee098427-f975-4982-ae6f-8893efa42cac,59.3871849,17.9994021
-Sälenfjällens Golfklubb,Dalarna,SÄLEN,78067.0,Sverige,info@salenfjallensgk.se,ea731b4b-3b2b-4097-a2b1-fcd4db1b66b4,,
+Sälenfjällens Golfklubb,Dalarna,SÄLEN,78067.0,Sverige,info@salenfjallensgk.se,ea731b4b-3b2b-4097-a2b1-fcd4db1b66b4,61.1557237,13.2694088
 Möre Golfklubb,SMÅLAND,SÖDERÅKRA,38503.0,Sverige,info@moregk.se,e4735cc3-c740-465d-920d-e42616ad9a33,56.4495647,16.0904972
-Isaberg Golfklubb,Småland,HESTRA,33027.0,Sverige,info@isaberggolf.se,833ab1b5-72b4-46ea-acba-edd73956ec4c,,
+Isaberg Golfklubb,Småland,HESTRA,33027.0,Sverige,info@isaberggolf.se,833ab1b5-72b4-46ea-acba-edd73956ec4c,57.9567356,15.0740683
 Tortuna Golfklubb,,VÄSTERÅS,72596.0,Sverige,kansli@tortunagk.com,6166630f-4132-4ff0-8099-8de1772bcd57,59.6671674,16.7295635
-Lyckorna Golfklubb,,LJUNGSKILE,45991.0,Sverige,info@lyckornagk.se,913b9ec4-f183-4b71-b723-87602eb0fb28,,
+Lyckorna Golfklubb,,LJUNGSKILE,45991.0,Sverige,info@lyckornagk.se,913b9ec4-f183-4b71-b723-87602eb0fb28,58.2246504,11.9198287
 Arboga Golfklubb,,ARBOGA,73291.0,Sverige,info@arbogagk.se,13aa75a3-7f9a-4f3c-b092-432c6a6e993c,59.369139,15.7621729
 Tyresö Golf,Stockholm,TYRESÖ,13549.0,Sverige,kansli@tyresogolf.com,ce1fe6f1-3a5a-4666-89e5-f6cfa9272061,59.2509583,18.2324538
 Carlskrona Golfklubb,Blekinge,NÄTTRABY,37024.0,Sverige,info@carlskronagk.com,5c98571a-417c-45e5-b852-242cf8a574b4,56.1592024,15.4501089
 Hammarö Golfklubb,Värmland,HAMMARÖ,66391.0,Sverige,info@hammarogk.se,642bdb54-54eb-473e-8997-c43e78f73982,59.3026707,13.5426112
 Salems Golfklubb,,SÖDERTÄLJE,15295.0,Sverige,kansli@salemsgk.se,86cdb4bc-eca1-40da-932c-21ebb7427cef,59.2593866,17.6098008
-Villa Baro Golf Åtvidaberg ,,ÅTVIDABERG,59731.0,Sverige,golf@villabaro.se,e1fec8e2-a906-481e-88bc-f1d71ceb5720,,
+Villa Baro Golf Åtvidaberg ,,ÅTVIDABERG,59731.0,Sverige,golf@villabaro.se,e1fec8e2-a906-481e-88bc-f1d71ceb5720,58.166667,16.0
 Sjöbo Golfklubb,Skåne,SJÖBO,27594.0,Sverige,info@sjobogk.com,09d5fc8d-b80c-4dd4-928b-47fdd7ac2875,55.6458784,13.6505695
-Brastad Golfklubb,Västra Götalands län,BRASTAD,45491.0,Sverige,info@brastadgk.se,68517dfb-9895-47fe-a1df-423bfd8d13de,,
+Brastad Golfklubb,Västra Götalands län,BRASTAD,45491.0,Sverige,info@brastadgk.se,68517dfb-9895-47fe-a1df-423bfd8d13de,58.3820066,11.4851818
 Töreboda Golfklubb,,TÖREBODA,54591.0,Sverige,info@torebodagk.se,02d5f4c6-442e-44c7-bcb7-3e51dca49d7b,58.7043198,14.2372135
 Åkagårdens Golfklubb,,BÅSTAD,26992.0,Sverige,info@akgk.se,66692156-0c52-4f16-aef2-553c622f5a8b,56.3646887,12.7916462
-Böda Sands Golfklubb,NÖ Öland,LÖTTORP,38373.0,Sverige,info@bodasandgk.se,ffe053e8-c05a-4c02-913e-6e2e73f4472a,,
+Böda Sands Golfklubb,NÖ Öland,LÖTTORP,38373.0,Sverige,info@bodasandgk.se,ffe053e8-c05a-4c02-913e-6e2e73f4472a,57.1661167,16.9964945
 Perstorps Golfklubb,SKÅNE,PERSTORP,28491.0,Sverige,kansli@perstorpsgk.se,ff3899f4-ac80-4b59-bda0-09a593ce60e9,56.1230816,13.4138476
-Ramkvilla Golfklubb,Småland,RAMKVILLA,57474.0,Sverige,info@ramkvillagolf.com,317c34c8-8345-409b-b916-edbac1137718,,
+Ramkvilla Golfklubb,Småland,RAMKVILLA,57474.0,Sverige,info@ramkvillagolf.com,317c34c8-8345-409b-b916-edbac1137718,57.2043774,14.9542023
 Kårsta Golfklubb,Örebro,ÖREBRO,70591.0,Sverige,info@karstagk.se,a931d1ea-c999-4bc4-95a0-98735788c7da,59.3505306,15.1987942
-Haverdals Golfklubb,Halland,HAVERDAL,30570.0,Sverige,info@haverdalsgk.se,27ee4b73-ad57-453a-b600-7cf0674e0a46,,
-Vara-Bjertorp Golfklubb,Västergötland,KVÄNUM,53591.0,Sverige,info@vara-bjertorpgk.se,2e8d1ef5-3621-4301-8ad9-4d322287ae43,,
+Haverdals Golfklubb,Halland,HAVERDAL,30570.0,Sverige,info@haverdalsgk.se,27ee4b73-ad57-453a-b600-7cf0674e0a46,56.7283513,12.6708717
+Vara-Bjertorp Golfklubb,Västergötland,KVÄNUM,53591.0,Sverige,info@vara-bjertorpgk.se,2e8d1ef5-3621-4301-8ad9-4d322287ae43,58.3014307,13.1865957
 Mora Golfklubb,Dalarna,MORA,79232.0,Sverige,info@moragk.se,cf0708ee-4fd0-418f-8efd-0b2fd043a426,61.0179385,14.5629283
 Onsjö Golfklubb,,VÄNERSBORG,46242.0,Sverige,info@onsjogk.com,56101ce8-86e9-4605-b018-c87caee9c70d,58.3311775,12.3267047
 Örestads Golfklubb,Skåne,LOMMA,23434.0,Sverige,reception@orestadsgk.com,a86fda95-6323-4a9a-9247-b6eeee736a5a,55.6964209,13.0689416
-Reftele Golfklubb,,REFTELE,33021.0,Sverige,info@reftelegk.com,7cff7b29-605b-45ee-8392-2dea1005938c,,
-Backa Säteri IF,,NÖDINGE,44935.0,Sverige,info@backasaterigolf.se,f0897c67-2dee-46ac-8e81-6bcbca71f966,,
+Reftele Golfklubb,,REFTELE,33021.0,Sverige,info@reftelegk.com,7cff7b29-605b-45ee-8392-2dea1005938c,57.1757575,13.592978
+Backa Säteri IF,,NÖDINGE,44935.0,Sverige,info@backasaterigolf.se,f0897c67-2dee-46ac-8e81-6bcbca71f966,57.893155,12.043306
 Uppvidinge Golfklubb,,KLAVRESTRÖM,36072.0,Sverige,info@uppvidingegk.com,a3e18ee0-9433-43c8-a29c-7c75488f247d,57.144492,15.1534573
 Skogaby Golfklubb,Halland,LAHOLM,31293.0,Sverige,info@skogabygk.se,23004038-5c9f-4780-b72f-cc9f9452ca36,56.5406723,13.1746714
-Flens Golfklubb,,FLEN,64293.0,Sverige,info@flensgk.se,3e17a1ba-d5ba-475b-818a-fa7e7683e080,,
-Gumbalde Resort,,STÅNGA,62315.0,Sverige,info@gumbalde.se,25827b71-0f9f-420d-9dc2-7e5479e82ff9,,
-Åkersberga Golfklubb,Stockholm,ÅKERSBERGA,18433.0,Sverige,kansli@akersbergagk.se,fde392ba-28ed-4459-8fc7-dc0712afa49c,,
-Bollnäs Golfklubb,,KILAFORS,82391.0,Sverige,info@bollnasgk.com,db84bdc3-e9e8-4ac6-a8d1-2aacadf25118,,
+Flens Golfklubb,,FLEN,64293.0,Sverige,info@flensgk.se,3e17a1ba-d5ba-475b-818a-fa7e7683e080,59.05,16.716667
+Gumbalde Resort,,STÅNGA,62315.0,Sverige,info@gumbalde.se,25827b71-0f9f-420d-9dc2-7e5479e82ff9,57.2814458,18.4714278
+Åkersberga Golfklubb,Stockholm,ÅKERSBERGA,18433.0,Sverige,kansli@akersbergagk.se,fde392ba-28ed-4459-8fc7-dc0712afa49c,59.4823516,18.2943981
+Bollnäs Golfklubb,,KILAFORS,82391.0,Sverige,info@bollnasgk.com,db84bdc3-e9e8-4ac6-a8d1-2aacadf25118,61.228627,16.5671181
 Jarlabanke Golfklubb,,TÄBY,18775.0,Sverige,kansli@jarlabankegk.se,36f612aa-c35f-4769-91fa-9de84566e3f1,59.4961802,18.0982368
-Järfälla Golfklubb,,JÄRFÄLLA,17545.0,Sverige,kansli@jarfallagk.se,0231a56a-49bf-41f0-a203-444953a7f9e0,,
-Klosterfjordens Golfklubb,Halland,ÅSKLOSTER,43296.0,Sverige,info@klosterfjordensgk.se,6be6af4b-5ff8-48f2-839c-580709d6b8d1,,
-Degeberga-Widtsköfle Golfklubb,Skåne,VITTSKÖVLE,29791.0,Sverige,info@dwgolfklubb.se,55720987-6a86-4521-b518-32247c0ce9d1,,
-Eda Golfklubb,Värmland,ÅMOTFORS,67396.0,Sverige,kansli@edagk.com,78a441b1-c8ad-434a-81c8-4b2177fb0451,,
-Alfta-Edsbyns Golfklubb,,ALFTA,82222.0,Sverige,kanslist@alfta-edsbyn-gk.se,de783ee9-a767-418e-8ca2-904513dd15cf,,
+Järfälla Golfklubb,,JÄRFÄLLA,17545.0,Sverige,kansli@jarfallagk.se,0231a56a-49bf-41f0-a203-444953a7f9e0,59.4204736,17.8285472
+Klosterfjordens Golfklubb,Halland,ÅSKLOSTER,43296.0,Sverige,info@klosterfjordensgk.se,6be6af4b-5ff8-48f2-839c-580709d6b8d1,57.2186945,12.2213642
+Degeberga-Widtsköfle Golfklubb,Skåne,VITTSKÖVLE,29791.0,Sverige,info@dwgolfklubb.se,55720987-6a86-4521-b518-32247c0ce9d1,55.8573065,14.1473983
+Eda Golfklubb,Värmland,ÅMOTFORS,67396.0,Sverige,kansli@edagk.com,78a441b1-c8ad-434a-81c8-4b2177fb0451,59.7688492,12.3668681
+Alfta-Edsbyns Golfklubb,,ALFTA,82222.0,Sverige,kanslist@alfta-edsbyn-gk.se,de783ee9-a767-418e-8ca2-904513dd15cf,61.3443897,16.0582419
 Tranås Golfklubb,Jönköpings län,TRANÅS,57343.0,Sverige,kansli@tranasgk.se,05cba23e-79ea-46aa-bf53-6b72334bb7aa,58.0499856,15.0028236
 Lycksele Golfklubb,,LYCKSELE,92142.0,Sverige,info@lyckselegolf.se,830459e5-2c57-4fd1-999a-b13500c6e33b,64.6047152,18.6952923
-Björkenäs Golf,,LÖDDEKÖPINGE,24655.0,Sverige,kansli@larssonsgolfbana.se,4ceba632-c9ae-4c23-a7ce-e4f68a984b63,,
+Björkenäs Golf,,LÖDDEKÖPINGE,24655.0,Sverige,kansli@larssonsgolfbana.se,4ceba632-c9ae-4c23-a7ce-e4f68a984b63,55.7632132,13.0003944
 Lindesbergs Golfklubb,,LINDESBERG,71131.0,Sverige,info@lindesbergsgk.se,0e625c76-423a-48ae-bc47-e86fb45495ac,59.5854675,15.2396977
-Skellefteå Golfklubb,Västerbotten,SKELLEFTEÅ,93192.0,Sverige,info@skellefteagolf.se,ee6015d8-6ddc-48a7-a67c-cb2ad1f9a7e2,,
-Ljunghusens Golfklubb,Skåne,HÖLLVIKEN,23642.0,Sverige,info@ljgk.se,bdb66c10-70d6-46d2-bdec-421b4c8596b5,,
+Skellefteå Golfklubb,Västerbotten,SKELLEFTEÅ,93192.0,Sverige,info@skellefteagolf.se,ee6015d8-6ddc-48a7-a67c-cb2ad1f9a7e2,64.7520185,20.959339
+Ljunghusens Golfklubb,Skåne,HÖLLVIKEN,23642.0,Sverige,info@ljgk.se,bdb66c10-70d6-46d2-bdec-421b4c8596b5,55.4137626,12.9632315
 Bosjökloster Golfklubb,Skåne,HÖÖR,24395.0,Sverige,info@bosjoklostergk.se,efa78854-5bbd-4346-acd4-87a2a2da7bf8,55.8826333,13.5293649
-Sigtuna Golfklubb,Uppland,SIGTUNA,19391.0,Sverige,info@sigtunagk.se,b0f61b00-93d4-4534-b390-a0f9aec1f4f8,,
-Funäsfjällens Golfklubb,Jämtland/Härjedalen,LJUSNEDAL,84696.0,Sverige,kansli@funasfjallengolf.se,7fcdfc79-05f1-4f96-9f6c-bc7df51476ba,,
-Eslövs Golfklubb,Skåne,ESLÖV,24193.0,Sverige,info@eslovsgk.se,123b3dfe-4ae4-48f6-855c-2398b9c9cd6a,,
-Katrineholms Golfklubb,,KATRINEHOLM,64193.0,Sverige,info@katrineholmsgolf.se,b1057f34-89ee-49c3-827f-70acb2b9ba4c,,
-Araslöv Golf & Resort,,FÄRLÖV,29175.0,Sverige,info@araslovgolf.se,2aea10cb-a8c6-4e5f-be22-3acb18e8e33f,,
+Sigtuna Golfklubb,Uppland,SIGTUNA,19391.0,Sverige,info@sigtunagk.se,b0f61b00-93d4-4534-b390-a0f9aec1f4f8,59.6165201,17.7236301
+Funäsfjällens Golfklubb,Jämtland/Härjedalen,LJUSNEDAL,84696.0,Sverige,kansli@funasfjallengolf.se,7fcdfc79-05f1-4f96-9f6c-bc7df51476ba,62.5347767,12.6104965
+Eslövs Golfklubb,Skåne,ESLÖV,24193.0,Sverige,info@eslovsgk.se,123b3dfe-4ae4-48f6-855c-2398b9c9cd6a,55.8374959,13.3036265
+Katrineholms Golfklubb,,KATRINEHOLM,64193.0,Sverige,info@katrineholmsgolf.se,b1057f34-89ee-49c3-827f-70acb2b9ba4c,58.9959119,16.2062225
+Araslöv Golf & Resort,,FÄRLÖV,29175.0,Sverige,info@araslovgolf.se,2aea10cb-a8c6-4e5f-be22-3acb18e8e33f,56.0721273,14.0859752
 Ringenäs Golfklubb,,HALMSTAD,30591.0,Sverige,info@ringenas.com,9a031aa6-21f9-4db5-aa66-3918a2c24fd5,56.6872214,12.7184806
-Allerum Golf,,ALLERUM,25476.0,Sverige,info@allerumgk.nu,b83d52c0-b22a-4249-bdc2-329cc525a7af,,
-Norrköping Söderköping Golfklubb,,NORRKÖPING,60597.0,Sverige,info@nsgk.se,d643eb14-cc03-4342-b840-3c83eac32010,,
+Allerum Golf,,ALLERUM,25476.0,Sverige,info@allerumgk.nu,b83d52c0-b22a-4249-bdc2-329cc525a7af,56.1285798,12.6684276
+Norrköping Söderköping Golfklubb,,NORRKÖPING,60597.0,Sverige,info@nsgk.se,d643eb14-cc03-4342-b840-3c83eac32010,58.5909124,16.1903511
 Melleruds Golfklubb,Västra Götaland,MELLERUD,46493.0,Sverige,reception@mellerudsgolfklubb.se,bdc68d48-b92e-42d7-b27e-05d901afd437,58.7018002,12.4829715
 Piteå Golfklubb,,PITEÅ,94141.0,Sverige,info@piteagolf.se,17eb047d-8fe3-43b7-8fe6-4dda92eea8cf,65.3216462,21.5252515
-Mjölkeröds Golfklubb,,TANUMSHEDE,45791.0,Sverige,info@mjolkerodgk.se,630e0bc5-0ba2-41cc-bf00-b2c2eb77efd5,,
-Hofgårds Golfklubb,Halland,ROLFSTORP,43297.0,Sverige,kansli@hofgard.se,9c85d7bc-c434-4014-9bc8-1e8984db4924,,
+Mjölkeröds Golfklubb,,TANUMSHEDE,45791.0,Sverige,info@mjolkerodgk.se,630e0bc5-0ba2-41cc-bf00-b2c2eb77efd5,58.7219089,11.3323854
+Hofgårds Golfklubb,Halland,ROLFSTORP,43297.0,Sverige,kansli@hofgard.se,9c85d7bc-c434-4014-9bc8-1e8984db4924,57.1452538,12.45987
 Alingsås Golfklubb,,ALINGSÅS,44195.0,Sverige,info@alingsasgk.se,5f8e4826-4b55-4f48-a75c-acb461806da9,57.8809519,12.5538071
-Öjestrand Golf Club,,NJURUNDA,86294.0,Sverige,info@ojestrandgc.se,3815f5ac-7b43-4538-ac91-10d616b5c7dd,,
-Österåkers Golfklubb,,ÅKERSBERGA,18492.0,Sverige,kansli@ostgk.se,3523fc39-9e64-4efd-bf66-4c6d8fca4003,,
-Timrå Golfklubb,,FAGERVIK,86032.0,Sverige,info@timragk.se,1f08dc87-8ccc-4901-a5fc-be5b8011e382,,
+Öjestrand Golf Club,,NJURUNDA,86294.0,Sverige,info@ojestrandgc.se,3815f5ac-7b43-4538-ac91-10d616b5c7dd,62.2373632,17.4632778
+Österåkers Golfklubb,,ÅKERSBERGA,18492.0,Sverige,kansli@ostgk.se,3523fc39-9e64-4efd-bf66-4c6d8fca4003,59.4823516,18.2943981
+Timrå Golfklubb,,FAGERVIK,86032.0,Sverige,info@timragk.se,1f08dc87-8ccc-4901-a5fc-be5b8011e382,62.5039131,17.4054718
 Vreta Kloster Golfklubb,,LJUNGSBRO,59075.0,Sverige,info@vkgk.se,3be7a6ac-9bde-4c7e-b515-b74afb817d67,58.5288926,15.512593
-Hallstaviks Golfklubb,,HALLSTAVIK,76330.0,Sverige,info@hallstavikgk.se,ea518905-6c1f-415e-b769-dde7003e47ab,,
+Hallstaviks Golfklubb,,HALLSTAVIK,76330.0,Sverige,info@hallstavikgk.se,ea518905-6c1f-415e-b769-dde7003e47ab,60.0517603,18.5970171
 Dagsholm Golfklubb,,FÄRGELANDA,45892.0,Sverige,info@dagsholmgolf.se,e150ab54-8ed1-4971-88b2-91c856a0fd4c,58.5204182,11.9706221
 Torreby Golfklubb,,MUNKEDAL,45593.0,Sverige,Kansliet@torrebygk.se,a6d6f266-117d-43cc-b216-78358522e4ce,58.4394636,11.5986009
 Växjö Golfklubb,,VÄXJÖ,35260.0,Sverige,klubbchef@vaxjogk.com,74ebf48f-dbad-4d6f-9848-4ce78a02a3ba,56.9019878,14.7747297
-Östersund-Frösö Golfklubb,Jämtland,FRÖSÖN,83296.0,Sverige,info@ofg.nu,f0d1b151-cab2-418d-ba2f-aa832f3e527f,,
+Östersund-Frösö Golfklubb,Jämtland,FRÖSÖN,83296.0,Sverige,info@ofg.nu,f0d1b151-cab2-418d-ba2f-aa832f3e527f,63.1930406,14.534365
 Mölndals Golfklubb,,LINDOME,43791.0,Sverige,reception@molndalsgk.se,aec2dd69-1f7f-42a3-8787-997e7f6c2bea,57.5831267,12.1468945
 Norsjö Golfklubb,Västerbotten,NORSJÖ,93532.0,Sverige,kansli@norsjogk.se,0c4de4a1-00a9-4c0d-a38a-16c8aff388bb,64.9890721,19.4926667
 Tjörns Golfklubb,,KÅLLEKÄRR,47193.0,Sverige,info@tjornsgk.se,403f7641-1f96-4a5c-af03-1eae080fe350,58.0056827,11.6510161
-Flemminge Golfklubb,,BOXHOLM,59012.0,Sverige,kansli@flemmingegolf.se,d049cab6-9929-4d7c-8cd8-5af303701237,,
+Flemminge Golfklubb,,BOXHOLM,59012.0,Sverige,kansli@flemmingegolf.se,d049cab6-9929-4d7c-8cd8-5af303701237,58.166667,15.0
 Mälarö Golfklubb Skytteholm,,EKERÖ,17890.0,Sverige,kansli@malarogk.se,d86adc30-6a71-4ede-9217-40ba1bd959a3,59.3120277,17.6785841
-Troxhammar Golfklubb,,SKÅ,17975.0,Sverige,kansli@troxhammargk.se,5c2b60d7-92b1-4307-b3c5-2007fcb209b8,,
+Troxhammar Golfklubb,,SKÅ,17975.0,Sverige,kansli@troxhammargk.se,5c2b60d7-92b1-4307-b3c5-2007fcb209b8,59.3331158,17.7425032
 Kalmar Golfklubb,,KALMAR,39359.0,Sverige,reception@kalmargk.se,a7bbb6b9-90e5-4d56-8a19-43f3fa9940d4,56.7163527,16.3397441
-Norrfällsvikens Golfklubb,,MJÄLLOM,87031.0,Sverige,info@nvgk.se,827ca629-49b1-4141-a4bb-267048438ec5,,
-Hammarby IF Golfförening,,STOCKHOLM,11635.0,Sverige,info@hammarbygolf.se,fd2b5984-b944-419e-bfa2-d83d9cdc111d,,
+Norrfällsvikens Golfklubb,,MJÄLLOM,87031.0,Sverige,info@nvgk.se,827ca629-49b1-4141-a4bb-267048438ec5,62.9866904,18.4304287
+Hammarby IF Golfförening,,STOCKHOLM,11635.0,Sverige,info@hammarbygolf.se,fd2b5984-b944-419e-bfa2-d83d9cdc111d,59.3251172,18.0710935
 Malmö Burlöv Golfklubb,Skåne,MALMÖ,21227.0,Sverige,golfklubben@mabgk.se,328613ec-a055-45df-8570-8435714d7bb7,55.6180794,13.0737667
-Umeå Norrmjöle Golfklubb,Västerbotten,UMEÅ,90582.0,Sverige,kansli@nmgk.se,330aaf19-374e-49a7-9bac-6e7f0c869565,,
-Björkhagens Golfklubb,,BAGARMOSSEN,12804.0,Sverige,kansli@bjgk.se,9671eb51-cf90-4b6a-bd47-8f2ccc48e579,,
-AIK Golfklubb,,SOLNA,16935.0,Sverige,golf@aik.se,db898993-8dcf-4ce5-a3c0-c07ec4d59b37,,
+Umeå Norrmjöle Golfklubb,Västerbotten,UMEÅ,90582.0,Sverige,kansli@nmgk.se,330aaf19-374e-49a7-9bac-6e7f0c869565,63.8256568,20.2630745
+Björkhagens Golfklubb,,BAGARMOSSEN,12804.0,Sverige,kansli@bjgk.se,9671eb51-cf90-4b6a-bd47-8f2ccc48e579,59.2761858,18.13134
+AIK Golfklubb,,SOLNA,16935.0,Sverige,golf@aik.se,db898993-8dcf-4ce5-a3c0-c07ec4d59b37,59.366667,18.016667
 Kinds Golfklubb,,SVENLJUNGA,51293.0,Sverige,info@kindsgk.se,5aaad466-0b21-48b7-949e-44e2cf6c8548,57.4614162,13.1741463
 Trelleborgs Golfklubb,,TRELLEBORG,23193.0,Sverige,kansli@trelleborgsgk.se,e1356f4b-7dae-41a0-8064-5ed366a01af3,55.3698443,13.0814997
 Eskilstuna Golfklubb,Södermanlands län,ESKILSTUNA,63502.0,Sverige,info@eskilstunagk.se,dce407a4-058f-443c-920d-b133b7faa427,59.3710003,16.5581926
-Ryfors Golfklubb,,MULLSJÖ,56591.0,Sverige,info@ryforsgk.se,0f46bdad-94eb-47bd-809d-8f23db35fc4d,,
-Nya Ullared Flädje Golfklubb,Halland,VESSIGEBRO,31165.0,Sverige,info@fladjegolf.se,012a9ab9-d257-4ab0-acef-778526676d34,,
+Ryfors Golfklubb,,MULLSJÖ,56591.0,Sverige,info@ryforsgk.se,0f46bdad-94eb-47bd-809d-8f23db35fc4d,57.95,13.8
+Nya Ullared Flädje Golfklubb,Halland,VESSIGEBRO,31165.0,Sverige,info@fladjegolf.se,012a9ab9-d257-4ab0-acef-778526676d34,56.9790602,12.6532901
 Bjurholms Golfklubb,,BJURHOLM,91693.0,Sverige,kansliet@bjurholmsgk.se,f2a06aa4-b125-4149-ae14-0ac78e4f7147,63.9654752,19.2031098
-Karlstads Golfklubb,,KARLSTAD,65592.0,Sverige,info@karlstadgk.se,43a293b4-43fa-4066-a752-a286c78939a8,,
-Ölands Golfklubb,,LÖTTORP,38771.0,Sverige,kansli@olandsgk.se,7358bed3-b297-4c86-877a-6868d57ed9c5,,
-Sundsvalls Golfklubb,,KVISSLEBY,86234.0,Sverige,info@sundsvallsgk.se,e8a763c0-b502-49c3-9a5e-58862b32bf47,,
-Snöå Golfklubb,,DALA-JÄRNA,78051.0,Sverige,kansli@snoagk.se,8b654d00-2893-424a-bacf-52a7fa3ab0aa,,
-Furudals-Bruks Golfklubb,,FURUDAL,79597.0,Sverige,info@furudalsgolf.com,5b53a239-493d-4e85-b42c-cc6376347abe,,
+Karlstads Golfklubb,,KARLSTAD,65592.0,Sverige,info@karlstadgk.se,43a293b4-43fa-4066-a752-a286c78939a8,59.3809146,13.5027631
+Ölands Golfklubb,,LÖTTORP,38771.0,Sverige,kansli@olandsgk.se,7358bed3-b297-4c86-877a-6868d57ed9c5,57.1661167,16.9964945
+Sundsvalls Golfklubb,,KVISSLEBY,86234.0,Sverige,info@sundsvallsgk.se,e8a763c0-b502-49c3-9a5e-58862b32bf47,62.2957919,17.3716888
+Snöå Golfklubb,,DALA-JÄRNA,78051.0,Sverige,kansli@snoagk.se,8b654d00-2893-424a-bacf-52a7fa3ab0aa,60.5480476,14.3679875
+Furudals-Bruks Golfklubb,,FURUDAL,79597.0,Sverige,info@furudalsgolf.com,5b53a239-493d-4e85-b42c-cc6376347abe,61.1707998,15.1366774
 Hussborg Golfklubb,,LJUNGAVERK,84010.0,Sverige,golf@hussborg.com,831187ec-3dcd-4e88-8f87-a6d25aeb977a,62.4973815,16.0172762
-Ängelholms Golfklubb,Skåne,MUNKA LJUNGBY,26693.0,Sverige,info@angelholmsgk.se,157b80fa-f269-42a3-aef9-661347297fb6,,
+Ängelholms Golfklubb,Skåne,MUNKA LJUNGBY,26693.0,Sverige,info@angelholmsgk.se,157b80fa-f269-42a3-aef9-661347297fb6,56.2594006,12.9719851
 Lysingsbadets Golfklubb,Småland,VÄSTERVIK,59352.0,Sverige,info@lysingsbadetsgk.se,fce7dc2a-7da7-4583-afb2-f961533f44a6,57.7349349,16.6636586
 Mälarbadens Golfklubb,Södermanland,TORSHÄLLA,64436.0,Sverige,reception@malarbadensgk.se,47364b19-89ad-437d-a2dc-2872aa6e30e1,59.4490788,16.4341408
 Örebro City Golf & Country Club,,ÖREBRO,70594.0,Sverige,mosjo@orebrogolf.se,1bbf51f8-e8ad-4406-8602-1f02954d820c,59.250642,15.2115392
 S:t Arild Golfklubb,,SKÄRET,26372.0,Sverige,golf@starild.se,5e18e1c6-b5d3-44f1-90bc-64fc31917091,56.255058,12.5952312
-Kinda Golfklubb,,KISA,59040.0,Sverige,info@kindagk.se,43bd8715-3972-4986-baca-58c4c681102c,,
-Sotenäs Golfklubb,Bohuslän,HUNNEBOSTRAND,45693.0,Sverige,info@sotenasgolf.se,7c1781ae-b161-45a8-b127-083bee208eb2,,
+Kinda Golfklubb,,KISA,59040.0,Sverige,info@kindagk.se,43bd8715-3972-4986-baca-58c4c681102c,57.9875021,15.622841
+Sotenäs Golfklubb,Bohuslän,HUNNEBOSTRAND,45693.0,Sverige,info@sotenasgolf.se,7c1781ae-b161-45a8-b127-083bee208eb2,58.4412391,11.3010823
 Torshälla Golfklubb,,TORSHÄLLA,64431.0,Sverige,kansli@torshallagk.com,a54eb664-f157-453a-87b5-1b7db97321c6,59.4103358,16.448152
-Stenungsund Golfklubb,Bohuslän,SPEKERÖD,44493.0,Sverige,info@stenungsundgk.se,4bca6fdf-aea9-482b-81f4-f7ef22bdf122,,
-Umeå Sörfors Golfklubb,,UMEÅ,90588.0,Sverige,kansli@sorforsgk.se,7e0193c5-d38d-4b32-a884-17f2d34dfa6c,,
+Stenungsund Golfklubb,Bohuslän,SPEKERÖD,44493.0,Sverige,info@stenungsundgk.se,4bca6fdf-aea9-482b-81f4-f7ef22bdf122,58.0328264,11.8701282
+Umeå Sörfors Golfklubb,,UMEÅ,90588.0,Sverige,kansli@sorforsgk.se,7e0193c5-d38d-4b32-a884-17f2d34dfa6c,63.8256568,20.2630745
 Sörfjärdens Golfklubb,,GNARP,82962.0,Sverige,info@sorfjardensgk.se,c6ec057c-3cdc-4392-a9bf-0dfb065bf5e1,62.0199898,17.3989286
 SAIK Golfklubb,,SANDVIKEN,81152.0,Sverige,info@saikgolf.se,4e3053f4-4fcb-41c7-bdf7-5bc276214418,60.5951241,16.7637507
 Rättviks Golfklubb,,RÄTTVIK,79532.0,Sverige,info@rattviksgk.se,a7723844-f999-44e5-b077-aee87938c196,60.8976663,15.1127375
-Björklidens Golfklubb,,BROMMA,16874.0,Sverige,info@bjorklidensgolfklubb.se,7ec9b7ac-4b0c-46ce-a798-2a277e4524ed,,
-Säters Golfklubb,Dalarnas län,SÄTER,78332.0,Sverige,info@satersgk.se,ba9489e1-808f-4b71-ad4e-a325b647f7e7,,
-Rya Golfklubb,,RYDEBÄCK,25730.0,Sverige,info@rya.nu,e70a3e30-46d2-46e3-abef-daedb4a69313,,
-Lagans Golfklubb,Småland,LAGAN,34152.0,Sverige,kansli@lagansgk.se,944355a9-e995-46de-a106-956b1c43c7ca,,
-Vasatorps Golfklubb,,MÖRARP,25354.0,Sverige,info@vasatorp.golf,ec82da12-bd5d-45af-aedf-e459c3d70e59,,
+Björklidens Golfklubb,,BROMMA,16874.0,Sverige,info@bjorklidensgolfklubb.se,7ec9b7ac-4b0c-46ce-a798-2a277e4524ed,59.339769,17.9395411
+Säters Golfklubb,Dalarnas län,SÄTER,78332.0,Sverige,info@satersgk.se,ba9489e1-808f-4b71-ad4e-a325b647f7e7,60.316667,15.75
+Rya Golfklubb,,RYDEBÄCK,25730.0,Sverige,info@rya.nu,e70a3e30-46d2-46e3-abef-daedb4a69313,55.9664444,12.7806774
+Lagans Golfklubb,Småland,LAGAN,34152.0,Sverige,kansli@lagansgk.se,944355a9-e995-46de-a106-956b1c43c7ca,56.8214995,13.9274631
+Vasatorps Golfklubb,,MÖRARP,25354.0,Sverige,info@vasatorp.golf,ec82da12-bd5d-45af-aedf-e459c3d70e59,56.0567353,12.877454
 Visby Golfklubb,,GOTLANDS TOFTA,62230.0,Sverige,info@visbygk.com,d677144d-252f-4dcc-98ed-44ce68b415c5,57.4454975,18.1285129
 Bråvikens Golfklubb,Östergötland,NORRKÖPING,60591.0,Sverige,info@bragk.se,acac3051-4824-4fdb-80ce-ef129ace97d8,58.6049488,16.3203732
 Hökensås Golfklubb,Västergötland,HJO,54494.0,Sverige,info@hokensasgk.se,e4bc4277-5e4e-4c88-bca1-2eac64896178,58.2502707,14.2167759
-Hagge Golfklubb,,LUDVIKA,77190.0,Sverige,info@haggegk.se,10c9e9ec-35d0-4ff6-9fec-a754fa3a1215,,
+Hagge Golfklubb,,LUDVIKA,77190.0,Sverige,info@haggegk.se,10c9e9ec-35d0-4ff6-9fec-a754fa3a1215,60.2,14.833333
 Partille Golfklubb,,ÖJERSJÖ,43351.0,Sverige,info@partillegk.se,5a851a7a-df87-43f7-a439-01d4300ebc82,57.6918529,12.1083919
 Älmhults Golfklubb,,ÄLMHULT,34390.0,Sverige,info@almhultsgk.se,c92232ee-c58c-4f9c-9da3-6fcf7955c8f6,56.565268,14.1697235
-Bro-Bålsta Golfklubb,,BRO,19791.0,Sverige,susanne.englund@bbgk.se,54cc95f4-0038-4bdf-9b68-9cb1b13c595a,,
-Stjernfors Golfklubb,,KOPPARBERG,71493.0,Sverige,info@stjernforsgk.com,e19d7034-2707-4e23-a143-ef99e03a973c,,
+Bro-Bålsta Golfklubb,,BRO,19791.0,Sverige,susanne.englund@bbgk.se,54cc95f4-0038-4bdf-9b68-9cb1b13c595a,59.514658,17.6426027
+Stjernfors Golfklubb,,KOPPARBERG,71493.0,Sverige,info@stjernforsgk.com,e19d7034-2707-4e23-a143-ef99e03a973c,59.8745061,14.9903848
 Robertsfors Golfklubb,Västerbotten,ROBERTSFORS,91532.0,Sverige,info@robertsforsgk.se,9abbee66-3d20-4417-8510-4c46a0bb8819,64.1810726,20.8761026
 Idrefjällens Golfklubb,,IDRE,79091.0,Sverige,golf@idrefjall.se,3d7be6e0-598c-4ccd-b575-b1f6ba756492,61.879353,12.6928397
 Tegelberga Golfklubb,,TRELLEBORG,23196.0,Sverige,kansli@tegelbergagk.se,7c9d89de-a00e-4f2e-8fd8-86ae75429fdb,55.4584341,13.2314526
-Falun-Borlänge Golfklubb,,FALUN,79193.0,Sverige,info@fbgk.se,fb1564da-c6a4-4e71-bb79-efefc00cf88f,,
+Falun-Borlänge Golfklubb,,FALUN,79193.0,Sverige,info@fbgk.se,fb1564da-c6a4-4e71-bb79-efefc00cf88f,60.6070068,15.6323059
 Uddevalla Golfklubb,,UDDEVALLA,45194.0,Sverige,info@uddevallagk.se,91fe129b-1714-4310-bf67-f45d243b6e58,58.3645059,11.77658
-Tjusta Golf,,ROSERSBERG,19596.0,Sverige,klubben@tjustagolf.se,1a061116-13f8-483d-933c-4cb6e96047de,,
+Tjusta Golf,,ROSERSBERG,19596.0,Sverige,klubben@tjustagolf.se,1a061116-13f8-483d-933c-4cb6e96047de,59.5778633,17.8853319
 Skövde Golfklubb,Västra Götaland,SKÖVDE,54133.0,Sverige,info@skovdegk.se,d0230b7c-cf7a-49c8-9a9a-7a51af431d76,58.3645838,13.8079618
-Hasselabygdens Golfklubb,,HASSELA,82078.0,Sverige,hasselabygdensgk@gmail.com,f956f5ce-9df6-4022-8955-82a609668768,,
+Hasselabygdens Golfklubb,,HASSELA,82078.0,Sverige,hasselabygdensgk@gmail.com,f956f5ce-9df6-4022-8955-82a609668768,62.1082589,16.7114675
 Kungsbacka Golfklubb,Kungsbacka kommun,SÄRÖ,42944.0,Sverige,shop@kungsbackagk.se,da9e80b9-1a08-4066-923d-2b4e0fc9cc2a,57.4914605,11.9802108
 Frösåker Golf & Country Club,,VÄSTERÅS,72597.0,Sverige,info@fgcc.se,043e750a-9432-48d8-a02d-0c4c43a24899,59.5394738,16.7524415
-Holma Stångenäs Golf,Västra Götalands län,BRASTAD,45491.0,Sverige,info@holmagolf.se,79b744a3-3b3b-4574-8335-1f49b99c2b25,,
-Storsjöbygdens Golfklubb,,TANDSBYN,83499.0,Sverige,kansli@sbgolf.se,303697bc-57e6-430d-8ed8-b0615b637eb6,,
-Väddö Golfklubb i Älmsta,Stockholms län,VÄDDÖ,76492.0,Sverige,info@vaddogolf.se,ce5817b1-09a2-49d4-81cb-e22e932aec18,,
-LinksGolf Öland i Grönhögen,Småland,DEGERHAMN,38065.0,Sverige,info@linksgolfoland.se,a090736b-e37b-41d1-8a55-27b9a3747f4b,,
+Holma Stångenäs Golf,Västra Götalands län,BRASTAD,45491.0,Sverige,info@holmagolf.se,79b744a3-3b3b-4574-8335-1f49b99c2b25,58.3820066,11.4851818
+Storsjöbygdens Golfklubb,,TANDSBYN,83499.0,Sverige,kansli@sbgolf.se,303697bc-57e6-430d-8ed8-b0615b637eb6,63.0009228,14.7453133
+Väddö Golfklubb i Älmsta,Stockholms län,VÄDDÖ,76492.0,Sverige,info@vaddogolf.se,ce5817b1-09a2-49d4-81cb-e22e932aec18,59.9674213,18.8596191
+LinksGolf Öland i Grönhögen,Småland,DEGERHAMN,38065.0,Sverige,info@linksgolfoland.se,a090736b-e37b-41d1-8a55-27b9a3747f4b,56.3564029,16.4097883
 Trosa Golfklubb,,TROSA,61992.0,Sverige,info@trosagk.se,494e2a6e-7249-4644-9dcc-c5939618365c,58.886777,17.535503
 Samuelsdals Golfklubb,,FALUN,79161.0,Sverige,samuelsdalgolf@gmail.com,712b9577-d509-4dc2-8fe4-a7cc499eee53,60.580469,15.6222104
 Upsala Golfklubb,Uppland,UPPSALA,75592.0,Sverige,info@upsalagk.se,205d47a4-97c6-48f5-8500-a70f1e778001,59.8412179,17.4966988
 Slite Golfklubb,Gotland,SLITE,62446.0,Sverige,info@slitegk.se,05c565b4-90a9-47c4-8977-b0173669666d,57.7175165,18.7455884
 Karlshamns Golfklubb,,MÖRRUM,37590.0,Sverige,info@karlshamnsgk.com,eeaca02c-4189-42df-a7ac-a11d772c2a3b,56.2093516,14.7666512
 Fågelbro Golf & Country Club,,VÄRMDÖ,13960.0,Sverige,kansli@fagelbrogolf.se,f4002ff5-4b1e-447c-998d-561c421b7ad3,59.2738515,18.5588625
-Allmag Golf & Country Club,,STILLINGSÖN,47292.0,Sverige,info@agcc.se,90f2e97c-6d73-4bd5-beea-562ccf6dd65b,,
-Dalsjö Golfklubb,,BORLÄNGE,78478.0,Sverige,info@dalsjogolf.se,ae6a4c1f-f2fd-4d7a-8135-b6512ce3d738,,
-Bolidens Golfklubb,,BOLIDEN,93692.0,Sverige,info@bolidensgolfklubb.se,7fb922e1-6e69-450e-998a-4e5bd19c1646,,
+Allmag Golf & Country Club,,STILLINGSÖN,47292.0,Sverige,info@agcc.se,90f2e97c-6d73-4bd5-beea-562ccf6dd65b,58.194478,11.8408264
+Dalsjö Golfklubb,,BORLÄNGE,78478.0,Sverige,info@dalsjogolf.se,ae6a4c1f-f2fd-4d7a-8135-b6512ce3d738,60.4856426,15.4234561
+Bolidens Golfklubb,,BOLIDEN,93692.0,Sverige,info@bolidensgolfklubb.se,7fb922e1-6e69-450e-998a-4e5bd19c1646,64.8671772,20.3835784
 Wermdö Golf & Country Club,Stockholm,VÄRMDÖ,13940.0,Sverige,kansli@wermodogolf.se,a34e6689-6164-4aa1-8acf-0139d7f96aae,59.304801,18.4627241
-Älvdalens Golfklubb,,ÄLVDALEN,79690.0,Sverige,golf@alvdalen.nu,c05cc2a8-6cc0-49c2-a5b1-85a794d0e303,,
-Ljusterö Golfklubb,,LJUSTERÖ,18495.0,Sverige,receptionen@ljusterogolf.se,b7d96c03-1444-4979-851f-71a7ba81b91f,,
+Älvdalens Golfklubb,,ÄLVDALEN,79690.0,Sverige,golf@alvdalen.nu,c05cc2a8-6cc0-49c2-a5b1-85a794d0e303,61.333333,13.75
+Ljusterö Golfklubb,,LJUSTERÖ,18495.0,Sverige,receptionen@ljusterogolf.se,b7d96c03-1444-4979-851f-71a7ba81b91f,59.526485,18.6172213
 Leksands Golfklubb,,LEKSAND,79390.0,Sverige,info@leksandsgk.se,0ef8f123-f5a7-41f4-b634-d8a55fb4bee9,60.7485935,15.0350535
